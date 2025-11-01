@@ -1,0 +1,1917 @@
+{
+  "hero": {
+    "labels": {
+      "circledText": "Premium Ajans",
+      "heroImageTextTitle": "FizyoPraksis",
+      "heroImageTextContent": "Premium Klinikler için Dijital Çözümler",
+      "blackTextFeature1": "Premium Web Siteleri",
+      "blackTextFeature2": "Dijital Pazarlama",
+      "blackTextFeature3": "Yazılım Çözümleri",
+      "title": "Premium Klinikler için",
+      "titleShining": "Dijital Mükemmellik",
+      "titleBold": "Kliniğinizi Dönüştürün",
+      "subTitle": "Premium klinikler için olağanüstü dijital deneyimler yaratıyoruz. Etkileyici web sitelerinden güçlü yazılım çözümlerine kadar, dijital alanda öne çıkmanıza yardımcı oluyoruz.",
+      "signUpButton": "Dönüşümünüzü Başlatın",
+      "liveDemo": "Portföyümüzü Görüntüleyin",
+      "startTrustText": "Avrupa'da 100+ Premium Klinik Tarafından Güvenilir"
+    }
+  },
+
+  "mediumBlogsPage": {
+    "title": "En Son Blog Yazılarımız",
+    "readMore": "Devamını Oku"
+  },
+
+  "exampleClient": {
+    "labels": {
+      "exampleClientTextTitle": "Dr. Mert Birancı",
+      "exampleClientTextContent": "DtMert.com Kurucusu",
+      "exampleClientTitle": "Müşterilerimizin Başarı Hikayeleri",
+      "exampleClientContent": "Dr. Mert'in pratiğini bizimle nasıl dönüştürdüğünü öğrenin.",
+      "buttonText": "Dr. Mert'in Başarı Hikayesi"
+    }
+  },
+
+  "header": {
+    "title": "Dentlio",
+    "labels": {
+      "signUpButton": "Şimdi Talep Et",
+      "loginButton": "Giriş Yap",
+      "language": "Dil"
+    },
+    "aria": {
+      "toggleNavigation": "Navigasyonu Aç/Kapat"
+    }
+  },
+
+  "nav": {
+    "homepage": "Ana Sayfa",
+    "services": "Hizmetler",
+    "implant": "İmplant",
+    "hollywoodSmile": "Hollywood Smile",
+    "hollywoodSmileSubLabel": "Mükemmel Gülümseme Tasarımları",
+    "implantSublabel": "Güvenilir İmplant Çözümleri",
+    "veneers": "Veneer",
+    "veneersSublabel": "Premium Veneer Hizmetleri",
+    "zirconium": "Zirkonya",
+    "zirconiumSublabel": "Dayanıklı Zirkonya Tedavileri",
+    "pricing": "Fiyatlandırma",
+    "blog": "Blog",
+    "about": "Hakkımızda"
+  },
+
+  "brands": {
+    "labels": {
+      "title": "Ortaklarımız"
+    }
+  },
+
+  "explainMore": {
+    "text": "Gelişmiş dijital varlık ile pratiğinizin ROI'sini artırın. Hastaları çekmek ve elde tutmak, operasyonlarınızı optimize etmek ve diş hekimliği pratiğinizi yeni zirvelere çıkarmak için modern teknolojiyi kullanın.",
+    "button": "Daha Fazla Bilgi",
+    "check": "Kontrol Et",
+    "explore": "Keşfet"
+  },
+
+  "fourImages": {
+    "labels": {
+      "step1": "Ulaş",
+      "step2": "Kazan",
+      "step3": "İyileştir",
+      "step4": "Başarılı Ol",
+      "startText1": "Dijital yolculuğunuzu başlatın",
+      "finishText1": "Parlak bir başarı ile",
+      "finishText2": "bitirin"
+    }
+  },
+
+  "rotatingTestimonial": {
+    "labels": {
+      "bestComment": "Fantastik İşbirliği!",
+      "amountOfComments": "100+ değerlendirmeye dayanmaktadır.",
+      "title": "Müşterilerimiz Ne Diyor",
+      "quotePerson": "Ayşe K., Memnun Hasta"
+    }
+  },
+
+  "singleTestimonial": {
+    "labels": {
+      "title": "Sadece web sitesi yapmıyoruz, herkes bunu yapabilir, geleceğin markalarını yaratıyoruz - birlikte.",
+      "quotePerson": "Ege O., Dentlio"
+    }
+  },
+
+  "singleFeatureRightImage": {
+    "labels": {
+      "title": "Pratiğiniz İçin Özel Çözümler",
+      "details": "Diş hekimliği pratiklerinin benzersiz gereksinimlerini anlıyor ve ihtiyaçlarınıza göre özelleştirilmiş hedefli dijital çözümler geliştiriyoruz."
+    }
+  },
+
+  "singleFeatureLeftImage": {
+    "labels": {
+      "title": "Deneyim ve Uzmanlık",
+      "details": "Diş hekimliği pratikleri alanında yılların deneyimi ile pratiğinizi öne çıkaracak kapsamlı web tasarım ve pazarlama çözümleri sunuyoruz."
+    }
+  },
+
+  "howitworks": {
+    "labels": {
+      "title": "Nasıl Çalışır",
+      "try": "Pratiğinizi dijital olarak dönüştürün",
+      "quotePerson": "Dr. Mert, DtMert.com Kurucusu",
+      "firstStepTitle": "Danışmanlık ve Planlama",
+      "firstStepContent": "Pratik ihtiyaçlarınızı analiz ediyor ve hedeflerinize tam olarak uygun özelleştirilmiş bir konsept geliştiriyoruz.",
+      "secondStepTitle": "Tasarım ve Uygulama",
+      "secondStepContent": "Ekibimiz konsepti hayata geçirir, benzersiz bir tasarım oluşturur ve sorunsuz teknik uygulama sağlar.",
+      "thirdStepTitle": "Başlatma ve Destek",
+      "thirdStepContent": "Web sitenizin başlatılmasından sonra, pratiğinizin her zaman optimal şekilde sunulduğundan emin olmak için sürekli destek sağlıyoruz."
+    }
+  },
+
+  "threeFeaturesWhy": {
+    "labels": {
+      "why": "Neden Dentlio?",
+      "firstStepTitle": "Premium Web Siteleri",
+      "firstStepContent": "Web sitelerimiz pratiğinizi optimal şekilde sunmak ve daha fazla hasta çekmek için tasarlanmıştır.",
+      "secondStepTitle": "Entegre Takvim Uygulaması",
+      "secondStepTitle": "Entegre Takvim Uygulaması",
+      "secondStepContent": "Diş hekimliği pratiğiniz için her zaman kullanılabilir olan kullanıcı dostu takvim uygulamamızla pratikler için randevu planlamasını basitleştirin.",
+      "thirdStepTitle": "Otomatik CRM",
+      "thirdStepContent": "Kişiselleştirilmiş iletişimi otomatikleştirmenize ve daha verimli çalışmanıza yardımcı olan CRM'imizle hasta bağlılığını güçlendirin."
+    }
+  },
+
+  "threeBoxes": {
+    "labels": {
+      "title": "Hizmetlerimize Genel Bakış",
+      "firstStepTitle": "Uzman Danışmanlık",
+      "firstStepContent": "Deneyimli ekibimiz pratiğiniz için bireysel danışmanlık ve özelleştirilmiş çözümler sunar.",
+      "secondStepTitle": "En Modern Teknolojiler",
+      "secondStepContent": "Pratiğinizi başarılı bir şekilde online sunmak için en son teknolojileri kullanıyoruz.",
+      "thirdStepTitle": "Birinci Sınıf Destek",
+      "thirdStepContent": "Planlamadan başlatmaya ve ötesine kadar size eşlik ediyor, pratiğinizin her zaman zirvede kalmasını sağlıyoruz."
+    }
+  },
+
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "whatIsIt": "Dentlio ne sunuyor?",
+    "whatIsItContent": "Dentlio, özellikle diş hekimliği pratikleri için premium web siteleri, SEO optimizasyonu ve entegre takvim uygulaması dahil olmak üzere kapsamlı dijital çözümler sunar.",
+    "howArePagesCustomized": "Çözümler nasıl bireyselleştirilir?",
+    "howArePagesCustomizedContent": "Pratiğinizin ayrıntılı danışmanlık ve analizi temelinde özelleştirilmiş çözümler oluşturuyoruz.",
+    "howToGetStarted": "Nasıl başlayabilirim?",
+    "howToGetStartedContent": "Ücretsiz danışmanlık talep edin. İhtiyaçlarınızı görüşür ve pratiğinizi dijital olarak dönüştürmek için bir plan geliştiririz.",
+    "howDoesItWork": "Hizmet nasıl çalışır?",
+    "howDoesItWorkContent": "Danışmanlıktan tasarıma ve web sitenizin başlatılmasından sonra sürekli desteğe kadar açık yapılandırılmış bir süreç sunuyoruz.",
+    "howIsPaymentMade": "Ödeme nasıl yapılır?",
+    "howIsPaymentMadeContent": "Ödemeler kredi kartı veya banka havalesi ile güvenli bir şekilde yapılabilir. Tüm işlemler en modern güvenlik standartları ile korunur.",
+    "howToChangeDoctor": "Bilgilerimi nasıl güncelleyebilirim?",
+    "howToChangeDoctorContent": "Hesabınıza giriş yapın ve platformumuz üzerinden bilgilerinizi basit ve hızlı bir şekilde güncelleyin.",
+    "howToChangeLandingpage": "Hizmet planımı değiştirebilir miyim?",
+    "howToChangeLandingPageContent": "Evet, hizmet planınızı istediğiniz zaman ayarlayabilirsiniz. Değişiklikleri yapmak için bizimle iletişime geçmeniz yeterli."
+  },
+
+  "why": {
+    "labels": {
+      "firstTitle": "Neden Dentlio?",
+      "firstContent": "Dentlio pratiğinizin tüm dijital gereksinimleri için sorunsuz, sezgisel bir çözüm sunar. Hizmetlerimiz pratiğinizi daha verimli hale getirmek ve daha fazla hasta kazanmak için tasarlanmıştır.",
+      "secondTitle": "Başarı Garantili",
+      "secondContent": "Müşterilerimiz hasta bağlılığında ve pratiğin genel performansında ölçülebilir iyileşmeler yaşar."
+    }
+  },
+
+  "joinUs": {
+    "labels": {
+      "button": "Şimdi Katıl",
+      "titleText": "Birlikte",
+      "firstText": "güven inşa ederiz.",
+      "secondText": "pratiğinizi güçlendiririz.",
+      "thirdText": "zorlukları aşarız.",
+      "fourthText": "hizmetlerinizi iyileştiririz.",
+      "fifthText": "verimsizlikleri ortadan kaldırırız.",
+      "bookNow": "Ücretsiz Danışmanlık Talep Et",
+      "call": "Şimdi Ara",
+      "firstTitle": "Dentlio Ailesinin Bir Parçası Olun",
+      "firstContent": "Dentlio, pratiğinizi bir sonraki seviyeye taşıyan modern, etkili çözümler sunar. Birlikte dijital varlığınızı optimize edelim."
+    }
+  },
+
+  "about": {
+    "title": "Dentlio Hakkında",
+    "welcome": "Dentlio'ya Hoş Geldiniz",
+    "aboutUsTitle": "Hakkımızda",
+    "aboutUsContent": "Dentlio, diş hekimliği pratikleri için dijital çözümlerde uzmanlaşmıştır. Hizmetlerimiz olağanüstü bir online varlık oluşturmanıza ve pratiğinizi daha verimli hale getirmenize yardımcı olur.",
+    "missionTitle": "Misyonumuz",
+    "missionContent": "Misyonumuz, diş hekimliği pratiklerinin pratik performansını ve hasta bağlılığını iyileştirmek için en iyi dijital çözümleri sunmaktır.",
+    "visionTitle": "Vizyonumuz",
+    "visionContent": "Her diş hekimliği pratiğinin tam potansiyelini ortaya çıkarabilmesini istiyoruz. Dentlio, diş hekimliğinde inovasyon ve mükemmellik anlamına gelir."
+  },
+
+  "login": {
+    "cardTitle": "Pratiğinizi Güçlendirin",
+    "cardSubtitle": "Dentlio'nun kapsamlı çözümleri ile",
+    "you": "SİZ",
+    "welcomeBackTitle": "Tekrar Hoş Geldiniz",
+    "welcomeBackContent": "Tekrar burada olmanız harika! Pratiğinizi Dentlio ile güçlendirmeye devam etmek için giriş yapın."
+  },
+
+  "register": {
+    "welcomeTitle": "Yeni Hesap Oluştur",
+    "welcomeSubtitle": "Dentlio'ya katılın ve pratiğinizi bugün dönüştürün."
+  },
+
+  "maps": {
+    "labels": {
+      "headerTitle": "Daha fazla bilgi için bizimle iletişime geçin",
+      "title": "İstediğiniz zaman bizi ziyaret edin",
+      "namePlaceholder": "Lütfen adınızı girin",
+      "emailPlaceholder": "Lütfen e-posta adresinizi girin",
+      "messagePlaceholder": "Lütfen mesajınızı girin",
+      "name": "Ad",
+      "email": "E-posta",
+      "message": "Mesaj",
+      "sendButton": "Mesaj Gönder"
+    }
+  },
+
+  "fourInfoBox": {
+    "labels": {
+      "firstTitle": "İstediğiniz zaman bizi ziyaret edin",
+      "firstContent": "Zeki Yavaş Sk. No:2/2, Fuat Edip Baksı, 35530 Bayraklı/İzmir",
+      "text1": "Pzt-Cum : 9:30 – 19:30",
+      "text22": "Cmt : 9:30 – 13:30",
+      "text3": "mertbiranci@gmail.com",
+      "text4": "+90 532 390 35 96"
+    }
+  },
+
+  "general": {
+    "mail": "E-posta Adresi",
+    "password": "Şifre",
+    "login": "Giriş Yap",
+    "register": "Yeni Hesap Oluştur",
+    "privacyPolicy": "Dentlio'yu kullanarak gizlilik politikamızı ve şartlar ve koşullarımızı kabul etmiş olursunuz.",
+    "or": "Veya",
+    "googleLogin": "Google ile Giriş Yap",
+    "googleSignUp": "Google ile Kayıt Ol",
+    "alreadyHaveAnAccount": "Zaten hesabım var?",
+    "createAccount": "Yeni Hesap Oluştur",
+    "back": "Geri Dön"
+  },
+
+  "footer": {
+    "labels": {
+      "blog": "Blog",
+      "features": "Hizmetler",
+      "firstFeature": "Hakkımızda",
+      "secondFeature": "Medikal Turizm",
+      "thirdFeature": "Fiyatlandırma",
+      "fourthFeature": "Zirkonya",
+      "fifthFeature": "Diş Beyazlatma",
+      "sixthFeature": "Estetik Diş Hekimliği",
+      "sources": "Kaynaklar",
+      "FAQ": "Sıkça Sorulan Sorular",
+      "security": "Güvenlik",
+      "about": "Hakkımızda",
+      "contact": "İletişim"
+    }
+  },
+
+  "greetingTextChat": {
+    "labels": {
+      "title": "Merhaba 👋, ben Ege, Dentlio'nun kurucu ortağıyım. Pratiğinizi dijital bir başarı hikayesine dönüştürelim. Sadece formu doldurun, ben size ulaşacağım 😊"
+    }
+  },
+
+  "chatWithMeComponent": {
+    "labels": {
+      "title": "Başka sorunuz var mı? Şimdi benimle sohbet edin. Size yardımcı olmaktan ve bir sonraki adımınızı planlamaktan mutluluk duyarım.",
+      "buttonText": "Şimdi Sohbet Et"
+    }
+  },
+
+  "questionnaireComponent": {
+    "labels": {
+      "contactRequestSuccessMessage": "Size ulaşacağız, bu arada blogları okuyabilirsiniz.",
+      "successMessageTitle": "Bizimle iletişime geçtiğiniz için teşekkürler!",
+      "goToBlogSection": "Blog Bölümüne Git",
+      "headerTitle": "Daha fazla bilgi için bizimle iletişime geçin",
+      "back": "Geri",
+      "save": "Gönder",
+      "next": "İleri"
+    }
+  },
+
+  "calendar": {
+    "title": "Takvim",
+    "instructions": "Lütfen önce müsait olduğunuz tarihi seçin, ardından zaman dilimini seçin.",
+    "datePickerLabel": "Tarih ve Saat Tercihi",
+    "submitButton": "Tercihleri Uzmana Gönder",
+    "nameLabel": "Adınız",
+    "surnameLabel": "Soyadınız",
+    "emailLabel": "E-posta Adresiniz",
+    "phoneLabel": "Telefon Numaranız",
+    "passwordLabel": "Şifreniz"
+  },
+
+  "process": {
+    "title": "Süreç",
+    "subtitle": "Yolculuğunuz Hakkında",
+    "description1": "Süreç başlamadan önce, size en uygun üç tarihe kadar seçebilirsiniz, bu da uzmanınızla buluşma olasılığını artırır.",
+    "description2": "'Tercihleri Gönder' butonuna tıkladığınızda randevu tercihleriniz uzmanınıza gönderilir ve en kısa sürede e-posta ile onay alırsınız.",
+    "description3": "Randevu onaylandıktan sonra, detayları 'Randevularım' sekmesinde görüntüleyebilirsiniz."
+  },
+
+  "pricing": {
+    "title": "Fiyatlandırma",
+    "starterPlan": "Başlangıç Planı",
+    "idealForSmallPractices": "Küçük pratikler için ideal",
+    "perTime": "aylık",
+    "signUpNow": "Şimdi Talep Et",
+    "growthPlan": "Büyüme Planı",
+    "enterprisePlan": "Kurumsal Plan",
+    "startFreeTrial": "Şimdi Talep Et",
+    "lowPrice": {
+      "price": "39",
+      "currency": "€",
+      "feature1": "Modern Web Sitesi",
+      "feature2": "SEO Optimizasyonu",
+      "feature3": "Google Maps Entegrasyonu",
+      "feature4": "Form Oluşturucu"
+    },
+    "premiumPrice": {
+      "price": "69",
+      "currency": "€",
+      "feature1": "Modern Web Sitesi",
+      "feature2": "Gelişmiş SEO Optimizasyonu",
+      "feature3": "Google Maps Entegrasyonu",
+      "feature4": "5 Diş Hekimi için Takvim Uygulaması",
+      "feature5": "Otomatik SMS/E-posta Hatırlatmaları",
+      "feature6": "Form Oluşturucu"
+    },
+    "enterprisePrice": {
+      "price": "159",
+      "currency": "€",
+      "feature1": "Premium Plandaki Her Şey",
+      "feature2": "Tam CRM Entegrasyonu",
+      "feature3": "Özelleştirilmiş Web Sitesi Tasarımı",
+      "feature4": "∞ Diş Hekimi için Gelişmiş Takvim",
+      "feature5": "Pratik Yönetim Uygulaması",
+      "feature6": "Özel Hesap Yöneticisi"
+    }
+  },
+
+  "testimonials": [
+    {
+      "time": "28.03.2024",
+      "personName": "Dr. Emre Y.",
+      "Comment": "Dentlio pratiğimi tamamen modernleştirdi. Yeni web sitesi hızlı, takvim uygulaması kullanıcı dostu ve müşteri hizmetleri mükemmel. Kesinlikle tavsiye ederim!"
+    },
+    {
+      "time": "25.03.2024",
+      "personName": "Dr. Pınar T.",
+      "Comment": "Dentlio sayesinde hasta randevu planlamam artık daha verimli. SEO hizmetleri de online görünürlüğümü önemli ölçüde artırdı."
+    },
+    {
+      "time": "24.03.2024",
+      "personName": "Dr. Kerem O.",
+      "Comment": "Dentlio'nun çözümleri pratiğimi dönüştürdü. Otomatik CRM hasta sadakatini iyileştirdi ve genel hizmet birinci sınıf."
+    },
+    {
+      "time": "24.03.2024",
+      "personName": "Dr. Ayşe K.",
+      "Comment": "Dentlio ekibi çok profesyonel ve detaylara önem veriyor. Hizmetleri pratiğime çok yardımcı oldu ve onları kesinlikle tavsiye ederim."
+    },
+    {
+      "time": "20.03.2024",
+      "personName": "Dr. John S.",
+      "Comment": "Hastalarım yeni online rezervasyon sistemini seviyor. Sorunsuz ve randevu iptal oranını azalttı. Dentlio'nun desteği fantastik!"
+    },
+    {
+      "time": "18.03.2024",
+      "personName": "Dr. Anna B.",
+      "Comment": "Dentlio online varlığımızı gerçekten iyileştirdi. Hızlı web sitesi ve etkili SEO stratejileri daha fazla hasta getirdi."
+    },
+    {
+      "time": "15.03.2024",
+      "personName": "Dr. Hakan B.",
+      "Comment": "Otomatik CRM hasta iletişimini yönetmeyi çok kolay hale getirdi. Dentlio ekibi her zaman yardım etmeye hazır."
+    },
+    {
+      "time": "12.03.2024",
+      "personName": "Dr. Zeynep T.",
+      "Comment": "Dentlio'nun detaylara verdiği önemden etkilendim. Web sitemiz profesyonel görünüyor ve takvim uygulaması oyun değiştirici."
+    },
+    {
+      "time": "10.03.2024",
+      "personName": "Dr. Can D.",
+      "Comment": "Dentlio'nun hizmetleri beklentilerimi aştı. Entegre takvim ve CRM operasyonlarımızı kolaylaştırdı."
+    },
+    {
+      "time": "08.03.2024",
+      "personName": "Dr. Leyla K.",
+      "Comment": "SEO optimizasyonu arama motoru sıralamalarımızı önemli ölçüde iyileştirdi. Dentlio'nun çözümleri son derece etkili."
+    },
+    {
+      "time": "05.03.2024",
+      "personName": "Dr. Ali R.",
+      "Comment": "Dentlio ekibi profesyonel ve duyarlı. Yeni web sitemiz ve otomatik sistemlerimiz pratiğimizde olumlu etki yarattı."
+    },
+    {
+      "time": "03.03.2024",
+      "personName": "Dr. Fatma E.",
+      "Comment": "Dentlio'nun takvim uygulaması sezgisel ve kullanımı kolay. Hastalarımız online rezervasyonun rahatlığını takdir ediyor."
+    },
+    {
+      "time": "01.03.2024",
+      "personName": "Dr. Ahmet K.",
+      "Comment": "Modern web sitesi ve SEO hizmetleri pratiğimize daha fazla trafik getirdi. Dentlio'nun desteği olağanüstü."
+    },
+    {
+      "time": "28.02.2024",
+      "personName": "Dr. Selin Y.",
+      "Comment": "Dentlio'nun hizmetlerinden son derece memnunum. Otomatik CRM güçlü hasta ilişkileri sürdürmemize yardımcı oldu."
+    },
+    {
+      "time": "25.02.2024",
+      "personName": "Dr. Murat C.",
+      "Comment": "Dentlio'nun çözümleri ihtiyaçlarımıza göre özelleştirilmiş. Yeni web sitesi ve takvim uygulaması verimliliğimizi artırdı."
+    },
+    {
+      "time": "22.02.2024",
+      "personName": "Dr. Julia H.",
+      "Comment": "Online varlığımız hiç bu kadar iyi olmamıştı. Dentlio'nun sağladığı profesyonel web sitesi ve SEO hizmetleri mükemmel."
+    },
+    {
+      "time": "19.02.2024",
+      "personName": "Dr. Thomas M.",
+      "Comment": "Dentlio'nun takvim uygulaması randevu planlama sürecimizi kolaylaştırdı, hastaların online randevu almasını kolaylaştırdı."
+    },
+    {
+      "time": "17.02.2024",
+      "personName": "Dr. Laura W.",
+      "Comment": "Dentlio ekibi adanmış ve profesyonel. Hizmetleri pratiğimizin performansını önemli ölçüde iyileştirdi."
+    },
+    {
+      "time": "14.02.2024",
+      "personName": "Dr. Mehmet Z.",
+      "Comment": "Dentlio'nun otomatik CRM sistemi hasta iletişimini yönetmeyi çok daha kolay hale getirdi. Kesinlikle tavsiye ederim!"
+    },
+    {
+      "time": "11.02.2024",
+      "personName": "Dr. Emma F.",
+      "Comment": "Dentlio sayesinde web sitemiz fantastik görünüyor ve yüksek işlevselliğe sahip. SEO hizmetleri her zamankinden daha fazla hasta getirdi."
+    },
+    {
+      "time": "09.02.2024",
+      "personName": "Dr. Hasan N.",
+      "Comment": "Dentlio'nun kapsamlı çözümleri pratiğimizi modernleştirdi. Özellikle takvim uygulaması ve otomatik CRM değerli."
+    },
+    {
+      "time": "06.02.2024",
+      "personName": "Dr. Lisa P.",
+      "Comment": "Dentlio ekibi mükemmel hizmet sağladı. Yeni web sitemiz hızlı ve kullanıcı dostu, SEO optimizasyonu mükemmel."
+    },
+    {
+      "time": "04.02.2024",
+      "personName": "Dr. Oliver R.",
+      "Comment": "Dentlio'nun hizmetlerinden çok memnunum. Entegre takvim sistemi ve otomatik CRM operasyonlarımızı kolaylaştırdı."
+    },
+    {
+      "time": "02.02.2024",
+      "personName": "Dr. Sophie K.",
+      "Comment": "Dentlio'nun profesyonel yaklaşımı ve etkili çözümleri pratiğimize önemli ölçüde yardımcı oldu. Kesinlikle tavsiye ederim!"
+    }
+  ],
+
+  "additionalServices": {
+    "title": "Ek Hizmetler",
+    "subtitle": "Premium eklentilerimizle web sitenizin değerini artırın",
+    "scheduling": {
+      "title": "Akıllı Randevu Planlayıcı",
+      "description": "Akıllı randevu planlayıcımız hastalarınızın ihtiyaçlarını anlar ve pratik akışınızı optimize eder."
+    },
+    "clientAcceptance": {
+      "title": "Dijital Hasta Kabulü",
+      "description": "Hasta kabul süreci ve onay beyanları için dijital widget'ımızla kabul sürecini basitleştirin."
+    },
+    "reminder": {
+      "title": "Hatırlatma Sistemi",
+      "description": "Onay işlevli otomatik hatırlatma sistemimizle randevu iptallerini azaltın."
+    },
+    "digitalAnamnese": {
+      "title": "Dijital Anamnez",
+      "description": "Anamnez sürecini dijitalleştirin, evrak işlerini azaltın ve dijital anamnez formlarımızla hasta deneyimini iyileştirin."
+    },
+    "learnMore": "Daha Fazla Bilgi"
+  },
+
+  "expertsPage": {
+    "heroTitle": "Fizyoterapistlerimiz",
+    "heroDescription": "Sağlığınıza kavuşmanızda yanınızda olan uzman fizyoterapist kadromuzla tanışın. Her biri alanında uzmanlaşmış profesyonellerden oluşan ekibimiz, sizi sağlıklı yaşam yolculuğunuzda desteklemek için burada.",
+    "approachSubtitle": "Profesyonel Ekibimiz",
+    "approachTitle": "Uzmanlarımız",
+    "approachDescription": "Sağlığınıza kavuşmanızda yanınızda olan uzman fizyoterapist kadromuzla tanışın. Her biri alanında uzmanlaşmış profesyonellerden oluşan ekibimiz, sizi sağlıklı yaşam yolculuğunuzda desteklemek için burada.",
+    "experts": {
+      "asli": {
+        "name": "Aslı Tunçalp Özçelik",
+        "title": "Kurucu, Fizyoterapist",
+        "bio": "Bahçeşehir Üniversitesi'nden 2020'de bölüm üçüncüsü olarak mezun olmuştur. Meslek hayatında 5. yılında olup birçok eğitime katılmış ve katılmaya devam etmektedir. Şuan asıl alanı olarak Schroth terapistidir ve osteopati eğitimi almaktadır. FizyoPraksis danışmanlık merkezi kurucusudur.",
+        "certifications": [
+          "PSSE-SCHROTH METHOD",
+          "POSTÜR KOREKSİYON EĞİTİMİ",
+          "OMURGA PATOLOJİLERİNDE GÖRÜNTÜLEME EĞİTİMİ"
+        ]
+      },
+      "bengisu": {
+        "name": "Bengisu Buldak",
+        "title": "Fizyoterapist",
+        "bio": "İzmir Tınaz Tepe Üniversitesi Fizyoterapi ve Rehabilitasyon bölümü mezunudur. Manuel terapi, reformer pilates ve fizyoterapi alanlarında hizmet vermektedir.",
+        "certifications": [
+          "Manuel Terapi-DBE Academy",
+          "Reformer Pılates-KP Academy",
+          "Osteopathy-İFAO"
+        ]
+      },
+      "gozde": {
+        "name": "Gözde Kahraman",
+        "title": "Fizyoterapist",
+        "bio": "Dokuz Eylül Fizyoterapi ve Rehabilitasyon mezunu. Klinik Pilates, manuel terapi ve terapötik egzersiz alanlarında hizmet vermektedir.",
+        "certifications": [
+          "KLİNİK PİLATES EĞİTİMİ VE OSTEOPATHİC MANUAL THERAPHY EĞİTİMİ"
+        ]
+      }
+    },
+    "finalCtaTitle": "Uzmanlarımızla Tanışmak İster misiniz?",
+    "finalCtaDescription": "Sağlığınız için en uygun uzmanımızla tanışmak ve detaylı bilgi almak için hemen iletişime geçin."
+  },
+
+  "contactForm": {
+    "intro": "Dentlio ile şimdi başlayın ve diş hekimliği pratiğinizi dijitalleştirin. Formu doldurun, ekibimiz derhal sizinle iletişime geçecek.",
+    "messageSent": "Mesaj gönderildi!",
+    "loading": "Gönderiliyor..."
+  },
+
+  "fizyopraksis": {
+    "common": {
+      "siteName": "FizyoPraksis",
+      "tagline": "Güzelbahçe Fizyoterapi Merkezi",
+      "phone": "+90 545 673 05 09",
+      "email": "bilgi@fizyopraksis.com",
+      "address": "Yelki, İnönü Cd. No:28/2, 35310 Güzelbahçe/İzmir",
+      "contactUs": "Daha Fazla Bilgi İçin Bize Ulaşın",
+      "language": "Dil",
+      "contact": "İletişim",
+      "whatsappTooltip": "Bize WhatsApp'tan Ulaşın",
+      "whatsappLabel": "WhatsApp ile İletişim"
+    },
+    "nav": {
+      "home": "Ana Sayfa",
+      "services": "Hizmetlerimiz",
+      "about": "Hakkımızda",
+      "experts": "Uzmanlarımız",
+      "testimonials": "Yorumlar",
+      "faq": "SSS"
+    },
+    "aria": {
+      "openMenu": "Menüyü Aç"
+    },
+    "hero": {
+      "title": "Sağlıklı ve Aktif Bir Yaşam İçin",
+      "titleHighlight": "Güzelbahçe Fizyoterapi Merkezi",
+      "subtitle": "Uzman kadromuz ile ortopedik ve nörolojik problemlerinize özel çözümler sunuyoruz.",
+      "ctaButton": "Randevu Al",
+      "learnMoreButton": "Daha Fazla Bilgi",
+      "clinicRanking": "#1 Fizyoterapi Merkezi",
+      "videoButton": "Tanıtım Videosu",
+      "features": {
+        "expertPhysiotherapists": "Uzman Fizyoterapistler",
+        "modernTechniques": "Güncel Yaklaşımlar",
+        "personalizedTreatment": "Kişiye Özel Tedavi"
+      },
+      "workingHours": "Pzt-Cm: 09:00-19:00",
+      "video": {
+        "exploreClinic": "Kliniğimizi Keşfedin",
+        "virtualTour": "Sanal tur ve tanıtım videosu",
+        "quality": "HD",
+        "duration": "0:45"
+      },
+      "stats": {
+        "rating": "4.9",
+        "reviews": "200+ Değerlendirme",
+        "experience": "8+ Yıllık Deneyim",
+        "expertTeam": "Alanında uzman fizyoterapistler"
+      }
+    },
+    "about": {
+      "title": "Hakkımızda",
+      "subtitle": "Güzelbahçe Fizyoterapi Merkezi",
+      "story": "FizyoPraksis, İzmir'de hizmet veren, alanında uzman fizyoterapistlerden oluşan profesyonel bir ekiple çalışan modern bir fizyoterapi merkezidir. Hastalarımızın sağlığı ve konforu bizim önceliğimizdir.",
+      "missiontitle": "Misyonumuz",
+      "missioncontent": "Her hastamıza özel, bilimsel temelli ve modern yaklaşımlarla en etkili tedavi yöntemlerini sunarak yaşam kalitelerini artırmak ve sağlıklı bir yaşam sürmelerine yardımcı olmaktır.",
+      "visiontitle": "Vizyonumuz",
+      "visioncontent": "Fizyoterapi alanında güncel yaklaşımlarla entegre, hasta memnuniyetinde öncü ve sürekli gelişen bir sağlık merkezi olarak çözümler sunuyoruz.",
+      "features": {
+        "expertTeam": "Uzman Kadro",
+        "certifiedService": "Sertifikalı Hizmet",
+        "happyPatients": "Mutlu Hastalar",
+        "qualityEquipment": "Kaliteli Ekipman"
+      },
+      "experience": {
+        "title": "Deneyim",
+        "years": "5+ Yıl"
+      },
+      "quote": {
+        "text": "Fizyoterapi sadece tedavi değil, yaşam kalitesini artıran bir yolculuktur.",
+        "author": "Aslı Tunçalp Özçelik"
+      },
+      "learnMore": "Daha Fazla Bilgi"
+    },
+    "services": {
+      "title": "Hizmetlerimiz",
+      "subtitle": "Tedavi Hizmetlerimiz",
+      "viewAllButton": "Tüm Hizmetlerimizi İnceleyin",
+      "bookAppointment": "Randevu Al",
+      "viewDetails": "Detayları Gör",
+      "treatedConditions": "Tedavi Edilen Durumlar",
+      "applicationAreas": "Uygulama Alanları",
+      "treatmentMethods": "Tedavi Yöntemleri",
+      "frequentlyAskedQuestions": "Sıkça Sorulan Sorular",
+      "orthopedic": {
+        "title": "Ortopedik Fizyoterapi",
+        "description": "Bel-boyun fıtığı, kas yaralanmaları, kronik ağrı ve operasyon sonrası rehabilitasyon.",
+        "subtitle": "Ortopedik fizyoterapi kapsamında tedavi ettiğimiz durumlar",
+        "ctaText": "Ortopedik problemleriniz için hemen randevu alın ve sağlığınıza kavuşun.",
+        "features": [
+          "Bel ve Boyun Fıtığı Tedavisi",
+          "Kas ve Eklem Yaralanmaları",
+          "Post-Operatif Rehabilitasyon",
+          "Sporcu Yaralanmaları",
+          "Kronik Ağrı Yönetimi",
+          "Eklem Artriti Tedavisi",
+          "Tendon ve Ligament Yaralanmaları",
+          "Omurga Deformiteleri",
+          "Protez Sonrası Rehabilitasyon"
+        ],
+        "whatIs": {
+          "subtitle": "Ortopedik Fizyoterapi Nedir?",
+          "title": "Hareket Sisteminin Uzman Rehabilitasyonu",
+          "description1": "Ortopedik fizyoterapi, kas-iskelet sistemi problemlerine odaklanan uzmanlık alanıdır. Kemik, kas, eklem, bağ ve tendon yaralanmalarının tedavisinde bilimsel yöntemler ve güncel yaklaşımlar kullanır.",
+          "description2": "Uzman fizyoterapistlerimiz, kişiye özel tedavi programları ile hem akut hem de kronik ortopedik problemlerin çözümünde etkili sonuçlar elde etmektedir."
+        },
+        "stats": {
+          "yearsExperience": "Yıl Deneyim",
+          "successfulTreatments": "Başarılı Tedavi",
+          "patientSatisfaction": "Hasta Memnuniyeti"
+        },
+        "benefits": {
+          "subtitle": "Ortopedik Fizyoterapi Faydaları",
+          "title": "Neden Ortopedik Fizyoterapi Seçmelisiniz?",
+          "description": "Ortopedik fizyoterapi, hareket sisteminizi güçlendirerek yaşam kalitenizi artırır.",
+          "painRelief": {
+            "title": "Ağrı Kontrolü",
+            "description": "Güncel ağrı yönetimi teknikleri ile akut ve kronik ağrılarınızı etkili şekilde azaltıyoruz."
+          },
+          "strengthening": {
+            "title": "Kas Güçlendirme",
+            "description": "Hedefli egzersiz programları ile zayıflayan kaslarınızı güçlendirerek fonksiyonel kapasiteyi artırıyoruz."
+          },
+          "functionalRestoration": {
+            "title": "Fonksiyonel İyileşme",
+            "description": "Günlük yaşam aktivitelerinizi rahatça yapabilmeniz için kapsamlı rehabilitasyon programları uyguluyoruz."
+          },
+          "expertCare": {
+            "title": "Uzman Bakım",
+            "description": "Ortopedik fizyoterapi alanında uzmanlaşmış deneyimli kadromuzla güvenli ve etkili tedavi alırsınız."
+          }
+        },
+        "techniques": {
+          "subtitle": "Tedavi Teknikleri",
+          "title": "Modern Ortopedik Rehabilitasyon Yöntemleri",
+          "description": "En güncel ortopedik fizyoterapi teknikleri ile etkili ve hızlı iyileşme sağlıyoruz.",
+          "therapeuticExercise": {
+            "name": "Terapötik Egzersiz",
+            "description": "Kişiye özel egzersiz programları ile kas gücü, esneklik ve dayanıklılığı artırma"
+          },
+          "manualTherapy": {
+            "name": "Manuel Terapi",
+            "description": "Elle uygulanan mobilizasyon ve manipülasyon teknikleri ile eklem hareketliliğini artırma"
+          },
+          "postOperativeRehab": {
+            "name": "Ameliyat Sonrası Rehabilitasyon",
+            "description": "Cerrahi müdahale sonrası sistematik rehabilitasyon programları ile hızlı iyileşme"
+          },
+          "sportsRehab": {
+            "name": "Spor Rehabilitasyonu",
+            "description": "Sporcu yaralanmalarına özel rehabilitasyon programları ve performans artırma teknikleri"
+          }
+        },
+        "process": {
+          "description": "Profesyonel ortopedik rehabilitasyon sürecimizle size en uygun tedaviyi sunuyoruz."
+        },
+        "faq": {
+          "contactDescription": "Ortopedik fizyoterapi ile ilgili sorularınız için bizi arayabilir veya WhatsApp üzerinden iletişime geçebilirsiniz."
+        },
+        "additionalFaq": {
+          "sportsInjuries": {
+            "question": "Spor yaralanmaları için ortopedik fizyoterapi ne kadar etkili?",
+            "answer": "Spor yaralanmalarında ortopedik fizyoterapi çok etkilidir. Yaralanmanın türüne göre 4-12 hafta arası tedavi ile sporcularin sahaya dönüş süresi önemli ölçüde kısaltılabilir."
+          },
+          "chronicPain": {
+            "question": "Kronik ağrı problemlerinde nasıl yardımcı olur?",
+            "answer": "Kronik ortopedik ağrılarda, ağrının nedenini belirleyerek hedefli tedavi programları uygulanır. Manuel terapi, egzersiz ve ağrı yönetimi teknikleri ile uzun vadeli çözümler sağlanır."
+          },
+          "prevention": {
+            "question": "Ortopedik problemleri önlemek mümkün mü?",
+            "answer": "Evet, düzenli egzersiz, doğru postür eğitimi ve ergonomik düzenlemeler ile birçok ortopedik problem önlenebilir. Koruyucu fizyoterapi programları bu konuda çok etkilidir."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Ortopedik fizyoterapi ne kadar sürer?",
+            "answer": "Tedavi süresi durumunuzun ciddiyetine göre değişir. Genellikle 6-12 hafta arası sürer."
+          },
+          {
+            "question": "Hangi durumlar için uygun?",
+            "answer": "Bel ağrısı, boyun ağrısı, kas yaralanmaları, eklem problemleri ve ameliyat sonrası rehabilitasyon için uygundur."
+          }
+        ]
+      },
+      "neurological": {
+        "title": "Nörolojik Rehabilitasyon",
+        "description": "İnme, MS ve diğer nörolojik rahatsızlıklar için özel hazırlanmış programlar.",
+        "subtitle": "Nörolojik rehabilitasyon kapsamında tedavi edilen rahatsızlıklar",
+        "ctaText": "Nörolojik problemleriniz için uzman ekibimizle randevu alın.",
+        "features": [
+          "İnme Rehabilitasyonu",
+          "MS Hastası Rehabilitasyonu",
+          "Parkinson Hastalığı Tedavisi",
+          "Spinal Kord Yaralanması Rehabilitasyonu",
+          "Periferik Sinir Yaralanmaları",
+          "Beyin Travması Sonrası Rehabilitasyon",
+          "Nöromusküler Hastalıklar",
+          "Vestibüler Rehabilitasyon",
+          "Kognitif Rehabilitasyon",
+          "Denge ve Koordinasyon Bozuklukları",
+          "Nöropatik Ağrı Yönetimi",
+          "Fonksiyonel Elektriksel Stimülasyon"
+        ],
+        "whatIs": {
+          "subtitle": "Nörolojik Rehabilitasyon Nedir?",
+          "title": "Sinir Sistemi için Uzman Rehabilitasyon",
+          "description1": "Nörolojik rehabilitasyon, beyin, omurga ve sinir sistemi hasarları sonucu kaybedilen fonksiyonların yeniden kazanılması için uygulanan uzman tedavi yaklaşımıdır. Güncel bilimsel yöntemler ve modern teknolojiler kullanılarak hastalara özel programlar hazırlanır.",
+          "description2": "Uzman fizyoterapistlerimiz, nörolojik hastalıkların neden olduğu hareket kayıpları, denge problemleri ve günlük yaşam aktivitelerindeki kısıtlılıkları gidermek için kişiye özel rehabilitasyon programları uygular."
+        },
+        "stats": {
+          "yearsExperience": "Yıl Deneyim",
+          "successfulTreatments": "Başarılı Tedavi",
+          "patientSatisfaction": "Hasta Memnuniyeti"
+        },
+        "benefits": {
+          "subtitle": "Nörolojik Rehabilitasyon Faydaları",
+          "title": "Neden Nörolojik Rehabilitasyon Seçmelisiniz?",
+          "description": "Nörolojik rehabilitasyon, sinir sistemi hasarı sonucu kaybedilen fonksiyonları yeniden kazanmanızı sağlar.",
+          "functionalRecovery": {
+            "title": "Fonksiyonel İyileşme",
+            "description": "Kaybedilen motor ve duyusal fonksiyonları hedefli egzersizler ve modern teknolojilerle yeniden kazanmanızı sağlarız."
+          },
+          "cognitiveImprovement": {
+            "title": "Kognitif Gelişim",
+            "description": "Bellek, dikkat ve problem çözme yeteneklerini geliştirmek için özel kognitif rehabilitasyon programları uygularız."
+          },
+          "qualityOfLife": {
+            "title": "Yaşam Kalitesi Artışı",
+            "description": "Günlük yaşam aktivitelerini bağımsız olarak gerçekleştirebilmeniz için kapsamlı rehabilitasyon desteği sağlarız."
+          },
+          "expertCare": {
+            "title": "Uzman Bakım",
+            "description": "Nörolojik rehabilitasyonda uzmanlaşmış deneyimli ekibimizle güvenli ve etkili tedavi alırsınız."
+          }
+        },
+        "techniques": {
+          "subtitle": "Tedavi Teknikleri",
+          "title": "Modern Nörolojik Rehabilitasyon Yöntemleri",
+          "description": "En güncel nörolojik rehabilitasyon teknikleriyle etkili ve hızlı iyileşme sağlıyoruz.",
+          "neurorehab": {
+            "name": "Nöroplastisite Eğitimi",
+            "description": "Beynin yeniden öğrenme kapasitesini artırmak için tasarlanmış özel egzersiz programları"
+          },
+          "functionalTraining": {
+            "name": "Fonksiyonel Antrenman",
+            "description": "Günlük yaşam aktivitelerini yeniden öğrenme ve geliştirme odaklı pratik egzersizler"
+          },
+          "cognitiveTherapy": {
+            "name": "Kognitif Terapi",
+            "description": "Bellek, dikkat ve yürütücü işlevleri geliştirmek için özel hazırlanmış kognitif egzersizler"
+          },
+          "assistiveTech": {
+            "name": "Yardımcı Teknolojiler",
+            "description": "Robotik rehabilitasyon ve sanal gerçeklik sistemleri ile desteklenmiş modern tedavi yöntemleri"
+          }
+        },
+        "process": {
+          "description": "Profesyonel nörolojik rehabilitasyon sürecimiz ile size en uygun tedaviyi sunuyoruz."
+        },
+        "faq": {
+          "contactDescription": "Nörolojik rehabilitasyon ile ilgili sorularınız için bizi arayabilir veya WhatsApp'tan ulaşabilirsiniz."
+        },
+        "additionalFaq": {
+          "recovery": {
+            "question": "Nörolojik rehabilitasyonda iyileşme süreci nasıl işler?",
+            "answer": "İyileşme süreci hastanın durumuna, yaşına ve hasarın şiddetine bağlı olarak değişir. Erken müdahale ve düzenli tedavi ile 6-12 ay içerisinde önemli gelişmeler gözlemlenir. Beynin nöroplastisite özelliği sayesinde uzun vadeli iyileşme devam edebilir."
+          },
+          "familySupport": {
+            "question": "Aile desteği nörolojik rehabilitasyonda önemli mi?",
+            "answer": "Evet, aile desteği nörolojik rehabilitasyonun en önemli bileşenlerinden biridir. Ailelere hasta bakımı, egzersiz desteği ve motivasyon teknikleri konularında eğitim veriyoruz. Ev programları ve bakım önerileri ile süreci destekliyoruz."
+          },
+          "earlyIntervention": {
+            "question": "Erken müdahale nörolojik rehabilitasyonda kritik mi?",
+            "answer": "Erken müdahale nörolojik rehabilitasyonda çok kritiktir. İlk 6 ay 'altın dönem' olarak adlandırılır ve bu süreçte yapılan yoğun rehabilitasyon en iyi sonuçları verir. Ancak geç başlanan rehabilitasyondan da fayda görülebilir."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Nörolojik rehabilitasyon kimlere uygulanır?",
+            "answer": "İnme geçiren hastalara, MS, Parkinson ve diğer nörolojik problemleri olan kişilere uygulanır."
+          },
+          {
+            "question": "Tedavi süreci nasıl yürütülür?",
+            "answer": "Detaylı değerlendirme sonrası kişiye özel egzersiz programı oluşturulur ve düzenli olarak takip edilir."
+          }
+        ]
+      },
+      "scoliosis": {
+        "title": "Skolyoz - Schroth Terapi",
+        "description": "Skolyoz tedavisi için uzmanlaşmış Schroth metodu ile kişiselleştirilmiş 3 boyutlu egzersiz programları.",
+        "subtitle": "Schroth metodu ile kapsamlı skolyoz tedavisi",
+        "ctaText": "Skolyoz tedaviniz için Schroth uzmanı Aslı Tunçalp ile randevu alın.",
+        "features": [
+          "3D Schroth Egzersizleri",
+          "Kişiselleştirilmiş Düzeltme Programları",
+          "Nefes Terapisi",
+          "Postür Eğitimi",
+          "İlerleme Takibi",
+          "Aile Danışmanlığı"
+        ],
+        "whatIs": {
+          "subtitle": "Schroth Metodu Nedir?",
+          "title": "Skolyoz için Uzmanlaşmış 3D Terapi",
+          "description1": "Schroth metodu, skolyoz için uzmanlaşmış, üç boyutlu bir tedavi yöntemidir. Bu metod, kişiselleştirilmiş egzersiz programları, nefes teknikleri ve postür eğitimi ile omurga deformitelerini düzeltir.",
+          "description2": "Sertifikalı Schroth terapistimiz Aslı Tunçalp, uzmanlığı ile her hastanın benzersiz eğrilik yapısına özel olarak tasarlanmış bireysel tedavi sunar."
+        },
+        "stats": {
+          "yearsExperience": "Yıl Deneyim",
+          "successfulTreatments": "Başarılı Tedavi",
+          "patientSatisfaction": "Hasta Memnuniyeti"
+        },
+        "benefits": {
+          "subtitle": "Schroth Terapisinin Faydaları",
+          "title": "Neden Schroth Metodunu Seçmelisiniz?",
+          "description": "Schroth metodu, skolyoz tedavisinde bilimsel temelli yaklaşım sunar.",
+          "curvatureCorrection": {
+            "title": "Eğrilik Düzeltme",
+            "description": "Özel 3D düzeltme egzersizleri ile omurga eğriliklerini azaltır ve omurga hizalanmasını geliştirir."
+          },
+          "breathingImprovement": {
+            "title": "Nefes İyileştirme",
+            "description": "Schroth metodunun özel nefes teknikleri ile akciğer fonksiyonunu ve nefes kapasitesini geliştirir."
+          },
+          "painReduction": {
+            "title": "Ağrı Azaltma",
+            "description": "Postür düzeltme ve kas dengesizliklerini gidererek sırt ve kas ağrılarını azaltır."
+          },
+          "progressPrevention": {
+            "title": "İlerleme Önleme",
+            "description": "Skolyozun ilerlemesini önler ve uzun vadeli prognozu iyileştirir."
+          }
+        },
+        "techniques": {
+          "subtitle": "Uygulanan Teknikler",
+          "title": "Modern Schroth Terapi Yöntemleri",
+          "description": "Skolyoz tipinize bireysel olarak uyarlanmış en güncel Schroth tekniklerini uyguluyoruz.",
+          "correctionExercises": {
+            "name": "3D Düzeltme Egzersizleri",
+            "description": "Omurga eğriliğinin üç boyutlu düzeltilmesi için özel egzersizler"
+          },
+          "breathingTherapy": {
+            "name": "Rotasyonel Nefes Alma",
+            "description": "Kaburga çıkıntısını düzeltmek ve akciğer fonksiyonunu geliştirmek için nefes teknikleri"
+          },
+          "postureTraining": {
+            "name": "Postür Eğitimi",
+            "description": "Günlük yaşama entegre postür düzeltme ve bilinçli vücut farkındalığı"
+          },
+          "homeProgram": {
+            "name": "Ev Programı",
+            "description": "Evde sürekli tedavi için kişiselleştirilmiş egzersiz programları"
+          }
+        },
+        "process": {
+          "description": "Profesyonel Schroth terapi sürecimizle size en iyi tedaviyi sunuyoruz."
+        },
+        "faq": {
+          "contactDescription": "Schroth terapisi ile ilgili sorularınız için bizi arayabilir veya WhatsApp üzerinden iletişime geçebilirsiniz."
+        },
+        "additionalFaq": {
+          "ageLimit": {
+            "question": "Schroth terapisi hangi yaşta en etkilidir?",
+            "answer": "Schroth terapisi tüm yaş grupları için uygundur, ancak büyüme döneminde (10-18 yaş) en etkilidir. Yetişkinlerde ağrı azaltma ve ilerlemeyi önleme konularında yardımcı olur."
+          },
+          "duration": {
+            "question": "Schroth terapisi ne kadar sürer?",
+            "answer": "Tedavi süresi skolyozun ciddiyetine göre değişir. Genellikle düzenli seanslarla 3-6 ay sürer. Yaşam boyu ev programı önerilir."
+          },
+          "results": {
+            "question": "Schroth terapisinin sonuçları ne zaman görülür?",
+            "answer": "İlk postür ve ağrı iyileştirmeleri genellikle 4-6 haftada görülür. Önemli düzeltmeler 3-6 ay sürebilir."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Schroth terapisi ağrılı mıdır?",
+            "answer": "Schroth terapisi ağrılı değildir. Egzersizler kademeli olarak öğretilir ve seviyenize uygun şekilde uyarlanır."
+          },
+          {
+            "question": "Schroth terapisi ameliyatı önleyebilir mi?",
+            "answer": "Erken müdahalede Schroth terapisi skolyozun ilerlemesini yavaşlatabilir ve birçok vakada ameliyatı önleyebilir."
+          }
+        ]
+      },
+      "posture": {
+        "title": "Düzgün Postür-Duruş Rehabilitasyonu & Düzeltme",
+        "description": "Schroth tekniği, postüral yeniden eğitim ve spinal dizilim bozuklukları, ileri baş postürü ve kas-iskelet dengesizlikleri için özel egzersiz programları dahil olmak üzere gelişmiş yöntemlerle kapsamlı postür düzeltme programları.",
+        "subtitle": "Postür ile ilgili durumlar için kapsamlı tedavi yaklaşımı",
+        "ctaText": "Postural rehabilitasyon konusunda uzmanlaşmış fizyoterapist ekibimizle postürünüzü dönüştürün ve ağrıları ortadan kaldırın.",
+        "features": [
+          "İleri Baş Postürü Düzeltme",
+          "Servikal Omurga Düzleşmesi (Lordoz Kaybı)",
+          "Kifotik Postür (Kamburluk) Tedavisi", 
+          "Schroth Metodu ile Skolyoz Tedavisi",
+          "Postural Kas Dengesizliği Düzeltme",
+          "Üst Çapraz Sendrom Rehabilitasyonu",
+          "Alt Çapraz Sendrom Düzeltme",
+          "Postür Farkındalık Eğitimi",
+          "Ergonomik Değerlendirme ve Eğitim",
+          "Core Stabilizasyon Programları",
+          "Solunum Paterni Düzeltme"
+        ],
+        "whatIs": {
+          "subtitle": "Düzgün Postür-Duruş Rehabilitasyonu & Düzeltme Nedir?",
+          "title": "Postural Sağlık ve Spinal Dizilim için Bilimsel Yaklaşım",
+          "description1": "Postür düzeltme ve rehabilitasyon, kas-iskelet sistemindeki yapısal ve fonksiyonel dengesizlikleri ele alan özel bir fizyoterapi yaklaşımıdır. Kanıta dayalı tedavi programlarımız, spinal deformiteleri düzeltmek, postural hizalamayı iyileştirmek ve kötü postür alışkanlıklarından kaynaklanan ağrıları ortadan kaldırmak için modern rehabilitasyon tekniklerini uluslararası tanınmış Schroth metodu ile birleştirir.",
+          "description2": "Uzman fizyoterapistlerimiz, kişiselleştirilmiş tedavi programları tasarlamak için postür fotoğrafçılığı, hareket analizi ve biyomekanik değerlendirme dahil olmak üzere kapsamlı değerlendirme teknikleri kullanır. Sadece mevcut postür problemlerini düzeltmeye değil, aynı zamanda eğitim, egzersiz ve yaşam tarzı değişiklikleri yoluyla gelecekteki komplikasyonları önlemeye de odaklanıyoruz."
+        },
+        "stats": {
+          "yearsExperience": "Yıl Deneyim",
+          "successfulTreatments": "Başarılı Tedavi",
+          "patientSatisfaction": "Hasta Memnuniyeti"
+        },
+        "benefits": {
+          "subtitle": "Profesyonel Postür Düzeltmenin Faydaları",
+          "title": "Neden Postür Düzeltme Programımızı Seçmelisiniz?",
+          "description": "Kapsamlı postür düzeltme programımız, postür problemleri ve bunların ilişkili semptomları için kalıcı çözümler sunar.",
+          "painRelief": {
+            "title": "Ağrı Eliminasyonu",
+            "description": "Hedefli rehabilitasyon teknikleri ile kötü postürden kaynaklanan boyun ağrısı, sırt ağrısı, baş ağrısı ve omuz gerginliğini etkili şekilde azaltın ve ortadan kaldırın."
+          },
+          "postureImprovement": {
+            "title": "İyileştirilmiş Vücut Hizalaması",
+            "description": "Sistematik düzeltme egzersizleri ve postural yeniden eğitim teknikleri ile optimal spinal hizalama ve doğru postural mekanik elde edin."
+          },
+          "preventiveApproach": {
+            "title": "Gelecekteki Problemlerin Önlenmesi",
+            "description": "Doğru vücut mekaniğini öğrenin ve postür problemleri ile dejeneratif değişikliklerin gelişimini önlemek için ergonomik rehberlik alın."
+          },
+          "enhancedFunction": {
+            "title": "Geliştirilmiş Günlük Fonksiyon",
+            "description": "Daha iyi hareket kalitesi, artan enerji seviyeleri ve azalan yorgunluk ile günlük aktiviteleri gerçekleştirme yeteneğinizi geliştirin."
+          },
+          "expertCare": {
+            "title": "Uzmanlaşmış Expertise",
+            "description": "Postural rehabilitasyon konusunda özel eğitim almış ve Schroth metodu dahil olmak üzere ileri tekniklerde sertifikalı fizyoterapistlerden tedavi alın."
+          },
+          "holisticApproach": {
+            "title": "Kapsamlı Tedavi Yaklaşımı",
+            "description": "Sadece fiziksel semptomları değil, aynı zamanda postür problemlerine katkıda bulunan yaşam tarzı faktörlerini de ele alan bütünsel bir tedavi yaklaşımından faydalanın."
+          }
+        },
+        "techniques": {
+          "subtitle": "İleri Tedavi Yöntemleri",
+          "title": "Modern Postür Düzeltme Teknikleri",
+          "description": "Optimal postür düzeltme sonuçları elde etmek için en son rehabilitasyon teknikleri ve kanıta dayalı yöntemleri kullanıyoruz.",
+          "schrothMethod": {
+            "name": "Skolyoz için Schroth Metodu",
+            "description": "Skolyoz tedavisi için özel olarak tasarlanmış üç boyutlu düzeltme egzersizleri, rotasyonel nefes alım kalıpları ve postür düzeltme teknikleri ile birleştirilmiş"
+          },
+          "posturalReeducation": {
+            "name": "Postural Yeniden Eğitim Antrenmanı",
+            "description": "Postural kasları yeniden eğitmek ve optimal spinal hizalama için yeni hareket kalıpları oluşturmak için sistematik eğitim programları"
+          },
+          "manualTherapy": {
+            "name": "Manuel Terapi Teknikleri",
+            "description": "Doku esnekliğini ve eklem mobilitesini iyileştirmek için eklem mobilizasyonu, yumuşak doku manipülasyonu ve miyofasyal gevşetme dahil olmak üzere elle yapılan tedavi"
+          },
+          "exerciseTherapy": {
+            "name": "Düzeltici Egzersiz Programları",
+            "description": "Spesifik kas dengesizlikleri ve hareket disfonksiyonlarını hedefleyen bireyselleştirilmiş güçlendirme ve germe programları"
+          },
+          "respiratoryTherapy": {
+            "name": "Solunum Paterni Düzeltme",
+            "description": "Solunum fonksiyonunu iyileştirmek ve postür düzeltmeyi desteklemek için nefes yeniden eğitimi teknikleri, özellikle skolyoz tedavisinde önemli"
+          },
+          "ergonomicTraining": {
+            "name": "Ergonomik Değerlendirme & Eğitim",
+            "description": "Günlük aktiviteler sırasında optimal postural destek için pratik önerilerle iş yeri ve ev ortamı değerlendirmesi"
+          }
+        },
+        "process": {
+          "description": "Sistematik yaklaşımımız, kapsamlı değerlendirme, kişiselleştirilmiş tedavi ve optimal sonuçlar için sürekli destek ile etkili ve kalıcı postür düzeltmesi sağlar."
+        },
+        "treatedConditions": {
+          "title": "Tedavi Ettiğimiz Durumlar",
+          "subtitle": "Çeşitli postural bozukluklar için kapsamlı bakım",
+          "conditions": [
+            {
+              "name": "İleri Baş Postürü",
+              "description": "Anterior baş taşıma ve servikal omurga hizalamasının düzeltilmesi"
+            },
+            {
+              "name": "Kamburluk (Kifotik Postür)",
+              "description": "Aşırı torasik kifoz ve omuz protraksiyonunun tedavisi"
+            },
+            {
+              "name": "Skolyoz (Tüm Tipler)",
+              "description": "Spinal eğrilikler için özel Schroth metodu tedavisi"
+            },
+            {
+              "name": "Metin Boynu Sendromu",
+              "description": "Aşırı mobil cihaz kullanımından kaynaklanan modern durum"
+            },
+            {
+              "name": "Bilgisayar Görme Sendromu",
+              "description": "Uzun süreli bilgisayar kullanımı ile ilgili postür problemleri"
+            },
+            {
+              "name": "Üst Çapraz Sendrom",
+              "description": "Boyun ve omuz bölgesini etkileyen kas dengesizliği paterni"
+            },
+            {
+              "name": "Alt Çapraz Sendrom",
+              "description": "Pelvik ve alt sırt postural disfonksiyonu"
+            },
+            {
+              "name": "Servikal Lordoz Kaybı",
+              "description": "Doğal servikal omurga eğriliğinin restorasyonu"
+            }
+          ]
+        },
+        "faq": [
+          {
+            "question": "Düzgün postür-duruş rehabilitasyon tedavisi ne kadar sürer?",
+            "answer": "Tedavi süresi postural bozukluğunuzun ciddiyetine ve bireysel faktörlere bağlı olarak değişir. Tipik olarak ilk iyileşmeler 4-6 hafta içinde görülür, önemli değişiklikler 12-16 hafta boyunca gerçekleşir. Schroth metodu ile skolyoz tedavisi için optimal sonuçlar için 6-12 ay daha uzun tedavi süresi önerilebilir."
+          },
+          {
+            "question": "Postür düzeltme tedavisi hangi yaş grubu için uygundur?",
+            "answer": "Postür düzeltme tedavisi tüm yaş grupları için faydalıdır. Çocuklar (özellikle büyüme dönemleri boyunca), gençler, yetişkinler ve yaşlılar için özel programlar sunuyoruz. Çocukluk ve ergenlik döneminde erken müdahale genellikle en iyi sonuçları verir, ancak yetişkinler de postür ve ağrı azalmasında önemli iyileşmeler elde edebilir."
+          },
+          {
+            "question": "Postür düzeltme kronik ağrıya yardımcı olabilir mi?",
+            "answer": "Evet, postür düzeltme tedavisi postür problemlerinden kaynaklanan kronik ağrı için oldukça etkilidir. Kötü postür genellikle kas dengesizlikleri, eklem disfonksiyonu ve sinir irritasyonuna yol açar, bu da kronik boyun ağrısı, sırt ağrısı, baş ağrısı ve omuz ağrısı ile sonuçlanır. Kapsamlı yaklaşımımız kalıcı ağrı rahatlığı için bu temel nedenleri ele alır."
+          },
+          {
+            "question": "Schroth metodu sadece skolyoz hastaları için mi?",
+            "answer": "Schroth metodu orijinal olarak skolyoz tedavisi için geliştirilirken, prensipleri çeşitli postural bozukluklar için uyarlanabilir. Ancak skolyoz hastaları için, üç boyutlu düzeltme ve solunum iyileştirmesi sunan altın standart cerrahi olmayan tedavi yaklaşımı olmaya devam eder."
+          },
+          {
+            "question": "Postür problemlerimi nasıl değerlendiriyorsunuz?",
+            "answer": "Görsel analiz, postür fotoğrafçılığı, hareket taraması ve biyomekanik değerlendirme dahil olmak üzere kapsamlı postural değerlendirmeler yapıyoruz. Skolyoz vakaları için ayrıca görüntüleme çalışmalarını gözden geçirir ve eğriliğin türü ve ciddiyetini belirlemek için özel testler yaparız."
+          },
+          {
+            "question": "Tedavi sırasında çalışmaya devam edebilir miyim?",
+            "answer": "Kesinlikle! Tedavi programlarımız günlük rutininizle entegre olacak şekilde tasarlanmıştır. İş yeriniz için ergonomik öneriler sağlıyoruz, postür farkındalık teknikleri öğretiyoruz ve iyileşmenizi desteklemek için iş molalarında yapılabilecek egzersizler sunuyoruz."
+          }
+        ],
+        "additionalFaq": {
+          "modernLifestyle": {
+            "question": "Modern yaşam tarzı postürü nasıl etkiler?",
+            "answer": "Uzun süreli oturma, aşırı akıllı telefon kullanımı, bilgisayar çalışması ve sedanter alışkanlıklar gibi modern yaşam tarzı faktörleri postür problemlerine önemli ölçüde katkıda bulunur. 'Metin boynu' ve 'bilgisayar boynu' giderek daha yaygın durumlar haline gelmiştir. Programlarımız bu modern postural zorlukları hedefli müdahalelerle özel olarak ele alır."
+          },
+          "prevention": {
+            "question": "Postural problemler önlenebilir mi?",
+            "answer": "Evet, birçok postural problem doğru ergonomi, düzenli egzersiz, postür farkındalık eğitimi ve yaşam tarzı değişiklikleri ile önlenebilir. Optimal spinal sağlığı korumak için postür dostu alışkanlıklar, çalışma alanı kurulumu ve koruyucu egzersizler konusunda kapsamlı eğitim sağlıyoruz."
+          },
+          "exerciseProgram": {
+            "question": "Ev egzersiz programı alacak mıyım?",
+            "answer": "Evet, her hasta ayrıntılı talimatlar ve illustrasyonlar ile kişiselleştirilmiş ev egzersiz programı alır. Ayrıca video demonstrasyonları ve ilerlemenize dayalı düzenli program güncellemeleri sağlıyoruz. Ev egzersizleri ile tutarlılık kalıcı postural iyileştirmeler için çok önemlidir."
+          },
+          "technology": {
+            "question": "Tedavide modern teknoloji kullanıyor musunuz?",
+            "answer": "Postür analizi yazılımı, ev programı uyumu için egzersiz uygulamaları ve postür düzeltme için özel ekipmanlar dahil olmak üzere çeşitli modern teknolojiler kullanıyoruz. Ancak dengeli bir yaklaşım benimsiyor, teknolojiyi manuel terapi ve kişiselleştirilmiş bakımla birleştiriyoruz."
+          }
+        }
+      },
+      "manualTherapy": {
+        "title": "Manuel Terapi",
+        "description": "Ağrı yönetimi ve fonksiyonel iyileşme için ileri manuel terapi teknikleri.",
+        "subtitle": "Manuel terapi kapsamında tedavi ettiğimiz durumlar",
+        "ctaText": "Ağrı ve fonksiyonel problemleriniz için uzman kadromuzla randevu alın.",
+        "features": [
+          "Eklem Mobilizasyonu",
+          "Yumuşak Doku Tedavisi",
+          "Ağrı Yönetimi"
+        ],
+        "whatIs": {
+          "subtitle": "Manuel Terapi Nedir?",
+          "title": "Manuel Terapi Teknikleriyle Sağlanan Özel Terapi Süreci ile İyileşme",
+          "description1": "Manuel terapi, fizyoterapistin ellerini kullanarak kas-iskelet sistemi problemlerini tedavi ettiği özel bir yaklaşımdır. Bu yöntem, vücudun doğal iyileşme sürecini destekleyerek ağrı ve hareket kısıtlılığını azaltır.",
+          "description2": "Uzman fizyoterapistlerimiz, yılların deneyimi ile birleştirdikleri manuel teknikler sayesinde, hastalarımızın yaşam kalitesini önemli ölçüde artırmaktadır."
+        },
+        "stats": {
+          "yearsExperience": "Yıl Deneyim",
+          "successfulTreatments": "Başarılı Tedavi",
+          "patientSatisfaction": "Hasta Memnuniyeti"
+        },
+        "benefits": {
+          "subtitle": "Manuel Terapi Faydaları",
+          "title": "Neden Manuel Terapi Seçmelisiniz?",
+          "description": "Manuel terapi, doğal ve etkili yöntemlerle sağlığınızı geri kazanmanıza yardımcı olur.",
+          "painReduction": {
+            "title": "Ağrı Azaltma",
+            "description": "Manuel terapi teknikleri ile kas ve eklem ağrılarınızı etkili şekilde azaltıyoruz."
+          },
+          "mobility": {
+            "title": "Hareket Kabiliyeti Artışı",
+            "description": "Eklem mobilitesini artırarak günlük aktivitelerinizi daha rahat yapmanızı sağlıyoruz."
+          },
+          "natural": {
+            "title": "Doğal İyileşme",
+            "description": "Ameliyatsız ve girişimsel işlemler olmadan, enjeksiyon kullanmadan koruyucu tedavi yaklaşımı ile vücudunuzun kendi iyileşme sürecini destekliyoruz."
+          },
+          "expert": {
+            "title": "Uzman Tedavi",
+            "description": "Sertifikalı manuel terapistlerimiz ile profesyonel ve güvenli tedavi alırsınız."
+          }
+        },
+                "techniques": {
+          "subtitle": "Uygulanan Teknikler",
+          "title": "Modern Manuel Terapi Yöntemleri",
+          "description": "Klinikimizde uygulanan güncel ve etkili manuel terapi teknikleri ile tedavi olun.",
+          "softTissue": {
+            "name": "Yumuşak Doku Mobilizasyonu",
+            "description": "Kas, fasya ve bağ dokularına uygulanan özel teknikler"
+          },
+          "jointMobilization": {
+            "name": "Eklem Mobilizasyonu", 
+            "description": "Eklem hareketliliğini artırmak için uygulanan pasif hareketler"
+          },
+          "spinalManipulation": {
+            "name": "Spinal Manipülasyon",
+            "description": "Omurga segmentlerine uygulanan kontrollü ve güvenli teknikler"
+          },
+          "myofascialRelease": {
+            "name": "Myofasial Release",
+            "description": "Fasya tabakalarındaki gerginlikleri çözmek için özel yöntemler"
+          }
+        },
+        "process": {
+          "description": "Profesyonel manuel terapi sürecimizle size en iyi tedaviyi sunuyoruz."
+        },
+        "faq": {
+          "contactDescription": "Sorularınız için bizi arayabilir veya WhatsApp üzerinden iletişime geçebilirsiniz."
+        },
+        "additionalFaq": {
+          "ageGroups": {
+            "question": "Manuel terapi hangi yaş grupları için uygundur?",
+            "answer": "Manuel terapi, bebek yaş grubundan yaşlı bireylere kadar her yaş grubu için uygun tedavi programları sunmaktadır. Tekniklerin seçimi ve uygulanma yoğunluğu hastanın yaşına ve kondisyonuna göre ayarlanır."
+          },
+          "frequency": {
+            "question": "Manuel terapi seansları ne sıklıkla yapılmalıdır?",
+            "answer": "Tedavi sıklığı probleminizin ciddiyetine ve tedaviye verdiğiniz yanıta bağlı olarak değişir. Genellikle haftada 2-3 seans önerilir. Fizyoterapistiniz durumunuza en uygun seans sayısını ve sıklığını belirleyecektir."
+          },
+          "homeExercises": {
+            "question": "Manuel terapi ev egzersizleri ile desteklenir mi?",
+            "answer": "Evet, manuel terapi klinik seanslarınızı desteklemek için özel olarak hazırlanmış ev egzersiz programları ile desteklenir. Bu egzersizler tedavi sürecinizi hızlandırır ve elde edilen kazanımların kalıcı olmasını sağlar."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Manuel terapi ağrılı mıdır?",
+            "answer": "Manuel terapi genellikle ağrısızdır. Tedavi sırasında hafif rahatsızlık hissedilebilir ancak ağrı yapmamalıdır."
+          },
+          {
+            "question": "Kaç seans gerekir?",
+            "answer": "Durumunuza göre değişmekle birlikte genellikle 6-10 seans arası tedavi önerilir."
+          }
+        ]
+      },
+      "pilates": {
+        "title": "Klinik Pilates",
+        "description": "Fizyoterapist eşliğinde birebir ve size özel hazırlanmış plan ve egzersiz. Reformer ve mat pilates ile güçlendirme ve esneklik çalışmaları.",
+        "subtitle": "Klinik pilates kapsamında sunduğumuz hizmetler",
+        "ctaText": "Pilates seansları için uzman eğitmenlerimizle randevu alın.",
+        "features": [
+          "Reformer Pilates",
+          "Mat Pilates",
+          "Core Güçlendirme",
+          "Postür Analizi"
+        ],
+        "whatIs": {
+          "title": "Klinik Pilates Nedir?",
+          "description": "Klinik Pilates, fizyoterapist gözetiminde uygulanan ve her bireyin özel durumuna göre düzenlenen bir egzersiz sistemidir. Geleneksel Pilates'ten farklı olarak, yaralanma rehabilitasyonu, postür düzeltme ve fonksiyonel hareket geliştirme odaklıdır.",
+          "point1": "Fizyoterapist gözetiminde kişiselleştirilmiş programlar",
+          "point2": "Tıbbi durumunuza özel egzersiz tasarımı",
+          "point3": "Postür analizi ve düzeltme teknikleri",
+          "point4": "Fonksiyonel hareket geliştirme yaklaşımı",
+          "imageAlt": "Klinik Pilates Egzersizi"
+        },
+        "benefits": {
+          "title": "Klinik Pilates'in Faydaları",
+          "subtitle": "Düzenli klinik pilates egzersizleri ile elde edeceğiniz sağlık faydaları",
+          "item1": {
+            "title": "Core Güçlendirme",
+            "description": "Derin karın kasları ve sırt kaslarını güçlendirerek omurga stabilitesini artırır ve bel ağrısını azaltır."
+          },
+          "item2": {
+            "title": "Düzgün Postür-Duruş Rehabilitasyonu",
+            "description": "Yanlış duruş alışkanlıklarını düzelterek boyun ve sırt ağrılarını önler, daha sağlıklı bir vücut duruşu kazandırır."
+          },
+          "item3": {
+            "title": "Esneklik ve Denge",
+            "description": "Kas esnekliğini artırırken propriosepsiyon ve dengeyi geliştirerek yaralanma riskini azaltır."
+          },
+          "item4": {
+            "title": "Stres Azaltma",
+            "description": "Nefes kontrolü ve teknikleri ile stresi azaltır ve zihinsel sağlığı destekler."
+          }
+        },
+        "process": {
+          "title": "Tedavi Süreci",
+          "subtitle": "Klinik Pilates programınız nasıl ilerler",
+          "step1": {
+            "title": "Detaylı Değerlendirme",
+            "description": "Fiziksel durumunuz, hareket paternleriniz ve hedeflerinizi analiz ederiz"
+          },
+          "step2": {
+            "title": "Program Tasarımı",
+            "description": "Size özel egzersiz programı oluşturulur ve hedefler belirlenir"
+          },
+          "step3": {
+            "title": "Kademeli Uygulama",
+            "description": "Temel hareketlerden başlayarak kademeli olarak program zorluğu artırılır"
+          },
+          "step4": {
+            "title": "İlerleme Takibi",
+            "description": "Düzenli değerlendirmeler ile program güncellenir ve ilerlemeler kaydedilir"
+          }
+        },
+        "whoCan": {
+          "title": "Kimler Faydalanabilir?",
+          "description": "Klinik Pilates, sağlık sorunu yaşayan bireyler kadar sağlıklı kişiler için de uygundur. Her yaş grubundan kişi, kendi durumuna özel tasarlanan programlarla fayda sağlayabilir.",
+          "imageAlt": "Çeşitli yaş gruplarından pilates katılımcıları",
+          "group1": "Bel ve boyun ağrısı yaşayan bireyler",
+          "group2": "Postür bozukluğu ve skolyoz hastaları",
+          "group3": "Ameliyat sonrası rehabilitasyon sürecindeki hastalar",
+          "group4": "Hamile kadınlar ve doğum sonrası anneler",
+          "group5": "Yaşlı bireyler ve denge problemi yaşayanlar",
+          "group6": "Sporcu ve aktif bireyler",
+          "group7": "Sağlıklı kişilerle birebir pilates çalışmaları",
+          "group8": "Kilo problemi yaşayanlar ve kilo vermek isteyenler",
+          "group9": "Evde masa başı çalışanlar"
+        },
+        "testimonials": {
+          "title": "Hasta Yorumları",
+          "subtitle": "Klinik Pilates deneyimlerini paylaşan hastalarımız",
+          "testimonial1": {
+            "name": "Ayşe M.",
+            "content": "3 aylık klinik pilates programından sonra yıllardır çektiğim bel ağrısı tamamen geçti. Postürüm düzeldi ve kendimi çok daha enerjik hissediyorum.",
+            "condition": "Bel ağrısı tedavisi"
+          },
+          "testimonial2": {
+            "name": "Mehmet K.",
+            "content": "Ameliyat sonrası rehabilitasyon sürecimde klinik pilates çok yardımcı oldu. Hem fiziksel hem de zihinsel olarak kendimi güçlü hissediyorum.",
+            "condition": "Post-operatif rehabilitasyon"
+          },
+          "testimonial3": {
+            "name": "Zeynep A.",
+            "content": "Hamilelik döneminde başladığım pilates programı sayesinde doğum sonrası çok hızlı toparlandım. Core kaslarım güçlendi ve duruşum düzeldi.",
+            "condition": "Hamilelik ve doğum sonrası"
+          }
+        },
+        "faq": [
+          {
+            "question": "Klinik pilates normal pilatesten farkı nedir?",
+            "answer": "Klinik pilates fizyoterapist gözetiminde, tıbbi durumunuza özel olarak tasarlanan programlardır."
+          },
+          {
+            "question": "Başlangıç seviyesinde katılabilir miyim?",
+            "answer": "Evet, her seviyeye uygun programlarımız mevcuttur. İlk değerlendirme sonrası size uygun program belirlenir."
+          },
+          {
+            "question": "Ağrım var ama gelmek istiyorum - gelebilir miyim?",
+            "answer": "Evet gelebilir. Fizyoterapist eşliğinde yapılan klinik pilates ağrılı durumlarda da güvenle uygulanabilir."
+          },
+          {
+            "question": "Çocuklar için yaş skalası var mı?",
+            "answer": "Omurga geliştirmek isteyen herkes yarar görebilir. Fizyoterapist eşliğinde yapılan pilates çocuklar için faydalıdır."
+          }
+        ]
+      },
+      "osteopathy": {
+        "title": "Osteopati",
+        "description": "Bütüncül yaklaşımla vücut dengesini sağlama ve ağrı tedavisi.",
+        "subtitle": "Osteopati kapsamında sunduğumuz tedavi yöntemleri",
+        "ctaText": "Bütüncül osteopati tedavisi için uzman kadromuzla randevu alın.",
+        "features": [
+          "Fasyal Mobilizasyon",
+          "Kraniosakral Terapi",
+          "Viseral Manipülasyon"
+        ],
+        "whatIs": {
+          "subtitle": "Osteopati Nedir?",
+          "title": "Bütüncül Yaklaşımla Doğal İyileşme",
+          "description1": "Osteopati, vücudu bir bütün olarak ele alan ve doğal iyileşme kapasitesini destekleyen holistik bir tedavi yaklaşımıdır. Elle yapılan yumuşak teknikleri kullanarak vücuttaki dengesizlikleri düzeltir.",
+          "description2": "Uzman osteopatlarımız, vücudunuzun kendi kendini iyileştirme yeteneğini destekleyerek uzun vadeli çözümler sunar ve yaşam kalitenizi artırır."
+        },
+        "stats": {
+          "yearsExperience": "Yıl Deneyim",
+          "successfulTreatments": "Başarılı Tedavi",
+          "patientSatisfaction": "Hasta Memnuniyeti"
+        },
+        "benefits": {
+          "subtitle": "Osteopati Faydaları",
+          "title": "Neden Osteopati Seçmelisiniz?",
+          "description": "Osteopati, bütüncül yaklaşımla sağlığınızı yeniden kazanmanıza yardımcı olur.",
+          "holistic": {
+            "title": "Bütüncül Yaklaşım",
+            "description": "Sadece semptomlara değil, tüm vücuda odaklanarak problemin kaynağını bulur ve tedavi eder."
+          },
+          "natural": {
+            "title": "Doğal İyileşme",
+            "description": "Vücudun kendi iyileşme mekanizmalarını harekete geçirerek doğal ve güvenli iyileşme sağlar."
+          },
+          "painless": {
+            "title": "Ağrısız Tedavi",
+            "description": "Yumuşak ve ağrısız manuel tekniklerle rahat ve konforlu bir tedavi deneyimi sunar."
+          },
+          "expert": {
+            "title": "Uzman Osteopat",
+            "description": "Sertifikalı ve deneyimli osteopatlarımızla güvenilir ve profesyonel tedavi alırsınız."
+          }
+        },
+        "techniques": {
+          "subtitle": "Tedavi Yöntemleri",
+          "title": "Osteopati kapsamında sunduğumuz tedavi yöntemleri",
+          "description": "Güncel osteopati teknikleri ile vücudunuzun doğal dengesini yeniden kazanın.",
+          "structural": {
+            "name": "Yapısal Osteopati - Parietal",
+            "description": "Kas-iskelet sistemi problemleri için eklem ve kas dengesini sağlayan teknikler"
+          },
+          "fascialMobilization": {
+            "name": "Fasyal Mobilizasyon - Parietal Terapi",
+            "description": "Fasya dokularındaki gerginlikleri çözerek hareket kabiliyetini artırır"
+          },
+          "craniosacral": {
+            "name": "Kraniosakral Terapi - Doğru",
+            "description": "Baş ve omurga arasındaki sıvı akışını düzenleyerek sinir sistemi fonksiyonlarını iyileştirir"
+          },
+          "visceral": {
+            "name": "Viseral Manipülasyon - Viseral Terapi",
+            "description": "İç organların mobilitesini artırarak sindirim ve solunum sistemlerini destekler"
+          }
+        },
+        "process": {
+          "description": "Profesyonel osteopati sürecimizle vücudunuzun doğal dengesini yeniden kurarız."
+        },
+        "faq": {
+          "contactText": "Sorularınız için bizi arayabilir veya WhatsApp üzerinden iletişime geçebilirsiniz."
+        },
+        "additionalFaq": {
+          "duration": {
+            "question": "Osteopati tedavisi ne kadar sürer?",
+            "answer": "Tedavi süresi bireysel faktörlere göre değişiklik gösterir. Hafif fonksiyonel bozukluklarda 3-5 seans yeterli olabilir. Kronik ve karmaşık durumlarda bu süre 6-12 aya kadar uzayabilir. Seans sıklığı başlarda haftada 1 veya 2 kez olabilir, ilerleyen dönemde bu aralık ayda bire düşebilir. Ancak tedavinin başarısı yalnızca uygulayıcıya bağlı değildir. Hastanın egzersiz önerilerine, duruş düzenlemelerine ve beslenme tavsiyelerine uyumu da sonucu doğrudan etkiler."
+          },
+          "sideEffects": {
+            "question": "Osteopati tedavisinin yan etkileri var mı?",
+            "answer": "Osteopati çok güvenli bir tedavi yöntemidir. Tedavi sonrası hafif yorgunluk veya kas hassasiyeti normal olup 24-48 saat içinde geçer."
+          },
+          "effectiveness": {
+            "question": "Osteopati ne kadar etkilidir?",
+            "answer": "Osteopati, birçok kas-iskelet problemi, baş ağrıları ve stres kaynaklı rahatsızlıklar için oldukça etkilidir. Bilimsel çalışmalar yüksek başarı oranları göstermektedir."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Osteopati nasıl bir tedavi yöntemidir?",
+            "answer": "Osteopati, vücudun doğal iyileşme kapasitesini destekleyen, manuel teknikleri kullanan bütüncül bir tedavi yaklaşımıdır."
+          },
+          {
+            "question": "Hangi durumlar için etkilidir?",
+            "answer": "Kas-iskelet sistemi problemleri, baş ağrıları, sindirim sorunları ve stres kaynaklı rahatsızlıklar için etkilidir."
+          }
+        ]
+      },
+      "scoliosis": {
+        "title": "Skolyoz-Schroth Terapi",
+        "description": "Skolyoz ve kifoza yönelik kişiye spesifik planlanan 3D egzersiz yöntemi.",
+        "subtitle": "Schroth terapisi kapsamında tedavi edilen durumlar",
+        "ctaText": "Skolyoz problemleriniz için uzman kadromuzla randevu alın.",
+        "features": [
+          "Skolyoz Tedavisi",
+          "Kifoz Düzeltme",
+          "3D Schroth Egzersizleri",
+          "Postür Eğitimi",
+          "Solunum Egzersizleri",
+          "Omurga Stabilizasyonu"
+        ],
+        "faq": [
+          {
+            "question": "Schroth terapisi ne kadar sürer?",
+            "answer": "Tedavi süresi skolyoz derecenize ve yaşınıza göre değişir. Genellikle 3-6 aylık yoğun tedavi programı uygulanır."
+          },
+          {
+            "question": "Hangi yaş grubuna uygun?",
+            "answer": "Schroth terapisi çocukluk çağından yetişkinliğe kadar her yaş grubuna uygulanabilir. Erken müdahale daha etkili sonuçlar verir."
+          }
+        ]
+      }
+    },
+    "experts": {
+      "title": "Uzmanlarımız",
+      "subtitle": "Profesyonel Ekibimiz",
+      "description": "Sağlığınıza kavuşmanızda yanınızda olan uzman fizyoterapist kadromuzla tanışın. Her biri alanında uzmanlaşmış profesyonellerden oluşan ekibimiz, sizi sağlıklı yaşam yolculuğunuzda desteklemek için burada.",
+      "learnMore": "Daha Fazla Bilgi",
+      "ctaTitle": "Uzmanlarımızla Tanışmak İster misiniz?",
+      "ctaButton": "Randevu Alın",
+      "asli": {
+        "name": "Fizyoterapist Aslı Tunçalp Özçelik",
+        "position": "Kurucu, Fizyoterapist",
+        "description": "Bahçeşehir üniversitesinden 2020'de bölüm üçüncüsü olarak mezun oldum. Meslek hayatımda 5. yılımdayım bir çok eğitimlere katıldım ve hala katılmaya devam ediyorum. Şuan asıl alanım olarak schroth terapistiyim ve osteopati eğitimi almaktayım. Fizyopraksis danışmanlık merkezi kurucusuyum.",
+        "certifications": "PSSE-SCHROTH METHOD, POSTÜR KOREKSİYON EĞİTİMİ, OMURGA PATOLOJİLERİNDE GÖRÜNTÜLEME EĞİTİMİ, APPI PILATES, FASCİAL MOBİLİZATİON AND OSTEOPATHY, OSTEOPATHİE SCHULE DEUTSCHLAND, UYGULAMALI TEMEL EGZERSİZ EĞİTİMİ, PELVİS SAKRUM KALÇA EĞİTİMİ, KLİNİK ANATOMİ VE BİYOMEKANİ"
+      },
+      "bengisu": {
+        "name": "Fizyoterapist Bengisu Buldak",
+        "position": "Fizyoterapist",
+        "description": "İzmir Tınaztepe Üniversitesi Fizyoterapi ve Rehabilitasyon bölümü mezunudur. Manuel terapi, reformer pilates, ve fizyoterapi alanlarında hizmet vermektedir.",
+        "certifications": "Manuel Terapi-DBE Academy, Reformer Pılates-KP Academy, Osteopathy-İFAO"
+      },
+      "gozde": {
+        "name": "Fizyoterapist Gözde Kahraman",
+        "position": "Fizyoterapist",
+        "description": "Dokuz Eylül Fizyoterapi ve Rehabilitasyon mezunu. Klinik Pilates, manuel terapi ve terapötik egzersiz alanlarında hizmet vermektedir.",
+        "certifications": "KLİNİK PİLATES EĞİTİMİ VE OSTEOPATHİC MANUAL THERAPHY EĞİTİMİ"
+      }
+    },
+    "testimonials": {
+      "title": "Google Yorumları",
+      "subtitle": "Hastalarımızın Google'daki Deneyimleri",
+      "badge": "Google Yorumları",
+      "stats": {
+        "googleRating": "Google Puanı",
+        "googleReviews": "Google Yorumu",
+        "happyPatients": "Mutlu Hasta",
+        "yearsExperience": "Yıllık Deneyim"
+      },
+      "viewAllButton": "Google'da Tüm Yorumları Gör",
+      "googleReviews": [
+        {
+          "name": "Egemen Okur",
+          "content": "Yıllardır bel fıtığı çekiyordum, fizyopraksis Fzt. Aslı Hanım ve Fzt. Gözde hanım çok profesyonelce ilgilenip gerekli 14 seans sonrasında hayatıma tekrar normal şekilde devam edebiliyorum. Canı gönülden teşekkürler",
+          "rating": 5,
+          "timeAgo": "Google'dan"
+        },
+        {
+          "name": "Roger Marshall",
+          "content": "Son zamanlarda donmuş omuz ve tenisçi dirseği için 12 seanslık bir kursu tamamladım. Bengisu Hanım baştan sona mükemmeldi...",
+          "rating": 5,
+          "timeAgo": "3 ay önce"
+        },
+        {
+          "name": "Sarah Khaled",
+          "content": "Bengisu Hanım ile 10 seans tamamladım ve Fizyo Praksis'e gittiğim için çok memnunum. Boynum ve omuzlarım blokeydi...",
+          "rating": 5,
+          "timeAgo": "7 ay önce"
+        },
+        {
+          "name": "G C",
+          "content": "Harika fizyoterapistler.",
+          "rating": 5,
+          "timeAgo": "6 ay önce"
+        },
+        {
+          "name": "Gulbin K",
+          "content": "Bengisu hanımla 11 seanslık boyun ve omuz tedavi sürecimi çok başarılı bir şekilde yeni tamamladım. Kendisi son derece başarılı, konusunda bilgili ve...",
+          "rating": 5,
+          "timeAgo": "1 ay önce"
+        },
+        {
+          "name": "Burak Çelik",
+          "content": "Merhabalar. 2 Eylül tarihinde öçb ve menisküs ameliyatı olmuştum. Ameliyattan sonraki 3. haftadan itibaren Bengisu ve Aslı Hocalarımla çalışmaya...",
+          "rating": 5,
+          "timeAgo": "6 ay önce"
+        },
+        {
+          "name": "Buse Göktaş",
+          "content": "Kesinlikle öneriyorum. Aslı hanım çok bilinçli ve hasta yaklaşımı çok iyi.",
+          "rating": 5,
+          "timeAgo": "5 ay önce"
+        },
+        {
+          "name": "Sidal Erel",
+          "content": "Boyun fıtığı tedavi sürecimde içten ve özenli yaklaşımları için Aslı hanım ve Bengisu hanıma çok teşekkür ederim. Fizyopraxis Fizyoterapi ve Danışmanlık merkezini herkese öneririm.",
+          "rating": 5,
+          "timeAgo": "5 ay önce"
+        },
+        {
+          "name": "Esma Akginel",
+          "content": "Çok güler yüzlü ve anlayışlı bir ekip ile tedavim gerçekleşti. Tedavi sürecim çok olumlu geçti ve iyileşme sürecimi tamamladım herkesin emeğine sağlık.",
+          "rating": 5,
+          "timeAgo": "5 ay önce"
+        },
+        {
+          "name": "Duygunur Bozaner",
+          "content": "Aslı Hanımın muhteşem güler yüzlü karşılamasından ve boynum için aldığım tedaviden aşırı memnun kaldım. Aldığım ilk seansta ağrılarımda azalma gerçekleşti. Buraya ne kadar yazsam az Kalır herkese kesinlikle öneriyorum.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Neşe Karasoy",
+          "content": "Boyun ağrısı ve kısıtlılığı nedeniyle tanıştım Fizyopraksisle. Aslı hanımın güler yüzü, yaklaşımı ve tedavisi profesyonel olarak ne kadar başarılı olduğunu...",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Secil Philippi",
+          "content": "Bir süre omuz rehabilitasyonu için devam ettim. Aslı hanım gerçekten işinde uzman çok genç olmasına rağmen kendisini çok geliştirmiş bir fizyoterapist. Güzelbahçe bölgesi için çok güzel bir gelişme bu kliniğin varlığı.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Tutku Akkuş",
+          "content": "Harika bir fizyoterapi merkezi, Aslı hanımın özgün ve profesyonel bilgi birikimi sayesinde rehabilitasyona dair çok şey öğrendim. Aslı Hanımın tecrübesine...",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Hüseyin Şahinoğlu",
+          "content": "Bel fıtığı ağrısıyla gittim ilk seansta bile etkisini gösterdi gittiğimde nerdeyse yürüyemiyordum 4 seansta ağrılarım %80 geçti ve yürümeye başladım herşey için çok teşekkür ediyorum Aslı hanım çok profesyonel di çok memnun kaldım",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "didem kıray",
+          "content": "Doğumdan sonraki sırt ağrılarım için kendisinin kliniğine gitmiştim çok memnun kaldım,bu süreçte birlikte ilerlemekten çok memnunum. Özellikle Temiz ve ilgili bir klinik olması benim için çok önemliydi.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Alper KİKOALP",
+          "content": "Daha önce kendisine Ayvalıkta da tedavi olmuştum. Çok başarılı genç fizyoterapist. Şiddetle tavsiye ediyorum.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Şükran Karasoy",
+          "content": "Aslı hanımın yaptığı tedaviden sonra ağrılarım azaldı. Yüksek enerjisi ve bilinçli tedavisi sayesinde kendimi daha iyi hissediyorum. Herkese tavsiye ediyorum.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "yasin pekgüleç",
+          "content": "Dayanılamayacak Bel ağrılarım vardı.Fizyopraksis ile tanıştıkdan sonra Aslı hanımın yardımlarıyla birlikte ağrılarımdan kurtuldum.Temiz,hijyenik ve kaliteli hizmet.Teşekkürler.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Gunes Kurubacak",
+          "content": "Fizyoterapist Aslı Hanım tarafından aldığım hizmetten çok memnun kaldım. İlgisi ve tedavime yönelik spesifik yaklaşımları alanında uzman olduğunu kanıtlar niteliktedir. Teşekkür ederim.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "yaren akkuş",
+          "content": "Aslı Hanım mükkeemmel bi fizyoterapist kendim de gittim çevremdekileri de gönderdim hepimiz çok memnunuz çok teşekkür ediyoruz",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Mustafa Özbaylanlı",
+          "content": "Bel fıtığı rahatsızlığım için Aslı Hanım'a başvurdum. Çok memnun kaldım. Teşekkürler",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "melike utku",
+          "content": "Desteği, tecrübesi, yakın alakası ve iyileştirme çabası…müthiş bir fizyoterapist",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "ece tuna",
+          "content": "İlgi ve alakadan dolayı Aslı Hanım a teşekkür ederim. Çok memnun kaldım.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "melek",
+          "content": "Tam anlamıyla muhteşemsiniz sizi çok sevdik ve herkese öneriyoruz sevgiyle",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        },
+        {
+          "name": "Ege Öztabak",
+          "content": "İlgi ve alaka muhteşem. Güleryüzlü çalışanlar.",
+          "rating": 5,
+          "timeAgo": "1 yıl önce"
+        }
+      ]
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Sağlıklı Yaşam İçin İpuçları",
+      "readMore": "Devamını Oku",
+      "posts": [
+        {
+          "title": "Bel Ağrısı İçin Günlük Egzersizler",
+          "excerpt": "Bel ağrısı ile mücadele etmek için evde yapabileceğiniz basit ama etkili egzersizler.",
+          "date": "15 Mayıs 2023",
+          "author": "Aslı Tunçalp Özçelik"
+        },
+        {
+          "title": "Doğru Duruş Nasıl Sağlanır?",
+          "excerpt": "Günlük hayatta doğru duruş alışkanlıkları ve postür bozukluklarını önlemenin yolları.",
+          "date": "22 Nisan 2023",
+          "author": "Bengisu Buldak"
+        },
+        {
+          "title": "Boyun Fıtığında Fizyoterapi Yaklaşımları",
+          "excerpt": "Boyun fıtığı tedavisinde güncel fizyoterapi yöntemleri ve faydaları.",
+          "date": "10 Mart 2023",
+          "author": "Gözde Kahraman"
+        },
+        {
+          "title": "Ofis Çalışanları İçin Egzersiz Önerileri",
+          "excerpt": "Uzun süre masa başında çalışanlar için omurga sağlığını koruyan pratik egzersizler.",
+          "date": "5 Şubat 2023",
+          "author": "Aslı Tunçalp Özçelik"
+        }
+      ]
+    },
+    "contact": {
+      "title": "İletişim",
+      "subtitle": "Bize Ulaşın",
+      "description": "Randevu almak veya sorularınız için bize ulaşabilirsiniz. Güzelbahçe'deki kliniğimizde sizleri bekliyoruz.",
+      "infoTitle": "İletişim Bilgileri",
+      "info": {
+        "address": "Adres",
+        "phone": "Telefon",
+        "email": "E-posta",
+        "hours": "Çalışma Saatleri",
+        "weekdays": "Pazartesi - Cuma: 09:00 - 19:00",
+        "weekend": "Cumartesi: Kapalı"
+      },
+      "form": {
+        "name": "Adınız Soyadınız",
+        "email": "E-posta Adresiniz",
+        "phone": "Telefon Numaranız",
+        "message": "Mesajınız",
+        "submit": "Gönder"
+      }
+    },
+    "howWeWork": {
+      "title": "Nasıl Çalışıyoruz",
+      "subtitle": "İyileşme Yolculuğunuz",
+      "step1": {
+        "title": "Randevu Oluşturma",
+        "description": "Uzman fizyoterapistlerimizle ilk konsültasyonunuzu planlayın"
+      },
+      "step2": {
+        "title": "Kapsamlı İnceleme",
+        "description": "MR, röntgen analizi ve fiziksel değerlendirmeyi içeren detaylı muayene"
+      },
+      "step3": {
+        "title": "Tedavi Planlaması",
+        "description": "Muayene sonuçlarına göre kişiselleştirilmiş tedavi stratejisi geliştirme"
+      },
+      "step4": {
+        "title": "Haftalık Uygulama",
+        "description": "Düzenli ilerleme takibi ile özelleştirilmiş tedavi planınızın uygulanması"
+      },
+      "continuousCare": {
+        "title": "Sürekli Bakım ve Destek",
+        "reminders": "Günlük egzersiz ve randevu hatırlatmaları",
+        "feedback": "Düzenli ilerleme geri bildirimi ve ayarlamalar",
+        "support": "İletişim kanallarımız üzerinden 7/24 destek"
+      }
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "subtitle": "Hizmetlerimiz Hakkında Sık Sorulan Sorular",
+      "description": "Fizyoterapi hizmetlerimiz hakkında sıkça sorulan soruların cevaplarını bulun.",
+      "questions": [
+        {
+          "question": "Fizyoterapi seansları ne kadar sürüyor?",
+          "answer": "Fizyoterapi seanslarımız genellikle 45-60 dakika sürmektedir. İlk değerlendirme seansı ise yaklaşık 60-90 dakika sürebilir."
+        },
+        {
+          "question": "Tedavi sürecim ne kadar sürecek?",
+          "answer": "Tedavi süresi, rahatsızlığınızın türüne ve şiddetine göre değişiklik gösterir. İlk değerlendirme sonrasında size özel bir tedavi planı ve tahmini süre belirlenecektir."
+        },
+        {
+          "question": "Sigorta kapsamında tedavi olabilir miyim?",
+          "answer": "Evet, anlaşmalı olduğumuz özel sağlık sigortaları ile tedavi olabilirsiniz. Detaylı bilgi için bizimle iletişime geçebilirsiniz."
+        },
+        {
+          "question": "İlk seansta neler yapılıyor?",
+          "answer": "İlk seansta detaylı bir fizik muayene yapılır, tıbbi geçmişiniz değerlendirilir ve şikayetleriniz dinlenir. Bu değerlendirme sonucunda size özel bir tedavi planı oluşturulur."
+        },
+        {
+          "question": "Randevu almak için ne yapmam gerekiyor?",
+          "answer": "Telefon, WhatsApp veya web sitemiz üzerinden kolayca randevu alabilirsiniz. Size en uygun gün ve saati seçerek randevunuzu oluşturabiliriz."
+        }
+      ]
+    },
+    "footer": {
+      "quickLinks": "Hızlı Bağlantılar",
+      "services": "Hizmetlerimiz",
+      "followUs": "Bizi Takip Edin",
+      "copyright": "© 2023 FizyoPraksis. Tüm hakları saklıdır.",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfService": "Kullanım Koşulları",
+      "tagline": "Türkiye'nin #1 Fizyoterapi Merkezi",
+      "description": "Sağlıklı yaşamın anahtarı doğru tedavi ve rehabilitasyondadır. Uzman kadromuzla yanınızdayız.",
+      "contactInfo": "İletişim Bilgileri",
+      "quickLinksTitle": "Hızlı Linkler",
+      "servicesTitle": "Hizmetlerimiz",
+      "contactUsTitle": "Bize Ulaşın",
+      "newsletterText": "Sağlık haberlerini ve özel kampanyalarımızı kaçırmayın!",
+      "emailPlaceholder": "E-posta adresiniz",
+      "socialMedia": "Sosyal Medya",
+      "allRightsReserved": "Tüm hakları saklıdır.",
+      "madeWithLove": "❤️ ile yapıldı",
+      "inTurkey": "Türkiye'de",
+      "privacyPolicyLink": "Gizlilik Politikası",
+      "termsLink": "Kullanım Şartları",
+      "cookiePolicy": "Çerez Politikası",
+      "stats": {
+        "happyPatients": "Mutlu Hasta",
+        "yearsExperience": "Yıl Deneyim",
+        "expertDoctors": "Uzman Doktor",
+        "safeTreatment": "Güvenli Tedavi"
+      },
+      "workingHours": {
+        "weekdays": "Pzt-Cum: 09:00-19:00",
+        "weekend": "Cmt-Pzr: Kapalı"
+      }
+    },
+    "expertsCTA": {
+      "badge": "Sağlıklı Yaşam İçin",
+      "title": "Uzman Kadromuzla Yanınızdayız",
+      "description": "Fizyoterapide yılların deneyimine sahip uzman fizyoterapistlerimiz, güncel tedavi yöntemleri ve kişiye özel rehabilitasyon programları ile sağlığınıza kavuşmanız için yanınızda.",
+      "features": [
+        "Kişiye özel tedavi programları",
+        "Deneyimli fizyoterapistler",
+        "Güncel teknik ve ekipmanlar",
+        "Rahat ve ferah ortam"
+      ],
+      "buttons": {
+        "whatsapp": "WhatsApp",
+        "appointment": "Randevu Al"
+      },
+      "imageAlt": "Fizyoterapi Tedavisi"
+    },
+    "expertDetail": {
+      "bookAppointment": "Randevu Al",
+      "about": "Hakkında",
+      "professionalBackground": "Profesyonel Geçmiş",
+      "specializations": "Uzmanlık Alanları",
+      "educationInfo": "Eğitim Bilgileri",
+      "undergraduateEducation": "Lisans Eğitimi",
+      "continuingEducation": "Sürekli Eğitim",
+      "certificationsTitle": "Sertifikalar ve Eğitimler",
+      "professionalCertificates": "Profesyonel Sertifikalarım",
+      "servicesTitle": "Hizmetlerim",
+      "specializedServices": "Uzmanlık Alanlarım",
+      "ctaTitle": "Sağlıklı yaşam yolculuğunuza başlayın",
+      "ctaDescription": "Size özel tedavi programı ile sağlığınızı yeniden kazanın. Hemen iletişime geçin.",
+      "whatsappButton": "WhatsApp",
+      "phoneButton": "Telefon",
+      "badges": {
+        "schrothTherapist": "Schroth Terapist",
+        "osteopathyTraining": "Osteopati Eğitimi",
+        "yearsExperience": "Yıl Deneyim",
+        "manualTherapy": "Manuel Terapi",
+        "reformerPilates": "Reformer Pilates",
+        "clinicalPilates": "Klinik Pilates"
+      },
+      "asli": {
+        "professionalBackgroundText1": "Bahçeşehir Üniversitesi Fizyoterapi ve Rehabilitasyon Bölümü'nden 2020 yılında bölüm üçüncüsü olarak mezun olmuştur. Meslek hayatında 2020 yılından beri sürekli kendini geliştirmek için birçok eğitime katılmış ve katılmaya devam etmektedir.",
+        "professionalBackgroundText2": "Şu an asıl uzmanlık alanı Schroth terapisidir ve aynı zamanda osteopati eğitimi almaktadır. FizyoPraksis danışmanlık merkezini kurarak, hastaların sağlıklı yaşama kavuşmalarında rehberlik etmeyi amaçlamaktadır.",
+        "specializations": [
+          "Schroth Metodu ile Skolyoz Tedavisi",
+          "Düzgün Postür-Duruş Rehabilitasyonu",
+          "Omurga Patolojileri Rehabilitasyonu",
+          "APPI Pilates",
+          "Osteopatik Manuel Terapi"
+        ],
+        "education": {
+          "university": "Bahçeşehir Üniversitesi",
+          "department": "Fizyoterapi ve Rehabilitasyon",
+          "graduationYear": "2020 - Bölüm 3. sıra",
+          "continuingEducation1": "Osteopati - Osteopathie Schule Deutschland",
+          "continuingEducation2": "Schroth Metodu - PSSE Sertifikası"
+        },
+        "services": [
+          {
+            "title": "Schroth Metodu",
+            "description": "Skolyoz ve omurga deformiteleri için özel egzersiz tedavisi"
+          },
+          {
+            "title": "Düzgün Postür-Duruş Rehabilitasyonu",
+            "description": "Kötü duruş alışkanlıklarının düzeltilmesi ve egzersiz programları"
+          },
+          {
+            "title": "Omurga Rehabilitasyonu",
+            "description": "Bel ve boyun fıtığı tedavisinde uzmanlaşmış yaklaşım"
+          },
+          {
+            "title": "Manuel Terapi",
+            "description": "El teknikleri ile kas-iskelet sistemi problemlerinin tedavisi"
+          }
+        ]
+      },
+      "bengisu": {
+        "professionalBackgroundText1": "İzmir Tınaztepe Üniversitesi Fizyoterapi ve Rehabilitasyon bölümü mezunudur. Manuel terapi, reformer pilates ve fizyoterapi alanlarında hizmet vermektedir.",
+        "professionalBackgroundText2": "Sürekli gelişen fizyoterapi alanında kendini güncel tutmak için düzenli olarak eğitimlere katılmakta, hastaların iyileşme sürecine katkı sağlamaya odaklanmaktadır.",
+        "specializations": [
+          "Manuel Terapi Teknikleri",
+          "Reformer Pilates Eğitimi",
+          "Ortopedik Rehabilitasyon",
+          "Osteopatik Yaklaşımlar",
+          "Sporcu Rehabilitasyonu"
+        ],
+        "education": {
+          "university": "İzmir Tınaz Tepe Üniversitesi",
+          "department": "Fizyoterapi ve Rehabilitasyon",
+          "graduationYear": "2019",
+          "continuingEducation1": "Manuel Terapi - DBE Academy",
+          "continuingEducation2": "Reformer Pilates - KP Academy"
+        },
+        "services": [
+          {
+            "title": "Manuel Terapi",
+            "description": "Eklem mobilizasyonu ve yumuşak doku teknikleri"
+          },
+          {
+            "title": "Reformer Pilates",
+            "description": "Cihaz destekli pilates ile güçlendirme ve esneklik"
+          },
+          {
+            "title": "Ortopedik Tedavi",
+            "description": "Kas-iskelet sistemi yaralanmalarının rehabilitasyonu"
+          },
+          {
+            "title": "Sporcu Rehabilitasyonu",
+            "description": "Spor yaralanmalarında özel tedavi programları"
+          }
+        ]
+      },
+      "gozde": {
+        "professionalBackgroundText1": "Dokuz Eylül Üniversitesi Fizyoterapi ve Rehabilitasyon mezunudur. Klinik pilates, manuel terapi ve terapötik egzersiz alanlarında hizmet vermektedir.",
+        "professionalBackgroundText2": "Hastalarının yaşam kalitesini artırmak ve fonksiyonel kapasitelerini geliştirmek için kişiselleştirilmiş tedavi yaklaşımları uygulamaktadır.",
+        "specializations": [
+          "Klinik Pilates",
+          "Manuel Terapi",
+          "Terapötik Egzersiz",
+          "Postür Analizi",
+          "Ağrı Yönetimi"
+        ],
+        "education": {
+          "university": "Dokuz Eylül Üniversitesi",
+          "department": "Fizyoterapi ve Rehabilitasyon",
+          "graduationYear": "2018",
+          "continuingEducation1": "Klinik Pilates Eğitimi",
+          "continuingEducation2": "Osteopatik Manuel Terapi Eğitimi"
+        },
+        "services": [
+          {
+            "title": "Klinik Pilates",
+            "description": "Rehabilitasyon odaklı pilates programları"
+          },
+          {
+            "title": "Manuel Terapi",
+            "description": "El teknikleri ile tedavi ve mobilizasyon"
+          },
+          {
+            "title": "Egzersiz Tedavisi",
+            "description": "Kişiselleştirilmiş egzersiz programları"
+          },
+          {
+            "title": "Düzgün Postür-Duruş Rehabilitasyonu",
+            "description": "Duruş bozukluklarının analizi ve tedavisi"
+          }
+        ]
+      }
+    }
+  }
+}

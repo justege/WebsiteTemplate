@@ -1,0 +1,143 @@
+fragment UserActivitySummaryFields on UserActivitySummary {
+  userId
+  userEmail
+  activityScore
+  lastActive
+  totalActions
+  churnRisk
+
+  country
+  referrer
+  deviceType
+  matchedSLAs {
+    id
+    name
+    label
+    rules {
+      id
+      operator
+      conditions {
+        type
+        value
+      }
+    }
+  }
+  segments {
+    id
+    name
+    label
+    description
+    segmentSLAs {
+      id
+      slaConfiguration {
+        id
+        name
+        label
+      }
+    }
+  }
+  dailyActivities {
+    date
+    totalActions
+    activities {
+      timestamp
+      actionType
+      url
+      referrer
+      activityDetails {
+        timestamp
+        action
+        actionText
+      }
+    }
+    metrics {
+      totalActions
+      buttonClicks
+      pageViews
+      formSubmits
+      visitedPages
+      firstAction
+      lastAction
+    }
+  }
+}
+
+
+query GetUserActivitiesByProduct($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  UserAnalytics: userActivitiesByProduct(
+    productId: $productId
+    startDate: $startDate
+    endDate: $endDate
+  ) {
+    ...UserActivitySummaryFields
+  }
+} 
+
+# New fragment for user details with shopping information
+fragment UserDetailFields on UserActivityDetail {
+  userId
+  userEmail
+  activityScore
+  lastActive
+  totalActions
+  churnRisk
+  segments {
+    id
+    name
+    label
+    description
+  }
+  matchedSLAs {
+    id
+    name
+    label
+  }
+  shoppingData {
+    totalCartAmount
+    totalCartProducts
+    totalVisitedProducts
+    totalCheckedOutProducts
+    cartedProducts {
+      productId
+      productName
+      price
+      quantity
+      dateAdded
+    }
+    visitedProducts {
+      productId
+      productName
+      visitCount
+      lastVisited
+    }
+    checkedOutProducts {
+      productId
+      productName
+      price
+      quantity
+      dateCheckedOut
+    }
+  }
+  activityHistory {
+    date
+    activities {
+      url
+      timestamp
+      actionType
+      activityDetails {
+        action
+        actionText
+      }
+    }
+  }
+  country
+  referrer
+  deviceType
+}
+
+# New query for user details
+query GetUserActivityDetails($productId: String!, $userId: String!) {
+  userActivityDetails(productId: $productId, userId: $userId) {
+    ...UserDetailFields
+  }
+} 

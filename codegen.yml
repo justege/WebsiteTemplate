@@ -1,0 +1,10 @@
+overwrite: true
+verbose: true
+schema: 'https://automatelio-api-small-paper-2188.fly.dev/graphql/'
+documents: 'src/graphql/**/*.graphql'
+generates: 
+  src/graphql/generated.do.not.touch.tsx:
+    plugins: 
+      - 'typescript'
+      - 'typescript-operations'
+      - 'typescript-urql'

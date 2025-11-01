@@ -1,0 +1,45 @@
+
+
+fragment PageFlowStatsFragment on PageFlowStats {
+  productId
+  userFlows {
+    userId
+    userEmail
+    firstSeen
+    lastSeen
+    totalPageViews
+    uniquePageViews
+    pageVisits {
+      url
+      visitCount
+      firstVisit
+      lastVisit
+      averageTimeSpent
+    }
+    flows {
+      sourceUrl
+      targetUrl
+      transitionCount
+      firstTransition
+      lastTransition
+    }
+  }
+  aggregatedFlows {
+    sourceUrl
+    targetUrl
+    totalTransitions
+    uniqueUsers
+    averageTimeSpent
+  }
+  pageStatistics {
+    key
+    value {
+      totalViews
+      uniqueUsers
+      averageTimeSpent
+      mostActiveDate
+      entryCount
+      exitCount
+    }
+  }
+} 

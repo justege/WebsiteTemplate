@@ -1,0 +1,31 @@
+query GetLeadScoringRulesByProduct($productId: String!) {
+  leadScoringRulesByProduct(productId: $productId) {
+    id
+    productId
+    name
+    description
+    type
+    operator
+    value
+    points
+    isActive
+    createdAt
+    updatedAt
+  }
+}
+
+query GetLeadScoringRuleById($ruleId: String!) {
+  leadScoringRuleById(ruleId: $ruleId) {
+    id
+    productId
+    name
+    description
+    type
+    operator
+    value
+    points
+    isActive
+    createdAt
+    updatedAt
+  }
+} 

@@ -1,0 +1,37 @@
+query GetSegmentsByProduct($productId: String!) {
+  segmentsByProduct(productId: $productId) {
+    id
+    name
+    label
+    description
+    isActive
+    createdAt
+    updatedAt
+    slAs {
+      id
+      slaId
+      slaName
+      slaLabel
+      operator
+    }
+  }
+}
+
+query GetSegmentById($segmentId: String!) {
+  segmentById(segmentId: $segmentId) {
+    id
+    name
+    label
+    description
+    isActive
+    createdAt
+    updatedAt
+    slAs {
+      id
+      slaId
+      slaName
+      slaLabel
+      operator
+    }
+  }
+} 

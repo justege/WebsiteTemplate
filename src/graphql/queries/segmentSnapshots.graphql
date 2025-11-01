@@ -1,0 +1,91 @@
+query GetSegmentSnapshots($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  segmentSnapshots(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    id
+    productId
+    snapshotDate
+    segmentsJson
+    createdAt
+  }
+}
+
+query GetSLASnapshots($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  slaSnapshots(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    id
+    productId
+    snapshotDate
+    slAsJson
+    createdAt
+  }
+}
+
+query GetLatestSegmentSnapshot($productId: String!) {
+  latestSegmentSnapshot(productId: $productId) {
+    id
+    productId
+    snapshotDate
+    segmentsJson
+    createdAt
+  }
+}
+
+query GetLatestSLASnapshot($productId: String!) {
+  latestSLASnapshot(productId: $productId) {
+    id
+    productId
+    snapshotDate
+    slAsJson
+    createdAt
+  }
+}
+
+query GetSegmentChangesAnalysis($productId: String!, $startDate: DateTime!, $endDate: DateTime!) {
+  segmentChangesAnalysis(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    date
+    previousDate
+    totalCurrentUsers
+    totalPreviousUsers
+    newUsers
+    removedUsers
+    changes {
+      segmentId
+      segmentName
+      currentUserCount
+      previousUserCount
+      newUsers
+      removedUsers
+      movedToOtherSegments {
+        userEmail
+        fromSegmentId
+        fromSegmentName
+        toSegmentId
+        toSegmentName
+      }
+      movedFromOtherSegments {
+        userEmail
+        fromSegmentId
+        fromSegmentName
+        toSegmentId
+        toSegmentName
+      }
+      isDeleted
+    }
+  }
+}
+
+query GetUserSegmentHistory($productId: String!, $userEmails: [String!]!, $startDate: DateTime!, $endDate: DateTime!) {
+  userSegmentHistory(
+    productId: $productId
+    userEmails: $userEmails
+    startDate: $startDate
+    endDate: $endDate
+  ) {
+    userEmail
+    changes {
+      date
+      fromSegmentId
+      fromSegmentName
+      toSegmentId
+      toSegmentName
+    }
+  }
+} 

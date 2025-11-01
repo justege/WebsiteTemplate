@@ -1,0 +1,45 @@
+query GetEmailReportsByProduct($productId: String!) {
+  emailReportsByProduct(productId: $productId) {
+    id
+    productId
+    isActive
+    createdAt
+    updatedAt
+    recipients
+  }
+}
+
+query GetEmailReportById($reportId: String!) {
+  emailReportById(reportId: $reportId) {
+    id
+    productId 
+    isActive
+    createdAt
+    updatedAt
+    recipients
+  }
+}
+
+query GetSentEmailReportsByProduct($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  sentEmailReportsByProduct(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    id
+    emailReportId
+    productId
+    sentDate
+    status
+    errorMessage
+    recipients
+  }
+}
+
+query GetSentEmailReportById($sentReportId: String!) {
+  sentEmailReportById(sentReportId: $sentReportId) {
+    id
+    emailReportId
+    productId
+    sentDate
+    status
+    errorMessage
+    recipients
+  }
+} 

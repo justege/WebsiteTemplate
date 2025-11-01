@@ -1,0 +1,64 @@
+#import "../fragments/stats.graphql"
+
+type KeyValuePairOfStringAndObject {
+  key: String!
+  value: String
+}
+
+query GetRawUserLogs(
+  $productId: String!, 
+  $startDate: DateTime, 
+  $endDate: DateTime,
+  $skip: Int,
+  $take: Int
+) {
+  rawUserLogs(
+    productId: $productId, 
+    startDate: $startDate, 
+    endDate: $endDate,
+    skip: $skip,
+    take: $take
+  ) {
+    items {
+      id
+      userId
+      productId
+      timestamp
+      actionType
+      activityDetails {
+        timestamp
+        action
+        actionText
+      }
+    }
+    pageInfo {
+      hasNextPage
+      hasPreviousPage
+    }
+    totalCount
+  }
+}
+
+query GetDailyUserLogs($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  dailyUserLogs(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    ...UserActivityFields
+  }
+}
+
+query GetDailyStats($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  dailyStats(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    ...DailyStatsFields
+  }
+}
+
+query GetWeeklyStats($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  weeklyStats(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    ...WeeklyStatsFields
+  }
+}
+
+query GetAllTimeProductActivityStats($productId: String!) {
+  allTimeProductActivityStats(productId: $productId) {
+    ...AllTimeProductActivityStatsFields
+  }
+}

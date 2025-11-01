@@ -1,0 +1,9 @@
+fragment ProductFields on Product {
+  productId
+  name
+  url
+  description
+  createdBy
+  createdOn
+  updatedOn
+} 

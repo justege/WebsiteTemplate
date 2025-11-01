@@ -1,0 +1,28 @@
+query GetUserActivitiesSecond($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  dailyUserLogs(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    id
+    userId
+    userEmail
+    lastActive
+    activities {
+      timestamp
+      actionType
+      url
+      referrer
+      activityDetails {
+        timestamp
+        action
+        actionText
+      }
+    }
+    metrics {
+      totalActions
+      buttonClicks
+      pageViews
+      formSubmits
+      visitedPages
+      firstAction
+      lastAction
+    }
+  }
+} 

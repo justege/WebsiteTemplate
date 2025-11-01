@@ -1,0 +1,22 @@
+query GetProductById($productId: String!) {
+  productById(productId: $productId) {
+    ...ProductFields
+  }
+}
+
+query GetMyProducts {
+  myProducts {
+    productId
+    name
+    url
+    description
+    createdBy
+    createdOn
+    updatedOn
+    totalRawDataCount
+    totalTokensCount
+    remainingCredit
+    embedStatus
+    lastEmbedCheck
+  }
+} 

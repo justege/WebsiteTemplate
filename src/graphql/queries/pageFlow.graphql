@@ -1,0 +1,5 @@
+query GetPageFlowStats($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  pageFlowStats(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    ...PageFlowStatsFragment
+  }
+} 

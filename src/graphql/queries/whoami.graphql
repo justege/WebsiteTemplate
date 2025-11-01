@@ -1,0 +1,18 @@
+query WhoAmI {
+  whoAmI {
+    id
+    email
+    applicationRoleNames 
+    firstName
+    lastName
+    userGuiding {
+      hasFinishedAppInstall
+      hasActivatedWidget
+      hasUsedAIAssistant
+      hasCreatedFilter
+      hasCreatedLeadScoring
+      hasCreatedSegment
+      hasCreatedCampaign
+    }
+  }
+}

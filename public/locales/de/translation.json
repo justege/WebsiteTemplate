@@ -1,0 +1,1752 @@
+{
+  "hero": {
+    "labels": {
+      "circledText": "Premium Agentur",
+      "heroImageTextTitle": "FizyoPraksis",
+      "heroImageTextContent": "Digitale Lösungen für Premium-Kliniken",
+      "blackTextFeature1": "Premium Websites",
+      "blackTextFeature2": "Digitales Marketing",
+      "blackTextFeature3": "Software-Lösungen",
+      "title": "für Premium-Kliniken",
+      "titleShining": "Digitale Exzellenz",
+      "titleBold": "Transformieren Sie Ihre Klinik",
+      "subTitle": "Wir schaffen außergewöhnliche digitale Erlebnisse für Premium-Kliniken. Von beeindruckenden Websites bis hin zu leistungsstarken Software-Lösungen helfen wir Ihnen, sich in der digitalen Landschaft abzuheben.",
+      "signUpButton": "Transformation Starten",
+      "liveDemo": "Portfolio Ansehen",
+      "startTrustText": "Vertraut von über 100+ Premium-Kliniken in Europa"
+    }
+  },
+
+  "mediumBlogsPage": {
+    "title": "Aktuelle Blogartikel",
+    "readMore": "Mehr lesen"
+  },
+
+  "exampleClient": {
+    "labels": {
+      "exampleClientTextTitle": "Dr. Mert Birancı",
+      "exampleClientTextContent": "Gründer von DtMert.com",
+      "exampleClientTitle": "Erfolgsbeispiele unserer Kunden",
+      "exampleClientContent": "Erfahren Sie, wie Dr. Mert seine Praxis mit Dentlio transformiert hat.",
+      "buttonText": "Dr. Merts Erfolgsgeschichte"
+    }
+  },
+
+  "header": {
+    "title": "Dentlio",
+    "labels": {
+      "signUpButton": "Jetzt anfragen",
+      "loginButton": "Anmelden",
+      "language": "Sprache"
+    },
+    "aria": {
+      "toggleNavigation": "Navigation umschalten"
+    }
+  },
+
+  "nav": {
+    "homepage": "Startseite",
+    "services": "Leistungen",
+    "implant": "Implantate",
+    "hollywoodSmile": "Hollywood Smile",
+    "hollywoodSmileSubLabel": "Perfekte Lächeln-Designs",
+    "implantSublabel": "Zuverlässige Implantatlösungen",
+    "veneers": "Veneers",
+    "veneersSublabel": "Hochwertige Veneers",
+    "zirconium": "Zirkonium",
+    "zirconiumSublabel": "Langlebige Zirkoniumbehandlungen",
+    "pricing": "Preise",
+    "blog": "Blog",
+    "about": "Über uns"
+  },
+
+  "brands": {
+    "labels": {
+      "title": "Unsere Partner"
+    }
+  },
+
+  "explainMore": {
+    "text": "Erhöhen Sie den ROI Ihrer Praxis mit einer erstklassigen digitalen Präsenz. Nutzen Sie modernste Technologien, um neue Patienten zu gewinnen und Ihre Praxis effizienter zu gestalten.",
+    "button": "Mehr erfahren",
+    "check": "Checken",
+    "explore": "Entdecken"
+  },
+
+  "fourImages": {
+    "labels": {
+      "step1": "Erreichen",
+      "step2": "Gewinnen",
+      "step3": "Verbessern",
+      "step4": "Erfolgreich sein",
+      "startText1": "Starten Sie Ihre digitale Reise",
+      "finishText1": "Schließen Sie mit einem",
+      "finishText2": "strahlenden Erfolg ab"
+    }
+  },
+
+  "rotatingTestimonial": {
+    "labels": {
+      "bestComment": "Fantastische Zusammenarbeit!",
+      "amountOfComments": "Basierend auf über 100 Bewertungen.",
+      "title": "Was unsere Kunden sagen",
+      "quotePerson": "Ayşe K., Zufriedene Patientin"
+    }
+  },
+
+  "singleTestimonial": {
+    "labels": {
+      "title": "Wir bauen nicht nur Webseiten, das können alle heutzutage, wir erstellen Marken der Zukunft - gemeinsam.",
+      "quotePerson": "Ege O., Dentlio"
+    }
+  },
+
+  "singleFeatureRightImage": {
+    "labels": {
+      "title": "Maßgeschneiderte Lösungen für Ihre Praxis",
+      "details": "Wir verstehen die einzigartigen Anforderungen von Zahnarztpraxen und entwickeln gezielte digitale Lösungen, die auf Ihre Bedürfnisse zugeschnitten sind."
+    }
+  },
+
+  "singleFeatureLeftImage": {
+    "labels": {
+      "title": "Erfahrung und Expertise",
+      "details": "Mit jahrelanger Erfahrung im Bereich Zahnarztpraxen bieten wir umfassende Webdesign- und Marketinglösungen, die Ihre Praxis hervorheben."
+    }
+  },
+
+  "howitworks": {
+    "labels": {
+      "title": "So funktioniert es",
+      "try": "Ihre Praxis digital transformieren",
+      "quotePerson": "Dr. Mert, Gründer von DtMert.com",
+      "firstStepTitle": "Beratung & Planung",
+      "firstStepContent": "Wir analysieren Ihre Praxisbedürfnisse und entwickeln ein maßgeschneidertes Konzept, das genau auf Ihre Ziele abgestimmt ist.",
+      "secondStepTitle": "Design & Umsetzung",
+      "secondStepContent": "Unser Team setzt das Konzept um, erstellt ein einzigartiges Design und sorgt für eine reibungslose technische Umsetzung.",
+      "thirdStepTitle": "Launch & Betreuung",
+      "thirdStepContent": "Nach dem Launch Ihrer Website bieten wir fortlaufenden Support, um sicherzustellen, dass Ihre Praxis immer optimal präsentiert wird."
+    }
+  },
+
+  "threeFeaturesWhy": {
+    "labels": {
+      "why": "Warum Dentlio?",
+      "firstStepTitle": "Premium Webseiten",
+      "firstStepContent": "Unsere Webseiten sind darauf ausgelegt, Ihre Praxis optimal zu präsentieren und mehr Patienten anzuziehen.",
+      "secondStepTitle": "Integrierte Kalender-App",
+      "secondStepContent": "Vereinfachen Sie die Terminplanung für Praxen mit unserer benutzerfreundlichen Kalender-App, die jederzeit für Ihre Zahnarztpraxis verfügbar ist.",
+      "thirdStepTitle": "Automatisiertes CRM",
+      "thirdStepContent": "Stärken Sie die Patientenbindung mit unserem CRM, das Ihnen hilft, personalisierte Kommunikation zu automatisieren und effizienter zu arbeiten."
+    }
+  },
+
+  "threeBoxes": {
+    "labels": {
+      "title": "Unsere Dienstleistungen im Überblick",
+      "firstStepTitle": "Expertenberatung",
+      "firstStepContent": "Unser erfahrenes Team bietet individuelle Beratung und maßgeschneiderte Lösungen für Ihre Praxis.",
+      "secondStepTitle": "Modernste Technologien",
+      "secondStepContent": "Wir setzen die neuesten Technologien ein, um Ihre Praxis erfolgreich online zu präsentieren.",
+      "thirdStepTitle": "Erstklassiger Support",
+      "thirdStepContent": "Wir begleiten Sie von der Planung bis zum Launch und darüber hinaus, um sicherzustellen, dass Ihre Praxis immer an der Spitze bleibt."
+    }
+  },
+
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "whatIsIt": "Was bietet Dentlio?",
+    "whatIsItContent": "Dentlio bietet umfassende digitale Lösungen, einschließlich Premium-Websites, SEO-Optimierung und einer integrierten Kalender-App, speziell für Zahnarztpraxen.",
+    "howArePagesCustomized": "Wie werden die Lösungen individuell angepasst?",
+    "howArePagesCustomizedContent": "Wir erstellen maßgeschneiderte Lösungen, die auf einer detaillierten Beratung und Analyse Ihrer Praxis basieren.",
+    "howToGetStarted": "Wie kann ich anfangen?",
+    "howToGetStartedContent": "Fordern Sie eine kostenlose Beratung an. Wir besprechen Ihre Bedürfnisse und entwickeln einen Plan, um Ihre Praxis digital zu transformieren.",
+    "howDoesItWork": "Wie funktioniert der Service?",
+    "howDoesItWorkContent": "Wir bieten einen klar strukturierten Prozess, von der Beratung über das Design bis hin zur kontinuierlichen Betreuung nach dem Launch Ihrer Website.",
+    "howIsPaymentMade": "Wie erfolgt die Bezahlung?",
+    "howIsPaymentMadeContent": "Zahlungen können sicher per Kreditkarte oder Überweisung erfolgen. Alle Transaktionen sind durch modernste Sicherheitsstandards geschützt.",
+    "howToChangeDoctor": "Wie kann ich meine Informationen aktualisieren?",
+    "howToChangeDoctorContent": "Loggen Sie sich in Ihr Konto ein und aktualisieren Sie Ihre Informationen einfach und schnell über unsere Plattform.",
+    "howToChangeLandingpage": "Kann ich meinen Serviceplan ändern?",
+    "howToChangeLandingPageContent": "Ja, Sie können Ihren Serviceplan jederzeit anpassen. Kontaktieren Sie uns einfach, um die Änderungen vorzunehmen."
+  },
+
+  "why": {
+    "labels": {
+      "firstTitle": "Warum Dentlio?",
+      "firstContent": "Dentlio bietet eine nahtlose, intuitive Lösung für alle digitalen Anforderungen Ihrer Praxis. Unsere Dienstleistungen sind darauf ausgelegt, Ihre Praxis effizienter zu gestalten und mehr Patienten zu gewinnen.",
+      "secondTitle": "Erfolg garantiert",
+      "secondContent": "Unsere Kunden erleben messbare Verbesserungen in der Patientenbindung und der Gesamtleistung ihrer Praxis."
+    }
+  },
+
+  "joinUs": {
+    "labels": {
+      "button": "Jetzt mitmachen",
+      "titleText": "Gemeinsam",
+      "firstText": "bauen wir Vertrauen auf.",
+      "secondText": "stärken wir Ihre Praxis.",
+      "thirdText": "überwinden wir Herausforderungen.",
+      "fourthText": "verbessern wir Ihre Dienstleistungen.",
+      "fifthText": "eliminieren wir Ineffizienzen.",
+      "bookNow": "Kostenlose Beratung anfordern",
+      "call": "Jetzt anrufen",
+      "firstTitle": "Werden Sie Teil der Dentlio-Familie",
+      "firstContent": "Dentlio bietet moderne, effektive Lösungen, die Ihre Praxis auf das nächste Level heben. Lassen Sie uns gemeinsam Ihre digitale Präsenz optimieren."
+    }
+  },
+
+  "about": {
+    "title": "Über Dentlio",
+    "welcome": "Willkommen bei Dentlio",
+    "aboutUsTitle": "Über uns",
+    "aboutUsContent": "Dentlio ist spezialisiert auf digitale Lösungen für Zahnarztpraxen. Unsere Dienstleistungen helfen Ihnen, eine herausragende Online-Präsenz zu schaffen und Ihre Praxis effizienter zu gestalten.",
+    "missionTitle": "Unsere Mission",
+    "missionContent": "Unsere Mission ist es, Zahnarztpraxen die besten digitalen Lösungen zu bieten, um ihre Praxisleistung und Patientenbindung zu verbessern.",
+    "visionTitle": "Unsere Vision",
+    "visionContent": "Wir wollen, dass jede Zahnarztpraxis ihr volles Potenzial entfalten kann. Dentlio steht für Innovation und Exzellenz in der Zahnmedizin."
+  },
+
+  "login": {
+    "cardTitle": "Ihre Praxis stärken",
+    "cardSubtitle": "mit Dentlios umfassenden Lösungen",
+    "you": "SIE",
+    "welcomeBackTitle": "Willkommen zurück",
+    "welcomeBackContent": "Schön, dass Sie wieder da sind! Melden Sie sich an, um Ihre Praxis mit Dentlio weiter zu stärken."
+  },
+
+  "register": {
+    "welcomeTitle": "Neues Konto erstellen",
+    "welcomeSubtitle": "Treten Sie Dentlio bei und transformieren Sie Ihre Praxis noch heute."
+  },
+
+  "maps": {
+    "labels": {
+      "headerTitle": "Kontaktieren Sie uns für weitere Informationen",
+      "title": "Besuchen Sie uns jederzeit",
+      "namePlaceholder": "Bitte geben Sie Ihren Namen ein",
+      "emailPlaceholder": "Bitte geben Sie Ihre E-Mail-Adresse ein",
+      "messagePlaceholder": "Bitte geben Sie Ihre Nachricht ein",
+      "name": "Name",
+      "email": "E-Mail",
+      "message": "Nachricht",
+      "sendButton": "Nachricht senden"
+    }
+  },
+
+  "fourInfoBox": {
+    "labels": {
+      "firstTitle": "Besuchen Sie uns jederzeit",
+      "firstContent": "Zeki Yavaş Sk. No:2/2, Fuat Edip Baksı, 35530 Bayraklı/İzmir",
+      "text1": "Mo-Fr : 9:30 – 19:30",
+      "text22": "Sa : 9:30 – 13:30",
+      "text3": "mertbiranci@gmail.com",
+      "text4": "+90 532 390 35 96"
+    }
+  },
+
+  "general": {
+    "mail": "E-Mail-Adresse",
+    "password": "Passwort",
+    "login": "Anmelden",
+    "register": "Neues Konto erstellen",
+    "privacyPolicy": "Durch die Nutzung von Dentlio stimmen Sie unserer Datenschutzrichtlinie und unseren Allgemeinen Geschäftsbedingungen zu.",
+    "or": "Oder",
+    "googleLogin": "Mit Google anmelden",
+    "googleSignUp": "Mit Google registrieren",
+    "alreadyHaveAnAccount": "Bereits ein Konto?",
+    "createAccount": "Neues Konto erstellen",
+    "back": "Zurück"
+  },
+
+  "footer": {
+    "labels": {
+      "blog": "Blog",
+      "features": "Dienstleistungen",
+      "firstFeature": "Über uns",
+      "secondFeature": "Medizintourismus",
+      "thirdFeature": "Preise",
+      "fourthFeature": "Zirkonium",
+      "fifthFeature": "Zahnaufhellung",
+      "sixthFeature": "Ästhetische Zahnheilkunde",
+      "sources": "Ressourcen",
+      "FAQ": "Häufig gestellte Fragen",
+      "security": "Sicherheit",
+      "about": "Über uns",
+      "contact": "Kontakt"
+    }
+  },
+
+  "greetingTextChat": {
+    "labels": {
+      "title": "Hallo 👋, ich bin Ege, Mitgründer von Dentlio. Lassen Sie uns Ihre Praxis in eine digitale Erfolgsgeschichte verwandeln. Füllen Sie einfach das Formular aus, und ich melde mich bei Ihnen 😊"
+    }
+  },
+
+  "chatWithMeComponent": {
+    "labels": {
+      "title": "Noch Fragen? Chatten Sie jetzt mit mir. Ich helfe Ihnen gerne weiter und plane Ihren nächsten Schritt.",
+      "buttonText": "Jetzt chatten"
+    }
+  },
+
+  "questionnaireComponent": {
+    "labels": {
+      "contactRequestSuccessMessage": "Wir werden uns bei Ihnen melden. In der Zwischenzeit können Sie die Blogs lesen.",
+      "successMessageTitle": "Danke, dass Sie sich mit uns in Verbindung gesetzt haben!",
+      "goToBlogSection": "Zum Blog-Bereich",
+    "headerTitle": "Kontaktieren Sie uns für weitere Informationen",
+      "back": "Zurück",
+      "save": "Absenden",
+      "next": "Nächste"
+    }
+  },
+
+  "calendar": {
+    "title": "Kalender",
+    "instructions": "Bitte wählen Sie zuerst das Datum, an dem Sie verfügbar sind, und wählen Sie dann das Zeitfenster aus.",
+    "datePickerLabel": "Datum und Zeit Präferenz",
+    "submitButton": "Präferenzen an den Experten senden",
+    "nameLabel": "Ihr Name",
+    "surnameLabel": "Ihr Nachname",
+    "emailLabel": "Ihre E-Mail-Adresse",
+    "phoneLabel": "Ihre Telefonnummer",
+    "passwordLabel": "Ihr Passwort"
+  },
+  "process": {
+    "title": "Prozess",
+    "subtitle": "Über Ihre Reise",
+    "description1": "Bevor der Prozess beginnt, können Sie bis zu drei Termine auswählen, die Ihnen am besten passen, was die Wahrscheinlichkeit eines Treffens mit Ihrem Experten erhöht.",
+    "description2": "Ihre Terminpräferenzen werden an Ihren Experten gesendet, sobald Sie auf die Schaltfläche 'Präferenzen senden' klicken, und Sie erhalten so schnell wie möglich eine Bestätigung per E-Mail.",
+    "description3": "Sobald der Termin bestätigt ist, können Sie die Details im Tab 'Meine Termine' einsehen."
+  },
+
+  "pricing": {
+    "title": "Preise",
+    "starterPlan": "Starter-Plan",
+    "idealForSmallPractices": "Ideal für kleinere Praxen",
+    "perTime": "pro Monat",
+    "signUpNow": "Jetzt anfragen",
+    "growthPlan": "Wachstumsplan",
+    "enterprisePlan": "Enterprise-Plan",
+    "startFreeTrial": "Jetzt anfragen",
+    "lowPrice": {
+      "price": "39",
+      "currency": "€",
+      "feature1": "Moderne Website",
+      "feature2": "SEO-Optimierung",
+      "feature3": "Google Maps Integration",
+      "feature4": "Formular-Builder"
+    },
+    "premiumPrice": {
+      "price": "69",
+      "currency": "€",
+      "feature1": "Moderne Website",
+      "feature2": "Erweiterte SEO-Optimierung",
+      "feature3": "Google Maps Integration",
+      "feature4": "Kalender-App für 5 Zahnärzte",
+      "feature5": "Automatisierte SMS/E-Mail-Erinnerungen",
+      "feature6": "Formular-Builder"
+    },
+    "enterprisePrice": {
+      "price": "159",
+      "currency": "€",
+      "feature1": "Alles im Premium-Plan",
+      "feature2": "Vollständige CRM-Integration",
+      "feature3": "Maßgeschneidertes Website-Design",
+      "feature4": "Erweiterter Kalender für ∞ Zahnärzte",
+      "feature5": "Praxis-Management-Anwendung",
+      "feature6": "Dedizierter Account-Manager"
+    }
+  },
+
+  "testimonials": [
+    {
+      "time": "28.03.2024",
+      "personName": "Dr. Emre Y.",
+      "Comment": "Dentlio hat meine Praxis komplett modernisiert. Die neue Website ist schnell, die Kalender-App benutzerfreundlich und der Kundenservice ist hervorragend. Sehr zu empfehlen!"
+    },
+    {
+      "time": "25.03.2024",
+      "personName": "Dr. Pınar T.",
+      "Comment": "Dank Dentlio ist die Terminplanung meiner Patienten jetzt effizienter. Die SEO-Dienstleistungen haben meine Online-Sichtbarkeit erheblich verbessert."
+    },
+    {
+      "time": "24.03.2024",
+      "personName": "Dr. Kerem O.",
+      "Comment": "Die Lösungen von Dentlio haben meine Praxis transformiert. Das automatisierte CRM hat die Patiententreue verbessert und der Service insgesamt ist erstklassig."
+    },
+    {
+      "time": "24.03.2024",
+      "personName": "Dr. Ayşe K.",
+      "Comment": "Das Dentlio-Team ist sehr professionell und detailorientiert. Ihre Dienstleistungen haben meiner Praxis sehr geholfen und ich empfehle sie sehr."
+    },
+    {
+      "time": "20.03.2024",
+      "personName": "Dr. John S.",
+      "Comment": "Meine Patienten lieben das neue Online-Buchungssystem. Es ist nahtlos und hat die Ausfallquote reduziert. Der Support von Dentlio ist fantastisch!"
+    },
+    {
+      "time": "18.03.2024",
+      "personName": "Dr. Anna B.",
+      "Comment": "Dentlio hat unsere Online-Präsenz wirklich verbessert. Die schnelle Website und die effektiven SEO-Strategien haben mehr Patienten gebracht."
+    },
+    {
+      "time": "15.03.2024",
+      "personName": "Dr. Hakan B.",
+      "Comment": "Das automatisierte CRM hat die Verwaltung der Patientenkommunikation mühelos gemacht. Das Dentlio-Team ist immer bereit zu helfen."
+    },
+    {
+      "time": "12.03.2024",
+      "personName": "Dr. Zeynep T.",
+      "Comment": "Ich bin beeindruckt von der Liebe zum Detail bei Dentlio. Unsere Website sieht professionell aus und die Kalender-App ist ein Game-Changer."
+    },
+    {
+      "time": "10.03.2024",
+      "personName": "Dr. Can D.",
+      "Comment": "Die Dienstleistungen von Dentlio haben meine Erwartungen übertroffen. Der integrierte Kalender und das CRM haben unsere Abläufe optimiert."
+    },
+    {
+      "time": "08.03.2024",
+      "personName": "Dr. Leyla K.",
+      "Comment": "Die SEO-Optimierung hat unsere Suchmaschinenplatzierungen erheblich verbessert. Die Lösungen von Dentlio sind äußerst effektiv."
+    },
+    {
+      "time": "05.03.2024",
+      "personName": "Dr. Ali R.",
+      "Comment": "Das Dentlio-Team ist professionell und reaktionsschnell. Unsere neue Website und automatisierten Systeme haben einen positiven Einfluss auf unsere Praxis gehabt."
+    },
+    {
+      "time": "03.03.2024",
+      "personName": "Dr. Fatma E.",
+      "Comment": "Die Kalender-App von Dentlio ist intuitiv und einfach zu bedienen. Unsere Patienten schätzen die Bequemlichkeit der Online-Buchung."
+    },
+    {
+      "time": "01.03.2024",
+      "personName": "Dr. Ahmet K.",
+      "Comment": "Die moderne Website und die SEO-Dienstleistungen haben mehr Traffic zu unserer Praxis gebracht. Der Support von Dentlio ist hervorragend."
+    },
+    {
+      "time": "28.02.2024",
+      "personName": "Dr. Selin Y.",
+      "Comment": "Ich bin sehr zufrieden mit den Dienstleistungen von Dentlio. Das automatisierte CRM hat uns geholfen, starke Patientenbeziehungen aufrechtzuerhalten."
+    },
+    {
+      "time": "25.02.2024",
+      "personName": "Dr. Murat C.",
+      "Comment": "Die Lösungen von Dentlio sind auf unsere Bedürfnisse zugeschnitten. Die neue Website und die Kalender-App haben unsere Effizienz verbessert."
+    },
+    {
+      "time": "22.02.2024",
+      "personName": "Dr. Julia H.",
+      "Comment": "Unsere Online-Präsenz war noch nie besser. Die von Dentlio bereitgestellte professionelle Website und die SEO-Dienstleistungen sind hervorragend."
+    },
+    {
+      "time": "19.02.2024",
+      "personName": "Dr. Thomas M.",
+      "Comment": "Die Kalender-App von Dentlio hat unseren Terminplanungsprozess optimiert, was es den Patienten erleichtert, online Termine zu buchen."
+    },
+    {
+      "time": "17.02.2024",
+      "personName": "Dr. Laura W.",
+      "Comment": "Das Dentlio-Team ist engagiert und professionell. Ihre Dienstleistungen haben die Leistung unserer Praxis erheblich verbessert."
+    },
+    {
+      "time": "14.02.2024",
+      "personName": "Dr. Mehmet Z.",
+      "Comment": "Das automatisierte CRM-System von Dentlio hat die Verwaltung der Patientenkommunikation erheblich vereinfacht. Sehr zu empfehlen!"
+    },
+    {
+      "time": "11.02.2024",
+      "personName": "Dr. Emma F.",
+      "Comment": "Dank Dentlio sieht unsere Website fantastisch aus und ist hoch funktional. Die SEO-Dienstleistungen haben mehr Patienten als je zuvor gebracht."
+    },
+    {
+      "time": "09.02.2024",
+      "personName": "Dr. Hasan N.",
+      "Comment": "Die umfassenden Lösungen von Dentlio haben unsere Praxis modernisiert. Besonders wertvoll sind die Kalender-App und das automatisierte CRM."
+    },
+    {
+      "time": "06.02.2024",
+      "personName": "Dr. Lisa P.",
+      "Comment": "Das Dentlio-Team hat einen hervorragenden Service geboten. Unsere neue Website ist schnell und benutzerfreundlich, und die SEO-Optimierung ist hervorragend."
+    },
+    {
+      "time": "04.02.2024",
+      "personName": "Dr. Oliver R.",
+      "Comment": "Ich bin sehr zufrieden mit den Dienstleistungen von Dentlio. Das integrierte Kalendersystem und das automatisierte CRM haben unsere Abläufe optimiert."
+    },
+    {
+      "time": "02.02.2024",
+      "personName": "Dr. Sophie K.",
+      "Comment": "Der professionelle Ansatz und die effektiven Lösungen von Dentlio haben unserer Praxis erheblich geholfen. Sehr zu empfehlen!"
+    }
+  ],
+
+  "additionalServices": {
+    "title": "Zusätzliche Dienste",
+    "subtitle": "Steigern Sie den Wert Ihrer Website mit unseren Premium-Add-ons",
+    "scheduling": {
+      "title": "Smart Terminplaner",
+      "description": "Unser intelligenter Terminplaner versteht die Bedürfnisse Ihrer Patienten und optimiert Ihren Praxisablauf."
+    },
+    "clientAcceptance": {
+      "title": "Digitale Patientenaufnahme",
+      "description": "Vereinfachen Sie den Aufnahmeprozess mit unserem digitalen Widget für die Patientenakzeptanz und Einwilligungsverklärungen."
+    },
+    "reminder": {
+      "title": "Erinnerungssystem",
+      "description": "Reduzieren Sie Terminausfälle mit unserem automatisierten Erinnerungssystem mit Bestätigungsfunktion."
+    },
+    "digitalAnamnese": {
+      "title": "Digital Anamnese",
+      "description": "Digitalisieren Sie den Anamneseprozess, reduzieren Sie Papierkram und verbessern Sie die Patientenerfahrung mit unseren digitalen Anamneseformularen."
+    },
+    "learnMore": "Mehr erfahren"
+  },
+  
+  "contactForm": {
+    "intro": "Starten Sie jetzt mit Dentlio und digitalisieren Sie Ihre Zahnarztpraxis. Füllen Sie das Formular aus, und unser Team wird sich umgehend bei Ihnen melden.",
+    "messageSent": "Nachricht gesendet!",
+    "loading": "Wird gesendet..."
+  },
+
+  "fizyopraksis": {
+    "common": {
+      "siteName": "FizyoPraksis",
+      "tagline": "Physiotherapie für ein gesundes Leben",
+      "phone": "+90 545 673 05 09",
+      "email": "info@fizyopraksis.com",
+      "address": "Yelki, İnönü Cd. No:28/2, 35310 Güzelbahçe/İzmir",
+      "contactUs": "Kontaktieren Sie uns für weitere Informationen",
+      "language": "Sprache",
+      "contact": "Kontakt"
+    },
+    "nav": {
+      "home": "Startseite",
+      "services": "Leistungen",
+      "about": "Über uns",
+      "experts": "Unsere Experten",
+      "testimonials": "Bewertungen",
+      "faq": "FAQ"
+    },
+    "aria": {
+      "openMenu": "Menü öffnen"
+    },
+    "howWeWork": {
+      "title": "Wie wir arbeiten",
+      "subtitle": "Ihr Weg zur Genesung",
+      "step1": {
+        "title": "Terminvereinbarung",
+        "description": "Vereinbaren Sie Ihre erste Beratung mit unseren erfahrenen Physiotherapeuten"
+      },
+      "step2": {
+        "title": "Umfassende Untersuchung",
+        "description": "Gründliche Untersuchung einschließlich MRT, Röntgenanalyse und körperlicher Beurteilung"
+      },
+      "step3": {
+        "title": "Behandlungsplanung",
+        "description": "Entwicklung einer personalisierten Behandlungsstrategie basierend auf den Untersuchungsergebnissen"
+      },
+      "step4": {
+        "title": "Wöchentliche Durchführung",
+        "description": "Umsetzung Ihres individuellen Behandlungsplans mit regelmäßiger Fortschrittskontrolle"
+      },
+      "continuousCare": {
+        "title": "Kontinuierliche Betreuung & Unterstützung",
+        "reminders": "Tägliche Übungs- und Terminerinnerungen",
+        "feedback": "Regelmäßiges Fortschrittsfeedback und Anpassungen",
+        "support": "24/7 Unterstützung über unsere Kommunikationskanäle"
+      }
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Häufige Fragen zu unseren Dienstleistungen",
+      "description": "Finden Sie Antworten auf häufig gestellte Fragen zu unseren physiotherapeutischen Leistungen. Wenn Sie weitere Informationen benötigen, steht unser Team Ihnen jederzeit zur Verfügung.",
+      "questions": [
+        {
+          "question": "Was passiert in der ersten Sitzung?",
+          "answer": "In der ersten Sitzung führen wir eine detaillierte Beurteilung durch. Wir sammeln Informationen über Ihre Krankengeschichte, Beschwerden und Ziele. Wir überprüfen Bildgebungsergebnisse wie MRT und Röntgenaufnahmen, führen eine körperliche Untersuchung durch und erstellen einen personalisierten Behandlungsplan."
+        },
+        {
+          "question": "Wie lange dauert der Behandlungsprozess?",
+          "answer": "Die Behandlungsdauer variiert je nach Art und Schwere des Problems sowie persönlichen Faktoren. Der Fortschritt wird wöchentlich mit regelmäßigen Beurteilungen verfolgt. Während sich einige Beschwerden in wenigen Sitzungen bessern können, benötigen chronische Probleme möglicherweise eine längerfristige Behandlung."
+        },
+        {
+          "question": "Kann ich während der Behandlung meinen Alltag fortsetzen?",
+          "answer": "Ja, Ihr Behandlungsplan wird unter Berücksichtigung Ihrer täglichen Aktivitäten erstellt. Wir unterstützen Sie dabei, Ihre tägliche Routine mit einem personalisierten Übungsprogramm und Empfehlungen beizubehalten. Bei Bedarf werden Aktivitätsanpassungen vorgeschlagen."
+        },
+        {
+          "question": "Welche Beschwerden behandeln Sie?",
+          "answer": "Wir bieten Dienstleistungen für ein breites Spektrum von Beschwerden an, einschließlich orthopädischer Rehabilitation (Rückenschmerzen, Bandscheibenvorfälle, Muskelverletzungen), neurologischer Rehabilitation, Haltungsstörungen, Sportverletzungen und postoperativer Rehabilitation."
+        },
+        {
+          "question": "Bieten Sie Heimübungsprogramme an?",
+          "answer": "Ja, wir erstellen personalisierte Heimübungsprogramme zur Unterstützung Ihrer klinischen Behandlung. Wir verfolgen Ihre Übungen durch tägliche Erinnerungen und ein Feedback-System."
+        }
+      ]
+    },
+    "hero": {
+      "title": "Für ein gesundes Leben",
+      "titleHighlight": "Professionelle Physiotherapie",
+      "subtitle": "Wir bieten mit unserem Expertenteam spezialisierte Lösungen für Ihre orthopädischen und neurologischen Probleme.",
+      "ctaButton": "Termin Vereinbaren",
+      "learnMoreButton": "Mehr Erfahren",
+      "clinicRanking": "#1 Physiotherapie-Zentrum",
+      "videoButton": "Video Ansehen",
+      "features": {
+        "expertPhysiotherapists": "Experten-Physiotherapeuten",
+        "modernTechniques": "Moderne Techniken",
+        "personalizedTreatment": "Personalisierte Behandlung"
+      },
+      "workingHours": "Mo-Sa: 09:00-19:00",
+      "video": {
+        "exploreClinic": "Unsere Klinik Entdecken",
+        "virtualTour": "Virtuelle Tour und Einführungsvideo",
+        "quality": "HD",
+        "duration": "0:45"
+      },
+      "stats": {
+        "rating": "4.9",
+        "reviews": "200+ Bewertungen",
+        "experience": "8+ Jahre Erfahrung",
+        "expertTeam": "Experten-Physiotherapeuten in ihrem Fachgebiet"
+      }
+    },
+    "services": {
+      "title": "Unsere Leistungen",
+      "subtitle": "Behandlungsangebote",
+      "viewAllButton": "Alle unsere Leistungen ansehen",
+      "bookAppointment": "Termin vereinbaren",
+      "viewDetails": "Details ansehen",
+      "treatedConditions": "Behandelte Beschwerden",
+      "applicationAreas": "Anwendungsbereiche",
+      "treatmentMethods": "Behandlungsmethoden",
+      "frequentlyAskedQuestions": "Häufig gestellte Fragen",
+      "orthopedic": {
+        "title": "Orthopädische Physiotherapie",
+        "description": "Behandlung von Rücken- und Halsbandscheibenvorfällen, Muskelverletzungen, chronischen Schmerzen und postoperative Rehabilitation.",
+        "subtitle": "Im Rahmen der orthopädischen Physiotherapie behandelte Beschwerden",
+        "ctaText": "Vereinbaren Sie sofort einen Termin für Ihre orthopädischen Probleme und erlangen Sie Ihre Gesundheit zurück.",
+        "features": [
+          "Rücken- und Halsbandscheibenvorfall-Behandlung",
+          "Muskel- und Gelenkverletzungen",
+          "Postoperative Rehabilitation",
+          "Sportverletzungen",
+          "Chronische Schmerzbehandlung",
+          "Gelenkarthritis-Behandlung",
+          "Sehnen- und Bänderverletzungen",
+          "Wirbelsäulendeformitäten",
+          "Post-Prothesen-Rehabilitation"
+        ],
+        "whatIs": {
+          "subtitle": "Was ist Orthopädische Physiotherapie?",
+          "title": "Experten-Rehabilitation des Bewegungssystems",
+          "description1": "Orthopädische Physiotherapie ist ein Fachbereich, der sich auf Probleme des Bewegungsapparats konzentriert. Sie verwendet wissenschaftliche Methoden und moderne Techniken bei der Behandlung von Knochen-, Muskel-, Gelenk-, Band- und Sehnenverletzungen.",
+          "description2": "Unsere Experten-Physiotherapeuten erzielen mit personalisierten Behandlungsprogrammen effektive Ergebnisse bei der Lösung sowohl akuter als auch chronischer orthopädischer Probleme."
+        },
+        "stats": {
+          "yearsExperience": "Jahre Erfahrung",
+          "successfulTreatments": "Erfolgreiche Behandlungen",
+          "patientSatisfaction": "Patientenzufriedenheit"
+        },
+        "benefits": {
+          "subtitle": "Vorteile der Orthopädischen Physiotherapie",
+          "title": "Warum Orthopädische Physiotherapie wählen?",
+          "description": "Orthopädische Physiotherapie verbessert Ihre Lebensqualität durch Stärkung Ihres Bewegungssystems.",
+          "painRelief": {
+            "title": "Schmerzkontrolle",
+            "description": "Wir reduzieren Ihre akuten und chronischen Schmerzen effektiv mit modernen Schmerzmanagement-Techniken."
+          },
+          "strengthening": {
+            "title": "Muskelstärkung",
+            "description": "Wir erhöhen die funktionelle Kapazität durch Stärkung Ihrer geschwächten Muskeln mit gezielten Übungsprogrammen."
+          },
+          "functionalRestoration": {
+            "title": "Funktionelle Wiederherstellung",
+            "description": "Wir setzen umfassende Rehabilitationsprogramme um, damit Sie Ihre täglichen Aktivitäten bequem ausführen können."
+          },
+          "expertCare": {
+            "title": "Experten-Betreuung",
+            "description": "Sie erhalten sichere und effektive Behandlung mit unserem erfahrenen Team, das auf orthopädische Physiotherapie spezialisiert ist."
+          }
+        },
+        "techniques": {
+          "subtitle": "Behandlungstechniken",
+          "title": "Moderne Orthopädische Rehabilitationsmethoden",
+          "description": "Wir bieten effektive und schnelle Genesung mit den aktuellsten orthopädischen Physiotherapie-Techniken.",
+          "therapeuticExercise": {
+            "name": "Therapeutische Übungen",
+            "description": "Steigerung von Muskelkraft, Flexibilität und Ausdauer mit personalisierten Übungsprogrammen"
+          },
+          "manualTherapy": {
+            "name": "Manuelle Therapie",
+            "description": "Erhöhung der Gelenkbeweglichkeit mit handangewandten Mobilisations- und Manipulationstechniken"
+          },
+          "postOperativeRehab": {
+            "name": "Postoperative Rehabilitation",
+            "description": "Schnelle Genesung mit systematischen Rehabilitationsprogrammen nach chirurgischen Eingriffen"
+          },
+          "sportsRehab": {
+            "name": "Sport-Rehabilitation",
+            "description": "Rehabilitationsprogramme speziell für Sportverletzungen und Leistungssteigerungstechniken"
+          }
+        },
+        "process": {
+          "description": "Wir bieten Ihnen die am besten geeignete Behandlung durch unseren professionellen orthopädischen Rehabilitationsprozess."
+        },
+        "faq": {
+          "contactDescription": "Sie können uns für Ihre Fragen zur orthopädischen Physiotherapie anrufen oder über WhatsApp kontaktieren."
+        },
+        "additionalFaq": {
+          "sportsInjuries": {
+            "question": "Wie effektiv ist orthopädische Physiotherapie bei Sportverletzungen?",
+            "answer": "Orthopädische Physiotherapie ist sehr effektiv bei Sportverletzungen. Je nach Art der Verletzung kann die Rückkehr-zum-Sport-Zeit für Athleten mit 4-12 Wochen Behandlung erheblich verkürzt werden."
+          },
+          "chronicPain": {
+            "question": "Wie hilft sie bei chronischen Schmerzproblemen?",
+            "answer": "Bei chronischen orthopädischen Schmerzen werden gezielte Behandlungsprogramme angewendet, indem die Ursache der Schmerzen ermittelt wird. Langfristige Lösungen werden mit manueller Therapie, Übung und Schmerzmanagement-Techniken bereitgestellt."
+          },
+          "prevention": {
+            "question": "Ist es möglich, orthopädische Probleme zu verhindern?",
+            "answer": "Ja, viele orthopädische Probleme können mit regelmäßiger Bewegung, korrekter Haltungsschulung und ergonomischen Anpassungen verhindert werden. Präventive Physiotherapie-Programme sind in dieser Hinsicht sehr effektiv."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Wie lange dauert die orthopädische Physiotherapie?",
+            "answer": "Die Behandlungsdauer variiert je nach Schwere Ihres Zustands. Normalerweise dauert sie zwischen 6-12 Wochen."
+          },
+          {
+            "question": "Für welche Beschwerden ist sie geeignet?",
+            "answer": "Sie ist geeignet für Rückenschmerzen, Nackenschmerzen, Muskelverletzungen, Gelenkprobleme und postoperative Rehabilitation."
+          }
+        ]
+      },
+      "neurological": {
+        "title": "Neurologische Rehabilitation",
+        "description": "Spezialisierte Programme für Schlaganfall, MS und andere neurologische Erkrankungen.",
+        "subtitle": "Im Rahmen der neurologischen Rehabilitation behandelte Erkrankungen",
+        "ctaText": "Vereinbaren Sie einen Termin mit unserem Expertenteam für Ihre neurologischen Probleme.",
+        "features": [
+          "Schlaganfall-Rehabilitation",
+          "MS-Patienten-Rehabilitation",
+          "Parkinson-Krankheit-Behandlung",
+          "Rückenmarksverletzung-Rehabilitation",
+          "Periphere Nervenverletzungen",
+          "Rehabilitation nach Gehirntrauma",
+          "Neuromuskuläre Erkrankungen",
+          "Vestibuläre Rehabilitation",
+          "Kognitive Rehabilitation",
+          "Gleichgewichts- und Koordinationsstörungen",
+          "Neuropathische Schmerzbehandlung",
+          "Funktionelle Elektrostimulation"
+        ],
+        "whatIs": {
+          "subtitle": "Was ist Neurologische Rehabilitation?",
+          "title": "Expertenrehabilitation für das Nervensystem",
+          "description1": "Neurologische Rehabilitation ist ein spezialisierter Behandlungsansatz zur Wiederherstellung von Funktionen, die durch Schäden am Gehirn, Rückenmark und Nervensystem verloren gegangen sind. Personalisierte Programme werden unter Verwendung aktueller wissenschaftlicher Methoden und moderner Technologien erstellt.",
+          "description2": "Unsere erfahrenen Physiotherapeuten wenden personalisierte Rehabilitationsprogramme an, um Bewegungsverluste, Gleichgewichtsprobleme und Einschränkungen bei täglichen Aktivitäten zu behandeln, die durch neurologische Erkrankungen verursacht werden."
+        },
+        "stats": {
+          "yearsExperience": "Jahre Erfahrung",
+          "successfulTreatments": "Erfolgreiche Behandlungen",
+          "patientSatisfaction": "Patientenzufriedenheit"
+        },
+        "benefits": {
+          "subtitle": "Vorteile der Neurologischen Rehabilitation",
+          "title": "Warum Neurologische Rehabilitation wählen?",
+          "description": "Neurologische Rehabilitation ermöglicht es Ihnen, durch Nervensystemschäden verlorene Funktionen wiederzugewinnen.",
+          "functionalRecovery": {
+            "title": "Funktionelle Wiederherstellung",
+            "description": "Wir helfen Ihnen, verlorene motorische und sensorische Funktionen durch gezielte Übungen und moderne Technologien wiederzugewinnen."
+          },
+          "cognitiveImprovement": {
+            "title": "Kognitive Entwicklung",
+            "description": "Wir implementieren spezialisierte kognitive Rehabilitationsprogramme zur Verbesserung von Gedächtnis, Aufmerksamkeit und Problemlösungsfähigkeiten."
+          },
+          "qualityOfLife": {
+            "title": "Lebensqualitätssteigerung",
+            "description": "Wir bieten umfassende Rehabilitationsunterstützung, damit Sie tägliche Aktivitäten selbstständig ausführen können."
+          },
+          "expertCare": {
+            "title": "Expertenbetreuung",
+            "description": "Sie erhalten sichere und effektive Behandlung von unserem erfahrenen Team, das auf neurologische Rehabilitation spezialisiert ist."
+          }
+        },
+        "techniques": {
+          "subtitle": "Behandlungstechniken",
+          "title": "Moderne Neurologische Rehabilitationsmethoden",
+          "description": "Wir bieten effektive und schnelle Genesung mit den aktuellsten neurologischen Rehabilitationstechniken.",
+          "neurorehab": {
+            "name": "Neuroplastizitätstraining",
+            "description": "Spezialisierte Übungsprogramme zur Steigerung der Wiedererlernfähigkeit des Gehirns"
+          },
+          "functionalTraining": {
+            "name": "Funktionelles Training",
+            "description": "Praktische Übungen mit Fokus auf das Wiedererlernen und Verbessern täglicher Aktivitäten"
+          },
+          "cognitiveTherapy": {
+            "name": "Kognitive Therapie",
+            "description": "Speziell vorbereitete kognitive Übungen zur Verbesserung von Gedächtnis, Aufmerksamkeit und exekutiven Funktionen"
+          },
+          "assistiveTech": {
+            "name": "Hilfstechnologien",
+            "description": "Moderne Behandlungsmethoden unterstützt durch robotische Rehabilitation und Virtual-Reality-Systeme"
+          }
+        },
+        "process": {
+          "description": "Wir bieten Ihnen die am besten geeignete Behandlung durch unseren professionellen neurologischen Rehabilitationsprozess."
+        },
+        "faq": {
+          "contactDescription": "Sie können uns für Ihre Fragen zur neurologischen Rehabilitation anrufen oder über WhatsApp kontaktieren."
+        },
+        "additionalFaq": {
+          "recovery": {
+            "question": "Wie funktioniert der Genesungsprozess in der neurologischen Rehabilitation?",
+            "answer": "Der Genesungsprozess variiert je nach Zustand des Patienten, Alter und Schwere der Schädigung. Mit frühzeitiger Intervention und regelmäßiger Behandlung werden innerhalb von 6-12 Monaten bedeutende Verbesserungen beobachtet. Langfristige Genesung kann dank der Neuroplastizitätseigenschaft des Gehirns fortgesetzt werden."
+          },
+          "familySupport": {
+            "question": "Ist Familienunterstützung in der neurologischen Rehabilitation wichtig?",
+            "answer": "Ja, Familienunterstützung ist eine der wichtigsten Komponenten der neurologischen Rehabilitation. Wir bieten Familien Schulungen zu Patientenbetreuung, Übungsunterstützung und Motivationstechniken. Wir unterstützen den Prozess mit Heimprogrammen und Betreuungsempfehlungen."
+          },
+          "earlyIntervention": {
+            "question": "Ist frühzeitige Intervention in der neurologischen Rehabilitation kritisch?",
+            "answer": "Frühzeitige Intervention ist sehr kritisch in der neurologischen Rehabilitation. Die ersten 6 Monate werden als 'goldene Periode' bezeichnet und intensive Rehabilitation während dieser Zeit erzielt die besten Ergebnisse. Jedoch können auch von später begonnener Rehabilitation Vorteile gesehen werden."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Auf wen wird neurologische Rehabilitation angewendet?",
+            "answer": "Sie wird auf Schlaganfallpatienten, Menschen mit MS, Parkinson und anderen neurologischen Problemen angewendet."
+          },
+          {
+            "question": "Wie wird der Behandlungsprozess durchgeführt?",
+            "answer": "Nach detaillierter Bewertung wird ein personalisiertes Übungsprogramm erstellt und regelmäßig überwacht."
+          }
+        ]
+      },
+      "scoliosis": {
+        "title": "Skoliose - Schroth Therapie",
+        "description": "Spezialisierte Schroth-Methode für Skoliose-Behandlung mit personalisierten 3D-Übungsprogrammen.",
+        "subtitle": "Umfassende Skoliose-Behandlung mit der Schroth-Methode",
+        "ctaText": "Vereinbaren Sie einen Termin mit unserer Schroth-Expertin Aslı Tunçalp für Ihre Skoliose-Behandlung.",
+        "features": [
+          "3D-Schroth-Übungen",
+          "Personalisierte Korrekturprogramme",
+          "Atemtherapie",
+          "Haltungsschulung",
+          "Progression-Monitoring",
+          "Familienberatung"
+        ],
+        "whatIs": {
+          "subtitle": "Was ist die Schroth-Methode?",
+          "title": "Spezialisierte 3D-Therapie für Skoliose",
+          "description1": "Die Schroth-Methode ist eine spezialisierte, dreidimensionale Behandlungsmethode für Skoliose. Diese Methode korrigiert Wirbelsäulendeformitäten mit personalisierten Übungsprogrammen, Atemtechniken und Haltungsschulung.",
+          "description2": "Unsere zertifizierte Schroth-Therapeutin Aslı Tunçalp bietet mit ihrer Expertise eine individuelle Behandlung, die speziell auf die einzigartige Krümmungsstruktur jedes Patienten zugeschnitten ist."
+        },
+        "stats": {
+          "yearsExperience": "Jahre Erfahrung",
+          "successfulTreatments": "Erfolgreiche Behandlungen",
+          "patientSatisfaction": "Patientenzufriedenheit"
+        },
+        "benefits": {
+          "subtitle": "Vorteile der Schroth-Therapie",
+          "title": "Warum die Schroth-Methode wählen?",
+          "description": "Die Schroth-Methode bietet einen wissenschaftlich fundierten Ansatz zur Behandlung von Skoliose.",
+          "curvatureCorrection": {
+            "title": "Krümmungskorrektur",
+            "description": "Reduziert Wirbelsäulenkrümmungen durch spezielle 3D-Korrekturübungen und verbessert die Wirbelsäulenausrichtung."
+          },
+          "breathingImprovement": {
+            "title": "Atemverbesserung",
+            "description": "Verbessert die Lungenfunktion und Atemkapazität durch spezielle Atemtechniken der Schroth-Methode."
+          },
+          "painReduction": {
+            "title": "Schmerzlinderung",
+            "description": "Reduziert Rücken- und Muskelschmerzen durch Korrektur der Haltung und Muskelungleichgewichte."
+          },
+          "progressPrevention": {
+            "title": "Progressionsprävention",
+            "description": "Verhindert das Fortschreiten der Skoliose und verbessert die langfristige Prognose."
+          }
+        },
+        "techniques": {
+          "subtitle": "Angewandte Techniken",
+          "title": "Moderne Schroth-Therapiemethoden",
+          "description": "Wir wenden die neuesten Schroth-Techniken an, die individuell auf Ihren Skoliose-Typ angepasst sind.",
+          "correctionExercises": {
+            "name": "3D-Korrekturübungen",
+            "description": "Spezielle Übungen zur dreidimensionalen Korrektur der Wirbelsäulenkrümmung"
+          },
+          "breathingTherapy": {
+            "name": "Rotationsatmung",
+            "description": "Atemtechniken zur Korrektur der Rippenwölbung und Verbesserung der Lungenfunktion"
+          },
+          "postureTraining": {
+            "name": "Haltungsschulung",
+            "description": "Alltagsintegrierte Haltungskorrektur und bewusste Körperwahrnehmung"
+          },
+          "homeProgram": {
+            "name": "Heimprogramm",
+            "description": "Personalisierte Übungsprogramme für die kontinuierliche Behandlung zu Hause"
+          }
+        },
+        "process": {
+          "description": "Wir bieten Ihnen die beste Behandlung durch unseren professionellen Schroth-Therapieprozess."
+        },
+        "faq": {
+          "contactDescription": "Sie können uns für Ihre Fragen zur Schroth-Therapie anrufen oder über WhatsApp kontaktieren."
+        },
+        "additionalFaq": {
+          "ageLimit": {
+            "question": "In welchem Alter ist die Schroth-Therapie am effektivsten?",
+            "answer": "Die Schroth-Therapie ist für alle Altersgruppen geeignet, ist jedoch während der Wachstumsperiode (10-18 Jahre) am effektivsten. Bei Erwachsenen hilft sie bei der Schmerzlinderung und Verhinderung des Fortschreitens."
+          },
+          "duration": {
+            "question": "Wie lange dauert die Schroth-Therapie?",
+            "answer": "Die Behandlungsdauer variiert je nach Schwere der Skoliose. Normalerweise dauert sie 3-6 Monate mit regelmäßigen Sitzungen. Ein lebenslanges Heimprogramm wird empfohlen."
+          },
+          "results": {
+            "question": "Wann sind die Ergebnisse der Schroth-Therapie sichtbar?",
+            "answer": "Die ersten Verbesserungen in Haltung und Schmerzen sind normalerweise nach 4-6 Wochen sichtbar. Bedeutende Korrekturen können 3-6 Monate dauern."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Ist die Schroth-Therapie schmerzhaft?",
+            "answer": "Die Schroth-Therapie ist nicht schmerzhaft. Die Übungen werden schrittweise gelehrt und an Ihr Niveau angepasst."
+          },
+          {
+            "question": "Kann die Schroth-Therapie eine Operation verhindern?",
+            "answer": "Bei frühzeitiger Intervention kann die Schroth-Therapie das Fortschreiten der Skoliose verlangsamen und in vielen Fällen eine Operation verhindern."
+          }
+        ]
+      },
+      "posture": {
+        "title": "Haltungskorrektur & Rehabilitation",
+        "description": "Umfassende Haltungskorrekturprogramme mit fortschrittlichen Methoden einschließlich Schroth-Technik, Haltungsschulung und speziellen Übungsprogrammen für Wirbelsäulenfehlstellungen, Vorhaltung des Kopfes und muskuloskelettale Ungleichgewichte.",
+        "subtitle": "Ganzheitlicher Behandlungsansatz für haltungsbedingte Beschwerden",
+        "ctaText": "Transformieren Sie Ihre Haltung und beseitigen Sie Schmerzen mit unserem Expertenteam für Haltungsrehabilitation.",
+        "features": [
+          "Korrektur der Vorhaltung des Kopfes",
+          "Halswirbelsäulen-Begradigung (Lordoseverlust)",
+          "Behandlung kyphotischer Haltung (Rundrücken)",
+          "Skoliose-Behandlung mit Schroth-Methode",
+          "Korrektur posturaler Muskelungleichgewichte",
+          "Computer-Nacken-Syndrom Behandlung",
+          "Upper-Crossed-Syndrom Rehabilitation",
+          "Lower-Crossed-Syndrom Korrektur",
+          "Haltungsbewusstseinstraining",
+          "Ergonomische Bewertung und Schulung",
+          "Rumpfstabilisationsprogramme",
+          "Atemmusterskorrektur",
+          "Arbeitsplatz-Haltungsoptimierung",
+          "Text-Nacken Behandlung",
+          "Thoracic-Outlet-Syndrom Management"
+        ],
+        "whatIs": {
+          "subtitle": "Was ist Haltungskorrektur & Rehabilitation?",
+          "title": "Wissenschaftlicher Ansatz für Haltungsgesundheit und Wirbelsäulenausrichtung",
+          "description1": "Haltungskorrektur und Rehabilitation ist ein spezialisierter physiotherapeutischer Ansatz, der strukturelle und funktionelle Ungleichgewichte im Bewegungsapparat behandelt. Unsere evidenzbasierten Behandlungsprogramme kombinieren moderne Rehabilitationstechniken mit der international anerkannten Schroth-Methode zur Korrektur von Wirbelsäulendeformitäten, Verbesserung der Haltungsausrichtung und Beseitigung von Schmerzen durch schlechte Haltungsgewohnheiten.",
+          "description2": "Unsere Experten-Physiotherapeuten verwenden umfassende Bewertungstechniken einschließlich Haltungsfotografie, Bewegungsanalyse und biomechanischer Evaluation zur Gestaltung personalisierter Behandlungsprogramme. Wir konzentrieren uns nicht nur auf die Korrektur bestehender Haltungsprobleme, sondern auch auf die Prävention zukünftiger Komplikationen durch Aufklärung, Übung und Lebensstiländerungen."
+        },
+        "stats": {
+          "yearsExperience": "Jahre Erfahrung",
+          "successfulTreatments": "Erfolgreiche Behandlungen",
+          "patientSatisfaction": "Patientenzufriedenheit"
+        },
+        "benefits": {
+          "subtitle": "Vorteile professioneller Haltungskorrektur",
+          "title": "Warum unser Haltungskorrekturprogramm wählen?",
+          "description": "Unser umfassendes Haltungskorrekturprogramm bietet dauerhafte Lösungen für Haltungsprobleme und ihre assoziierten Symptome.",
+          "painRelief": {
+            "title": "Schmerzelimination",
+            "description": "Effektive Reduzierung und Beseitigung von Nacken-, Rücken-, Kopfschmerzen und Schulterverspannungen durch gezielte Rehabilitationstechniken."
+          },
+          "postureImprovement": {
+            "title": "Verbesserte Körperausrichtung",
+            "description": "Erreichen Sie optimale Wirbelsäulenausrichtung und richtige Haltungsmechanik durch systematische Korrekturübungen und Haltungsschulung."
+          },
+          "preventiveApproach": {
+            "title": "Prävention zukünftiger Probleme",
+            "description": "Lernen Sie richtige Körpermechanik und erhalten Sie ergonomische Anleitung zur Vorbeugung von Haltungsproblemen und degenerativen Veränderungen."
+          },
+          "enhancedFunction": {
+            "title": "Verbesserte Alltagsfunktion",
+            "description": "Verbessern Sie Ihre Fähigkeit, tägliche Aktivitäten mit besserer Bewegungsqualität, erhöhten Energieniveaus und reduzierter Müdigkeit auszuführen."
+          },
+          "expertCare": {
+            "title": "Spezialisierte Expertise",
+            "description": "Erhalten Sie Behandlung von Physiotherapeuten, die speziell in Haltungsrehabilitation ausgebildet und in fortgeschrittenen Techniken einschließlich der Schroth-Methode zertifiziert sind."
+          },
+          "holisticApproach": {
+            "title": "Ganzheitlicher Behandlungsansatz",
+            "description": "Profitieren Sie von einem ganzheitlichen Behandlungsansatz, der nicht nur körperliche Symptome, sondern auch Lebensstilfaktoren angeht, die zu Haltungsproblemen beitragen."
+          }
+        },
+        "techniques": {
+          "subtitle": "Fortgeschrittene Behandlungsmethoden",
+          "title": "Moderne Haltungskorrekturtechniken",
+          "description": "Wir nutzen modernste Rehabilitationstechniken und evidenzbasierte Methoden zur Erzielung optimaler Haltungskorrekturergebnisse.",
+          "schrothMethod": {
+            "name": "Schroth-Methode für Skoliose",
+            "description": "Dreidimensionale Korrekturübungen speziell für Skoliose-Behandlung entwickelt, kombiniert mit rotatorischen Atemmustern und Haltungskorrekturtechniken"
+          },
+          "posturalReeducation": {
+            "name": "Haltungsschulungstraining",
+            "description": "Systematische Trainingsprogramme zur Umschulung der Haltungsmuskulatur und Etablierung neuer Bewegungsmuster für optimale Wirbelsäulenausrichtung"
+          },
+          "manualTherapy": {
+            "name": "Manuelle Therapietechniken",
+            "description": "Manuelle Behandlung einschließlich Gelenkmobilisation, Weichgewebsmanipulation und myofaszialer Entspannung zur Verbesserung der Gewebeflexibilität und Gelenkbeweglichkeit"
+          },
+          "exerciseTherapy": {
+            "name": "Korrektive Übungsprogramme",
+            "description": "Individualisierte Kräftigungs- und Dehnungsprogramme, die spezifische Muskelungleichgewichte und Bewegungsdysfunktionen ansprechen"
+          },
+          "respiratoryTherapy": {
+            "name": "Atemmusterkorrektur",
+            "description": "Atemschulung zur Verbesserung der Atemfunktion und Unterstützung der Haltungskorrektur, besonders wichtig bei der Skoliose-Behandlung"
+          },
+          "ergonomicTraining": {
+            "name": "Ergonomische Bewertung & Schulung",
+            "description": "Arbeitsplatz- und Heimumgebungsevaluation mit praktischen Empfehlungen für optimale Haltungsunterstützung bei täglichen Aktivitäten"
+          }
+        },
+        "process": {
+          "description": "Unser systematischer Ansatz gewährleistet effektive und dauerhafte Haltungskorrektur durch umfassende Bewertung, personalisierte Behandlung und kontinuierliche Unterstützung für optimale Ergebnisse."
+        },
+        "treatedConditions": {
+          "title": "Behandelte Beschwerden",
+          "subtitle": "Umfassende Betreuung verschiedener Haltungsstörungen",
+          "conditions": [
+            {
+              "name": "Vorhaltung des Kopfes",
+              "description": "Korrektur der anterioren Kopfhaltung und Halswirbelsäulenausrichtung"
+            },
+            {
+              "name": "Rundrücken (Kyphotische Haltung)",
+              "description": "Behandlung übermäßiger Brustkyphose und Schulterprotraktion"
+            },
+            {
+              "name": "Skoliose (alle Typen)",
+              "description": "Spezialisierte Schroth-Methoden-Behandlung für Wirbelsäulenkrümmungen"
+            },
+            {
+              "name": "Text-Nacken-Syndrom",
+              "description": "Moderne Erkrankung durch übermäßige Mobilgerätenutzung"
+            },
+            {
+              "name": "Computer-Vision-Syndrom",
+              "description": "Haltungsprobleme durch langanhaltende Computernutzung"
+            },
+            {
+              "name": "Upper-Crossed-Syndrom",
+              "description": "Muskelungleichgewichtsmuster, das Nacken- und Schulterregion betrifft"
+            },
+            {
+              "name": "Lower-Crossed-Syndrom",
+              "description": "Becken- und untere Rückenhaltungsdysfunktion"
+            },
+            {
+              "name": "Halswirbelsäulen-Lordoseverlust",
+              "description": "Wiederherstellung der natürlichen Halswirbelsäulenkrümmung"
+            }
+          ]
+        },
+        "faq": [
+          {
+            "question": "Wie lange dauert die Haltungskorrekturbehandlung?",
+            "answer": "Die Behandlungsdauer variiert je nach Schweregrad Ihrer Haltungsstörung und individuellen Faktoren. Typischerweise sind erste Verbesserungen nach 4-6 Wochen sichtbar, mit signifikanten Veränderungen über 12-16 Wochen. Für Skoliose-Behandlung mit der Schroth-Methode kann eine längere Behandlungsperiode von 6-12 Monaten für optimale Ergebnisse empfohlen werden."
+          },
+          {
+            "question": "Für welche Altersgruppe ist die Haltungskorrekturtherapie geeignet?",
+            "answer": "Haltungskorrekturtherapie ist für alle Altersgruppen vorteilhaft. Wir bieten spezialisierte Programme für Kinder (besonders während Wachstumsphasen), Jugendliche, Erwachsene und Senioren. Frühzeitige Intervention während Kindheit und Adoleszenz erzielt oft die besten Ergebnisse, aber auch Erwachsene können signifikante Verbesserungen in Haltung und Schmerzreduktion erreichen."
+          },
+          {
+            "question": "Kann Haltungskorrektur bei chronischen Schmerzen helfen?",
+            "answer": "Ja, Haltungskorrekturtherapie ist sehr effektiv bei chronischen Schmerzen durch Haltungsprobleme. Schlechte Haltung führt oft zu Muskelungleichgewichten, Gelenkdysfunktion und Nervenirritation, was zu chronischen Nacken-, Rücken-, Kopfschmerzen und Schulterschmerzen führt. Unser umfassender Ansatz behandelt diese zugrundeliegenden Ursachen für dauerhafte Schmerzlinderung."
+          },
+          {
+            "question": "Ist die Schroth-Methode nur für Skoliose-Patienten?",
+            "answer": "Während die Schroth-Methode ursprünglich für Skoliose-Behandlung entwickelt wurde, können ihre Prinzipien für verschiedene Haltungsstörungen angepasst werden. Für Skoliose-Patienten bleibt sie jedoch der Goldstandard nicht-chirurgischer Behandlungsansatz mit dreidimensionaler Korrektur und Atemverbesserung."
+          },
+          {
+            "question": "Wie bewerten Sie meine Haltungsprobleme?",
+            "answer": "Wir führen umfassende Haltungsbewertungen durch, einschließlich visueller Analyse, Haltungsfotografie, Bewegungsscreening und biomechanischer Evaluation. Bei Skoliose-Fällen überprüfen wir auch bildgebende Studien und führen spezialisierte Tests durch, um Art und Schweregrad der Krümmung zu bestimmen."
+          },
+          {
+            "question": "Kann ich während der Behandlung weiterarbeiten?",
+            "answer": "Absolut! Unsere Behandlungsprogramme sind darauf ausgelegt, sich in Ihre tägliche Routine zu integrieren. Wir bieten ergonomische Empfehlungen für Ihren Arbeitsplatz, lehren Haltungsbewusstseinstechniken und bieten Übungen, die während Arbeitspausen durchgeführt werden können, um Ihre Genesung zu unterstützen."
+          }
+        ],
+        "additionalFaq": {
+          "modernLifestyle": {
+            "question": "Wie beeinflusst der moderne Lebensstil die Haltung?",
+            "answer": "Moderne Lebensstilfaktoren wie längeres Sitzen, übermäßige Smartphone-Nutzung, Computerarbeit und sitzende Gewohnheiten tragen erheblich zu Haltungsproblemen bei. 'Text-Nacken' und 'Computer-Nacken' sind zunehmend häufige Beschwerden. Unsere Programme behandeln speziell diese modernen Haltungsherausforderungen mit gezielten Interventionen."
+          },
+          "prevention": {
+            "question": "Können Haltungsprobleme verhindert werden?",
+            "answer": "Ja, viele Haltungsprobleme können durch richtige Ergonomie, regelmäßige Bewegung, Haltungsbewusstseinstraining und Lebensstiländerungen verhindert werden. Wir bieten umfassende Aufklärung über haltungsfreundliche Gewohnheiten, Arbeitsplatzeinrichtung und präventive Übungen zur Erhaltung optimaler Wirbelsäulengesundheit."
+          },
+          "exerciseProgram": {
+            "question": "Erhalte ich ein Heimübungsprogramm?",
+            "answer": "Ja, jeder Patient erhält ein personalisiertes Heimübungsprogramm mit detaillierten Anweisungen und Illustrationen. Wir stellen auch Videodemonstrations und regelmäßige Programmaktualisierungen basierend auf Ihrem Fortschritt zur Verfügung. Kontinuität mit Heimübungen ist entscheidend für dauerhafte Haltungsverbesserungen."
+          },
+          "technology": {
+            "question": "Verwenden Sie moderne Technologie in der Behandlung?",
+            "answer": "Wir nutzen verschiedene moderne Technologien einschließlich Haltungsanalysesoftware, Übungs-Apps für Heimprogramm-Compliance und spezialisierte Ausrüstung für Haltungskorrektur. Wir behalten jedoch einen ausgewogenen Ansatz bei, kombinieren Technologie mit manueller Therapie und personalisierter Betreuung."
+          }
+        }
+      },
+      "manualTherapy": {
+        "title": "Manuelle Therapie",
+        "description": "Fortgeschrittene manuelle Therapietechniken für Schmerzmanagement und funktionelle Wiederherstellung.",
+        "subtitle": "Im Rahmen der manuellen Therapie behandelte Beschwerden",
+        "ctaText": "Vereinbaren Sie einen Termin mit unserem Expertenteam für Ihre Schmerz- und Funktionsprobleme.",
+        "features": [
+          "Gelenksmobilisation",
+          "Weichgewebebehandlung",
+          "Schmerzmanagement"
+        ],
+        "whatIs": {
+          "subtitle": "Was ist Manuelle Therapie?",
+          "title": "Natürliche Heilung mit der Kraft der Hände",
+          "description1": "Manuelle Therapie ist ein spezieller Ansatz, bei dem Physiotherapeuten ihre Hände zur Behandlung von Problemen des Bewegungsapparats einsetzen. Diese Methode unterstützt den natürlichen Heilungsprozess des Körpers durch Reduzierung von Schmerzen und Bewegungseinschränkungen.",
+          "description2": "Unsere erfahrenen Physiotherapeuten verbessern durch ihre jahrelange Erfahrung kombiniert mit manuellen Techniken die Lebensqualität unserer Patienten erheblich."
+        },
+        "stats": {
+          "yearsExperience": "Jahre Erfahrung",
+          "successfulTreatments": "Erfolgreiche Behandlungen",
+          "patientSatisfaction": "Patientenzufriedenheit"
+        },
+        "benefits": {
+          "subtitle": "Vorteile der Manuellen Therapie",
+          "title": "Warum Manuelle Therapie wählen?",
+          "description": "Manuelle Therapie hilft Ihnen, Ihre Gesundheit durch natürliche und effektive Methoden zurückzugewinnen.",
+          "painReduction": {
+            "title": "Schmerzreduktion",
+            "description": "Wir reduzieren Ihre Muskel- und Gelenkschmerzen effektiv durch manuelle Therapietechniken."
+          },
+          "mobility": {
+            "title": "Erhöhte Mobilität",
+            "description": "Wir helfen Ihnen, Ihre täglichen Aktivitäten komfortabler durchzuführen, indem wir die Gelenkbeweglichkeit erhöhen."
+          },
+          "natural": {
+            "title": "Natürliche Heilung",
+            "description": "Wir unterstützen den eigenen Heilungsprozess Ihres Körpers durch natürliche Methoden ohne Medikamente."
+          },
+          "expert": {
+            "title": "Expertbehandlung",
+            "description": "Sie erhalten professionelle und sichere Behandlung durch unsere zertifizierten manuellen Therapeuten."
+          }
+        },
+        "techniques": {
+          "subtitle": "Angewandte Techniken",
+          "title": "Moderne Manuelle Therapiemethoden",
+          "description": "Lassen Sie sich mit aktuellen und effektiven manuellen Therapietechniken behandeln, die in unserer Klinik angewendet werden.",
+          "softTissue": {
+            "name": "Weichgewebe-Mobilisation",
+            "description": "Spezielle Techniken für Muskel-, Faszien- und Bandgewebe"
+          },
+          "jointMobilization": {
+            "name": "Gelenksmobilisation",
+            "description": "Passive Bewegungen zur Erhöhung der Gelenkbeweglichkeit"
+          },
+          "spinalManipulation": {
+            "name": "Wirbelsäulen-Manipulation",
+            "description": "Kontrollierte und sichere Techniken für Wirbelsäulensegmente"
+          },
+          "myofascialRelease": {
+            "name": "Myofasziale Entspannung",
+            "description": "Spezielle Methoden zur Lösung von Spannungen in faszialen Schichten"
+          }
+        },
+        "process": {
+          "description": "Wir bieten Ihnen die beste Behandlung durch unseren professionellen manuellen Therapieprozess."
+        },
+        "faq": {
+          "contactDescription": "Sie können uns für Ihre Fragen anrufen oder über WhatsApp kontaktieren."
+        },
+        "additionalFaq": {
+          "ageGroups": {
+            "question": "Für welche Altersgruppen ist manuelle Therapie geeignet?",
+            "answer": "Manuelle Therapie bietet geeignete Behandlungsprogramme für alle Altersgruppen von Säuglingen bis zu älteren Menschen. Die Auswahl und Intensität der Techniken wird entsprechend dem Alter und Zustand des Patienten angepasst."
+          },
+          "frequency": {
+            "question": "Wie oft sollten manuelle Therapiesitzungen durchgeführt werden?",
+            "answer": "Die Behandlungsfrequenz variiert je nach Schwere Ihres Problems und Ihrer Reaktion auf die Behandlung. Normalerweise werden 2-3 Sitzungen pro Woche empfohlen. Ihr Physiotherapeut wird die am besten geeignete Anzahl und Häufigkeit der Sitzungen für Ihren Zustand bestimmen."
+          },
+          "homeExercises": {
+            "question": "Wird manuelle Therapie mit Heimübungen unterstützt?",
+            "answer": "Ja, manuelle Therapie wird mit speziell vorbereiteten Heimübungsprogrammen unterstützt, um Ihre klinischen Sitzungen zu ergänzen. Diese Übungen beschleunigen Ihren Behandlungsprozess und sorgen dafür, dass die Fortschritte dauerhaft sind."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Ist manuelle Therapie schmerzhaft?",
+            "answer": "Manuelle Therapie ist normalerweise schmerzfrei. Während der Behandlung kann leichtes Unbehagen auftreten, aber sie sollte keine Schmerzen verursachen."
+          },
+          {
+            "question": "Wie viele Sitzungen sind erforderlich?",
+            "answer": "Je nach Zustand werden normalerweise 6-10 Behandlungssitzungen empfohlen."
+          }
+        ]
+      },
+      "pilates": {
+        "title": "Klinisches Pilates",
+        "description": "Kräftigung und Flexibilitätsarbeit durch Reformer- und Mattenpilates.",
+        "subtitle": "Im Rahmen des klinischen Pilates angebotene Dienstleistungen",
+        "ctaText": "Vereinbaren Sie einen Termin mit unseren Expertentrainern für Pilates-Sitzungen.",
+        "features": [
+          "Reformer Pilates",
+          "Matten Pilates",
+          "Core-Stärkung"
+        ],
+        "whatIs": {
+          "title": "Was ist Klinisches Pilates?",
+          "description": "Klinisches Pilates ist ein Übungssystem, das unter physiotherapeutischer Aufsicht durchgeführt und auf die spezifische Situation jedes Einzelnen zugeschnitten wird. Im Gegensatz zu traditionellem Pilates konzentriert es sich auf Verletzungsrehabilitation, Haltungskorrektur und funktionelle Bewegungsentwicklung.",
+          "point1": "Personalisierte Programme unter physiotherapeutischer Aufsicht",
+          "point2": "Übungsdesign spezifisch für Ihren medizinischen Zustand",
+          "point3": "Haltungsanalyse und Korrekturtechniken",
+          "point4": "Funktioneller Bewegungsentwicklungsansatz",
+          "imageAlt": "Klinische Pilates-Übung"
+        },
+        "benefits": {
+          "title": "Vorteile von Klinischem Pilates",
+          "subtitle": "Gesundheitliche Vorteile, die Sie durch regelmäßige klinische Pilates-Übungen erhalten",
+          "item1": {
+            "title": "Core-Stärkung",
+            "description": "Stärkt die tiefen Bauch- und Rückenmuskeln, erhöht die Wirbelsäulenstabilität und reduziert Rückenschmerzen."
+          },
+          "item2": {
+            "title": "Haltungskorrektur",
+            "description": "Korrigiert schlechte Haltungsgewohnheiten, verhindert Nacken- und Rückenschmerzen und fördert eine gesündere Körperhaltung."
+          },
+          "item3": {
+            "title": "Flexibilität und Balance",
+            "description": "Erhöht die Muskelflexibilität und verbessert gleichzeitig Propriozeption und Balance, wodurch das Verletzungsrisiko reduziert wird."
+          },
+          "item4": {
+            "title": "Stressabbau",
+            "description": "Reduziert Stress und unterstützt die mentale Gesundheit durch Atemkontrolle und achtsame Bewegungstechniken."
+          }
+        },
+        "process": {
+          "title": "Behandlungsprozess",
+          "subtitle": "Wie Ihr Klinisches Pilates-Programm voranschreitet",
+          "step1": {
+            "title": "Detaillierte Bewertung",
+            "description": "Wir analysieren Ihren körperlichen Zustand, Bewegungsmuster und Ziele"
+          },
+          "step2": {
+            "title": "Programmgestaltung",
+            "description": "Ein personalisiertes Übungsprogramm wird erstellt und Ziele werden festgelegt"
+          },
+          "step3": {
+            "title": "Progressive Umsetzung",
+            "description": "Beginnend mit grundlegenden Bewegungen wird die Programmschwierigkeit schrittweise erhöht"
+          },
+          "step4": {
+            "title": "Fortschrittskontrolle",
+            "description": "Regelmäßige Bewertungen aktualisieren das Programm und verfolgen Verbesserungen"
+          }
+        },
+        "whoCan": {
+          "title": "Wer kann profitieren?",
+          "description": "Klinisches Pilates ist für Personen mit einer Vielzahl von Gesundheitsproblemen geeignet. Menschen aller Altersgruppen können von Programmen profitieren, die speziell für ihren Zustand entwickelt wurden.",
+          "imageAlt": "Pilates-Teilnehmer verschiedener Altersgruppen",
+          "group1": "Personen mit Rücken- und Nackenschmerzen",
+          "group2": "Patienten mit Haltungsstörungen und Skoliose",
+          "group3": "Patienten im postoperativen Rehabilitationsprozess",
+          "group4": "Schwangere Frauen und Mütter nach der Geburt",
+          "group5": "Ältere Menschen und solche mit Gleichgewichtsproblemen",
+          "group6": "Sportler und aktive Personen",
+          "group7": "Gesunde Personen für Einzel-Pilates-Sitzungen",
+          "group8": "Personen mit Gewichtsproblemen und solche, die abnehmen möchten",
+          "group9": "Personen, die im Homeoffice am Schreibtisch arbeiten"
+        },
+        "testimonials": {
+          "title": "Patientenbewertungen",
+          "subtitle": "Unsere Patienten teilen ihre Erfahrungen mit Klinischem Pilates",
+          "testimonial1": {
+            "name": "Anna M.",
+            "content": "Nach einem 3-monatigen klinischen Pilates-Programm sind meine chronischen Rückenschmerzen, die ich jahrelang hatte, völlig verschwunden. Meine Haltung hat sich verbessert und ich fühle mich viel energischer.",
+            "condition": "Rückenschmerzbehandlung"
+          },
+          "testimonial2": {
+            "name": "Thomas K.",
+            "content": "Klinisches Pilates war während meines postoperativen Rehabilitationsprozesses sehr hilfreich. Ich fühle mich sowohl körperlich als auch geistig stark.",
+            "condition": "Postoperative Rehabilitation"
+          },
+          "testimonial3": {
+            "name": "Julia A.",
+            "content": "Dank des Pilates-Programms, das ich während der Schwangerschaft begann, erholte ich mich sehr schnell nach der Geburt. Meine Kernmuskeln stärkten sich und meine Haltung verbesserte sich.",
+            "condition": "Schwangerschaft und postpartum"
+          }
+        },
+        "faq": [
+          {
+            "question": "Was ist der Unterschied zwischen klinischem Pilates und normalem Pilates?",
+            "answer": "Klinisches Pilates sind Programme, die unter der Aufsicht von Physiotherapeuten speziell für Ihren medizinischen Zustand entwickelt wurden."
+          },
+          {
+            "question": "Kann ich als Anfänger teilnehmen?",
+            "answer": "Ja, wir haben Programme für alle Niveaus. Nach der ersten Bewertung wird das für Sie geeignete Programm festgelegt."
+          },
+          {
+            "question": "Ich habe Schmerzen, möchte aber kommen - kann ich teilnehmen?",
+            "answer": "Ja, Sie können teilnehmen. Klinisches Pilates unter physiotherapeutischer Aufsicht kann auch bei schmerzhaften Zuständen sicher angewendet werden."
+          },
+          {
+            "question": "Gibt es eine Altersgrenze für Kinder?",
+            "answer": "Jeder, der seine Wirbelsäule entwickeln möchte, kann davon profitieren. Pilates unter physiotherapeutischer Aufsicht ist für Kinder vorteilhaft."
+          }
+        ]
+      },
+      "osteopathy": {
+        "title": "Osteopathie",
+        "description": "Ganzheitlicher Ansatz für Körperbalance und Schmerzbehandlung.",
+        "subtitle": "Im Rahmen der Osteopathie angebotene Behandlungsmethoden",
+        "ctaText": "Vereinbaren Sie einen Termin mit unserem Expertenteam für eine ganzheitliche Osteopathiebehandlung.",
+        "features": [
+          "Fasziale Mobilisation",
+          "Kraniosakrale Therapie",
+          "Viszerale Manipulation"
+        ],
+        "whatIs": {
+          "subtitle": "Was ist Osteopathie?",
+          "title": "Natürliche Heilung mit ganzheitlichem Ansatz",
+          "description1": "Osteopathie ist ein ganzheitlicher Behandlungsansatz, der den Körper als Ganzes betrachtet und seine natürliche Heilungskapazität unterstützt. Sie korrigiert Ungleichgewichte im Körper mit sanften manuellen Techniken.",
+          "description2": "Unsere erfahrenen Osteopathen bieten langfristige Lösungen, indem sie die Selbstheilungsfähigkeit Ihres Körpers unterstützen und Ihre Lebensqualität verbessern."
+        },
+        "stats": {
+          "yearsExperience": "Jahre Erfahrung",
+          "successfulTreatments": "Erfolgreiche Behandlungen",
+          "patientSatisfaction": "Patientenzufriedenheit"
+        },
+        "benefits": {
+          "subtitle": "Osteopathie-Vorteile",
+          "title": "Warum Osteopathie wählen?",
+          "description": "Osteopathie hilft Ihnen, Ihre Gesundheit mit einem ganzheitlichen Ansatz wiederzugewinnen.",
+          "holistic": {
+            "title": "Ganzheitlicher Ansatz",
+            "description": "Fokussiert auf den gesamten Körper, nicht nur auf Symptome, um die Wurzel des Problems zu finden und zu behandeln."
+          },
+          "natural": {
+            "title": "Natürliche Heilung",
+            "description": "Aktiviert die körpereigenen Heilungsmechanismen für eine natürliche und sichere Genesung."
+          },
+          "painless": {
+            "title": "Schmerzfreie Behandlung",
+            "description": "Bietet eine komfortable und angenehme Behandlungserfahrung mit sanften und schmerzfreien manuellen Techniken."
+          },
+          "expert": {
+            "title": "Experten-Osteopath",
+            "description": "Erhalten Sie zuverlässige und professionelle Behandlung von unseren zertifizierten und erfahrenen Osteopathen."
+          }
+        },
+        "techniques": {
+          "subtitle": "Behandlungsmethoden",
+          "title": "Im Rahmen der Osteopathie angebotene Behandlungsmethoden",
+          "description": "Gewinnen Sie das natürliche Gleichgewicht Ihres Körpers mit modernen Osteopathie-Techniken zurück.",
+          "structural": {
+            "name": "Strukturelle Osteopathie",
+            "description": "Techniken für Gelenk- und Muskelbalance bei Muskel-Skelett-Problemen"
+          },
+          "craniosacral": {
+            "name": "Kraniosakrale Therapie",
+            "description": "Verbessert Nervensystemfunktionen durch Regulierung des Flüssigkeitsflusses zwischen Kopf und Wirbelsäule"
+          },
+          "visceral": {
+            "name": "Viszerale Osteopathie",
+            "description": "Unterstützt Verdauungs- und Atmungssysteme durch Erhöhung der Mobilität innerer Organe"
+          },
+          "fascial": {
+            "name": "Fasziale Entspannung",
+            "description": "Erhöht die Bewegungskapazität durch Lösung von Spannungen in faszialen Geweben"
+          }
+        },
+        "process": {
+          "description": "Wir stellen das natürliche Gleichgewicht Ihres Körpers mit unserem professionellen Osteopathie-Prozess wieder her."
+        },
+        "faq": {
+          "contactText": "Sie können uns für Ihre Fragen anrufen oder über WhatsApp kontaktieren."
+        },
+        "additionalFaq": {
+          "duration": {
+            "question": "Wie lange dauert die Osteopathie-Behandlung?",
+            "answer": "Die Behandlungsdauer variiert je nach Komplexität Ihres Zustands. Normalerweise werden Ergebnisse zwischen 4-8 Sitzungen erzielt, chronische Zustände können länger dauern."
+          },
+          "sideEffects": {
+            "question": "Gibt es Nebenwirkungen bei der Osteopathie-Behandlung?",
+            "answer": "Osteopathie ist eine sehr sichere Behandlungsmethode. Leichte Müdigkeit oder Muskelempfindlichkeit nach der Behandlung ist normal und verschwindet innerhalb von 24-48 Stunden."
+          },
+          "effectiveness": {
+            "question": "Wie effektiv ist Osteopathie?",
+            "answer": "Osteopathie ist sehr effektiv bei vielen Muskel-Skelett-Problemen, Kopfschmerzen und stressbedingten Störungen. Wissenschaftliche Studien zeigen hohe Erfolgsraten."
+          }
+        },
+        "originalFaq": [
+          {
+            "question": "Was für eine Behandlungsmethode ist Osteopathie?",
+            "answer": "Osteopathie ist ein ganzheitlicher Behandlungsansatz, der manuelle Techniken verwendet und die natürliche Heilungskapazität des Körpers unterstützt."
+          },
+          {
+            "question": "Für welche Beschwerden ist sie wirksam?",
+            "answer": "Sie ist wirksam bei Muskel-Skelett-Problemen, Kopfschmerzen, Verdauungsproblemen und stressbedingten Beschwerden."
+          }
+        ]
+      }
+    },
+    "about": {
+      "title": "Über Uns",
+      "subtitle": "Professionelles Physiotherapie-Zentrum für gesundes Leben",
+      "story": "FizyoPraksis ist ein modernes Physiotherapie-Zentrum in Izmir, das seit 2018 mit einem professionellen Team von Experten-Physiotherapeuten arbeitet. Die Gesundheit und der Komfort unserer Patienten haben für uns oberste Priorität.",
+      "missiontitle": "Unsere Mission",
+      "missioncontent": "Die Lebensqualität unserer Patienten zu verbessern und ihnen zu einem gesunden Lebensstil zu verhelfen, indem wir die effektivsten Behandlungsmethoden mit personalisierten, wissenschaftlich fundierten und modernen Ansätzen anbieten.",
+      "visiontitle": "Unsere Vision",
+      "visioncontent": "Als eines der führenden Physiotherapie-Zentren der Türkei weiterhin die beste Versorgung für unsere Patienten zu gewährleisten, indem wir die sich ständig weiterentwickelnde Technologie und Behandlungsmethoden verfolgen.",
+      "features": {
+        "expertTeam": "Experten-Team",
+        "certifiedService": "Zertifizierter Service",
+        "happyPatients": "Zufriedene Patienten",
+        "qualityEquipment": "Qualitätsausrüstung"
+      },
+      "experience": {
+        "title": "Erfahrung",
+        "years": "5+ Jahre"
+      },
+      "quote": {
+        "text": "Physiotherapie ist nicht nur Behandlung, sondern eine Reise zur Verbesserung der Lebensqualität.",
+        "author": "Aslı Tunçalp Özçelik"
+      },
+      "learnMore": "Mehr Erfahren"
+    },
+    "experts": {
+      "title": "Unsere Experten",
+      "subtitle": "Professionelles Team",
+      "description": "Lernen Sie unser Expertenteam von Physiotherapeuten kennen, die Sie auf Ihrem Weg zur Gesundheit begleiten. Unser Team besteht aus spezialisierten Fachkräften, die Sie auf Ihrem Weg zu einem gesunden Leben unterstützen.",
+      "learnMore": "Mehr Erfahren",
+      "ctaTitle": "Möchten Sie unsere Experten kennenlernen?",
+      "ctaButton": "Termin vereinbaren",
+      "asli": {
+        "name": "Physiotherapeutin Aslı Tunçalp Özçelik",
+        "position": "Gründerin, Physiotherapeutin & Schroth-Expertin",
+        "description": "Absolventin der Bahçeşehir Universität im Jahr 2020 als Drittbeste des Studiengangs. Ich bin im 5. Jahr meines Berufslebens und habe an vielen Fortbildungen teilgenommen. Als zertifizierte PSSE-Schroth-Therapeutin spezialisiere ich mich hauptsächlich auf die Behandlung von Skoliose mit der Schroth-Methode. Zusätzlich absolviere ich eine Osteopathie-Ausbildung. Ich bin Gründerin des FizyoPraksis Beratungszentrums und führe erfolgreich Skoliose-Behandlungen durch.",
+        "certifications": "PSSE-SCHROTH METHODE, HALTUNGSKORREKTUR-SCHULUNG, BILDGEBUNGSSCHULUNG BEI WIRBELSÄULENPATHOLOGIEN, APPI PILATES, FASZIALE MOBILISATION UND OSTEOPATHIE, OSTEOPATHIE SCHULE DEUTSCHLAND, SKOLIOSE-SPEZIALIST"
+      },
+      "bengisu": {
+        "name": "Physiotherapeutin Bengisu Buldak",
+        "position": "Physiotherapeutin",
+        "description": "Absolventin der İzmir Tınaz Tepe Universität, Abteilung Physiotherapie und Rehabilitation. Ich biete Dienstleistungen in den Bereichen manuelle Therapie, Reformer Pilates und Physiotherapie an.",
+        "certifications": "Manuelle Therapie-DBE Academy, Reformer Pilates-KP Academy, Osteopathie-İFAO"
+      },
+      "gozde": {
+        "name": "Physiotherapeutin Gözde Kahraman",
+        "position": "Physiotherapeutin",
+        "description": "Absolventin der Dokuz Eylül Universität, Physiotherapie und Rehabilitation. Sie bietet Dienstleistungen in den Bereichen klinisches Pilates, manuelle Therapie und therapeutische Übungen an.",
+        "certifications": "KLINISCHES PILATES SCHULUNG UND OSTEOPATHISCHE MANUELLE THERAPIE SCHULUNG"
+      }
+    },
+    "testimonials": {
+      "title": "Google Bewertungen",
+      "subtitle": "Erfahrungen unserer Patienten auf Google",
+      "badge": "Google Bewertungen",
+      "stats": {
+        "googleRating": "Google Bewertung",
+        "googleReviews": "Google Bewertungen",
+        "happyPatients": "Zufriedene Patienten",
+        "yearsExperience": "Jahre Erfahrung"
+      },
+      "viewAllButton": "Alle Bewertungen auf Google ansehen",
+      "googleReviews": [
+        {
+          "name": "Egemen Okur",
+          "content": "Ich litt jahrelang an einem Bandscheibenvorfall, FizyoPraksis Physiotherapeutin Aslı und Physiotherapeutin Gözde haben sich sehr professionell um mich gekümmert und nach den notwendigen 14 Sitzungen kann ich mein Leben wieder normal fortsetzen. Herzlichen Dank",
+          "rating": 5,
+          "timeAgo": "Von Google"
+        },
+        {
+          "name": "Roger Marshall",
+          "content": "Ich habe kürzlich einen 12-Sitzungen-Kurs für eine Schultersteife und einen Tennisellenbogen abgeschlossen. Frau Bengi war durchweg brillant...",
+          "rating": 5,
+          "timeAgo": "vor 3 Monaten"
+        }
+      ]
+    },
+    "blog": {
+      "title": "Blog",
+      "subtitle": "Tipps für ein gesundes Leben",
+      "readMore": "Weiterlesen",
+      "posts": [
+        {
+          "title": "Tägliche Übungen gegen Rückenschmerzen",
+          "excerpt": "Einfache aber effektive Übungen, die Sie zu Hause gegen Rückenschmerzen machen können.",
+          "date": "15. Mai 2023",
+          "author": "Aslı Tunçalp Özçelik"
+        },
+        {
+          "title": "Wie erreicht man die richtige Haltung?",
+          "excerpt": "Richtige Haltungsgewohnheiten im täglichen Leben und Wege zur Vorbeugung von Haltungsstörungen.",
+          "date": "22. April 2023",
+          "author": "Bengisu Buldak"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Kontakt",
+      "subtitle": "Kontaktieren Sie uns",
+      "description": "Sie können uns für Termine oder Fragen kontaktieren. Wir erwarten Sie in unserer Klinik in Güzelbahçe.",
+      "infoTitle": "Kontaktinformationen",
+      "info": {
+        "address": "Adresse",
+        "phone": "Telefon",
+        "email": "E-Mail",
+        "hours": "Öffnungszeiten",
+        "weekdays": "Montag - Freitag: 09:00 - 18:00",
+        "weekend": "Samstag: Geschlossen"
+      },
+      "form": {
+        "name": "Ihr Name",
+        "email": "Ihre E-Mail-Adresse",
+        "phone": "Ihre Telefonnummer",
+        "message": "Ihre Nachricht",
+        "submit": "Senden"
+      }
+    },
+         "footer": {
+       "quickLinks": "Schnelle Links",
+       "services": "Unsere Leistungen",
+       "followUs": "Folgen Sie uns",
+       "copyright": "© 2023 FizyoPraksis. Alle Rechte vorbehalten.",
+       "privacyPolicy": "Datenschutzrichtlinie",
+       "termsOfService": "Nutzungsbedingungen",
+       "tagline": "Türkeis #1 Physiotherapie-Zentrum",
+       "description": "Der Schlüssel zu einem gesunden Leben liegt in der richtigen Behandlung und Rehabilitation. Wir sind mit unserem Expertenteam für Sie da.",
+       "contactInfo": "Kontaktinformationen",
+       "quickLinksTitle": "Schnelle Links",
+       "servicesTitle": "Unsere Leistungen",
+       "contactUsTitle": "Kontaktieren Sie uns",
+       "newsletterText": "Verpassen Sie keine Gesundheitsnachrichten und Sonderaktionen!",
+       "emailPlaceholder": "Ihre E-Mail-Adresse",
+       "socialMedia": "Social Media",
+       "allRightsReserved": "Alle Rechte vorbehalten.",
+       "madeWithLove": "Gemacht mit ❤️",
+       "inTurkey": "in der Türkei",
+       "privacyPolicyLink": "Datenschutzrichtlinie",
+       "termsLink": "Nutzungsbedingungen",
+       "cookiePolicy": "Cookie-Richtlinie",
+       "stats": {
+         "happyPatients": "Zufriedene Patienten",
+         "yearsExperience": "Jahre Erfahrung",
+         "expertDoctors": "Experten-Ärzte",
+         "safeTreatment": "Sichere Behandlung"
+       },
+       "workingHours": {
+         "weekdays": "Mo-Fr: 08:00-18:00",
+         "weekend": "Sa: 09:00-15:00"
+       }
+     },
+    "expertsCTA": {
+      "badge": "Für gesundes Leben",
+      "title": "Unser Expertenteam ist für Sie da",
+      "description": "Unsere erfahrenen Physiotherapeuten mit langjähriger Erfahrung in der Physiotherapie sind für Sie da, um Ihre Gesundheit mit modernen Behandlungsmethoden und personalisierten Rehabilitationsprogrammen wiederherzustellen.",
+      "features": [
+        "Personalisierte Behandlungsprogramme",
+        "Erfahrene Physiotherapeuten",
+        "Moderne Techniken und Ausrüstung",
+        "Komfortable und geräumige Umgebung"
+      ],
+      "buttons": {
+        "whatsapp": "WhatsApp",
+        "appointment": "Termin vereinbaren"
+      },
+      "imageAlt": "Physiotherapie-Behandlung"
+    },
+    "expertsPage": {
+      "heroTitle": "Unsere Physiotherapeuten",
+      "heroDescription": "Lernen Sie unser Team von Experten-Physiotherapeuten kennen, die Sie auf Ihrem Weg zur Gesundheit unterstützen. Unser Team besteht aus Fachleuten, die in ihren Bereichen spezialisiert sind und bereit sind, Sie auf Ihrem Weg zu einem gesunden Leben zu unterstützen.",
+      "approachSubtitle": "Unser Professionelles Team",
+      "approachTitle": "Unsere Experten",
+      "approachDescription": "Lernen Sie unser Team von Experten-Physiotherapeuten kennen, die Sie auf Ihrem Weg zur Gesundheit unterstützen. Unser Team besteht aus Fachleuten, die in ihren Bereichen spezialisiert sind und bereit sind, Sie auf Ihrem Weg zu einem gesunden Leben zu unterstützen.",
+      "experts": {
+        "asli": {
+          "name": "Aslı Tunçalp Özçelik",
+          "title": "Gründerin, Physiotherapeutin",
+          "bio": "Ich habe 2020 als Drittbeste meines Jahrgangs an der Bahçeşehir Universität absolviert. Ich bin im 5. Jahr meines Berufslebens, habe an vielen Fortbildungen teilgenommen und bilde mich weiterhin fort. Derzeit bin ich hauptsächlich als Schroth-Therapeutin tätig und absolviere eine Osteopathie-Ausbildung. Ich bin die Gründerin des Fizyopraksis Beratungszentrums.",
+          "certifications": [
+            "PSSE-SCHROTH METHODE",
+            "HALTUNGSKORREKTUR-TRAINING",
+            "WIRBELSÄULEN-PATHOLOGIE BILDGEBUNG"
+          ]
+        },
+        "bengisu": {
+          "name": "Bengisu Buldak",
+          "title": "Physiotherapeutin",
+          "bio": "Ich habe an der Izmir Tınaz Tepe Universität, Abteilung für Physiotherapie und Rehabilitation, absolviert. Ich biete Dienstleistungen in manueller Therapie, Reformer Pilates und Physiotherapie an.",
+          "certifications": [
+            "Manuelle Therapie-DBE Academy",
+            "Reformer Pilates-KP Academy",
+            "Osteopathie-IFAO"
+          ]
+        },
+        "gozde": {
+          "name": "Gözde Kahraman",
+          "title": "Physiotherapeutin",
+          "bio": "Absolventin der Dokuz Eylül Physiotherapie und Rehabilitation. Bietet Dienstleistungen in klinischem Pilates, manueller Therapie und therapeutischen Übungen an.",
+          "certifications": [
+            "KLINISCHES PILATES TRAINING UND OSTEOPATHISCHE MANUELLE THERAPIE"
+          ]
+        }
+      },
+      "finalCtaTitle": "Möchten Sie unsere Experten kennenlernen?",
+      "finalCtaDescription": "Kontaktieren Sie uns jetzt, um unseren für Ihre Gesundheit am besten geeigneten Experten kennenzulernen und detaillierte Informationen zu erhalten."
+    },
+    "expertDetail": {
+      "bookAppointment": "Termin buchen",
+      "about": "Über",
+      "professionalBackground": "Beruflicher Hintergrund",
+      "specializations": "Spezialisierungen",
+      "educationInfo": "Ausbildungsinformationen",
+      "undergraduateEducation": "Grundstudium",
+      "continuingEducation": "Weiterbildung",
+      "certificationsTitle": "Zertifikate und Schulungen",
+      "professionalCertificates": "Meine professionellen Zertifikate",
+      "servicesTitle": "Meine Leistungen",
+      "specializedServices": "Meine Spezialisierungsbereiche",
+      "ctaTitle": "Beginnen Sie Ihre gesunde Lebensreise",
+      "ctaDescription": "Gewinnen Sie Ihre Gesundheit mit einem personalisierten Behandlungsprogramm zurück. Kontaktieren Sie uns sofort.",
+      "whatsappButton": "WhatsApp",
+      "phoneButton": "Telefon",
+      "badges": {
+        "schrothTherapist": "Schroth-Therapeut",
+        "osteopathyTraining": "Osteopathie-Ausbildung",
+        "yearsExperience": "Jahre Erfahrung",
+        "manualTherapy": "Manuelle Therapie",
+        "reformerPilates": "Reformer Pilates",
+        "clinicalPilates": "Klinisches Pilates"
+      },
+              "asli": {
+          "professionalBackgroundText1": "Ich bin 2020 als Drittbeste meines Fachbereichs von der Bahçeşehir Universität, Abteilung Physiotherapie und Rehabilitation, absolviert. Ich bin im 5. Jahr meines Berufslebens und habe an vielen Fortbildungen teilgenommen und nehme weiterhin teil, um mich kontinuierlich zu verbessern. Als zertifizierte PSSE-Schroth-Therapeutin habe ich mich auf die Behandlung von Skoliose spezialisiert.",
+          "professionalBackgroundText2": "Mein Hauptspezialisierungsbereich ist die Schroth-Therapie, eine weltweit anerkannte 3D-Behandlungsmethode für Skoliose. Ich behandle erfolgreich Patienten aller Altersgruppen mit individualisierten Schroth-Programmen. Zusätzlich absolviere ich eine Osteopathie-Ausbildung. Durch die Gründung des FizyoPraksis Beratungszentrums ziele ich darauf ab, Patienten mit Skoliose und anderen Wirbelsäulenproblemen die bestmögliche Behandlung zu bieten.",
+          "specializations": [
+            "PSSE-Schroth-Methode für Skoliose",
+            "3D-Korrekturübungen bei Wirbelsäulendeformitäten",
+            "Atemtherapie bei Skoliose",
+            "Haltungskorrektur und Rumpfstabilisation",
+            "Progressionsprävention bei Skoliose",
+            "Wirbelsäulen-Pathologie-Rehabilitation",
+            "APPI Pilates",
+            "Osteopathische Manuelle Therapie"
+          ],
+        "education": {
+          "university": "Bahçeşehir Universität",
+          "department": "Physiotherapie und Rehabilitation",
+          "graduationYear": "2020 - 3. im Fachbereich",
+          "continuingEducation1": "Osteopathie - Osteopathie Schule Deutschland",
+          "continuingEducation2": "Schroth-Methode - PSSE Zertifikat"
+        },
+                  "services": [
+            {
+              "title": "PSSE-Schroth-Methode für Skoliose",
+              "description": "3D-Korrekturtherapie für alle Skoliose-Typen mit personalisierten Übungsprogrammen und Atemtechniken"
+            },
+            {
+              "title": "Skoliose-Progressionsprävention",
+              "description": "Spezielle Programme zur Verhinderung des Fortschreitens von Wirbelsäulendeformitäten"
+            },
+            {
+              "title": "Rotationsatmung-Therapie",
+              "description": "Atemtechniken zur Korrektur der Rippenwölbung und Verbesserung der Lungenfunktion bei Skoliose"
+            },
+            {
+              "title": "Wirbelsäulen-Haltungsschulung",
+              "description": "Alltagsintegrierte Haltungskorrektur und bewusste Körperwahrnehmung für Skoliose-Patienten"
+            },
+            {
+              "title": "Skoliose-Heimprogramme",
+              "description": "Individuell angepasste Übungsprogramme für die kontinuierliche Behandlung zu Hause"
+            },
+            {
+              "title": "Manuelle Therapie",
+              "description": "Behandlung von Muskel-Skelett-System-Problemen mit Handtechniken"
+            }
+          ]
+      },
+      "bengisu": {
+        "professionalBackgroundText1": "Ich bin Absolventin der İzmir Tınaz Tepe Universität, Abteilung Physiotherapie und Rehabilitation. Ich biete Dienstleistungen in den Bereichen manuelle Therapie, Reformer Pilates und Physiotherapie an.",
+        "professionalBackgroundText2": "Ich nehme regelmäßig an Schulungen teil, um mich im sich kontinuierlich entwickelnden Bereich der Physiotherapie auf dem Laufenden zu halten und konzentriere mich darauf, zum Heilungsprozess der Patienten beizutragen.",
+        "specializations": [
+          "Manuelle Therapie-Techniken",
+          "Reformer Pilates-Schulung",
+          "Orthopädische Rehabilitation",
+          "Osteopathische Ansätze",
+          "Sportler-Rehabilitation"
+        ],
+        "education": {
+          "university": "İzmir Tınaz Tepe Universität",
+          "department": "Physiotherapie und Rehabilitation",
+          "graduationYear": "2019",
+          "continuingEducation1": "Manuelle Therapie - DBE Academy",
+          "continuingEducation2": "Reformer Pilates - KP Academy"
+        },
+        "services": [
+          {
+            "title": "Manuelle Therapie",
+            "description": "Gelenkmobilisation und Weichgewebetechniken"
+          },
+          {
+            "title": "Reformer Pilates",
+            "description": "Gerätegestütztes Pilates für Kräftigung und Flexibilität"
+          },
+          {
+            "title": "Orthopädische Behandlung",
+            "description": "Rehabilitation von Muskel-Skelett-System-Verletzungen"
+          },
+          {
+            "title": "Sportler-Rehabilitation",
+            "description": "Spezielle Behandlungsprogramme für Sportverletzungen"
+          }
+        ]
+      },
+      "gozde": {
+        "professionalBackgroundText1": "Ich bin Absolventin der Dokuz Eylül Universität Physiotherapie und Rehabilitation. Ich biete Dienstleistungen in den Bereichen klinisches Pilates, manuelle Therapie und therapeutische Übungen an.",
+        "professionalBackgroundText2": "Ich wende personalisierte Behandlungsansätze an, um die Lebensqualität meiner Patienten zu steigern und ihre funktionalen Kapazitäten zu verbessern.",
+        "specializations": [
+          "Klinisches Pilates",
+          "Manuelle Therapie",
+          "Therapeutische Übungen",
+          "Haltungsanalyse",
+          "Schmerzmanagement"
+        ],
+        "education": {
+          "university": "Dokuz Eylül Universität",
+          "department": "Physiotherapie und Rehabilitation",
+          "graduationYear": "2018",
+          "continuingEducation1": "Klinisches Pilates-Training",
+          "continuingEducation2": "Osteopathische Manuelle Therapie-Training"
+        },
+        "services": [
+          {
+            "title": "Klinisches Pilates",
+            "description": "Rehabilitationsorientierte Pilates-Programme"
+          },
+          {
+            "title": "Manuelle Therapie",
+            "description": "Behandlung und Mobilisation mit Handtechniken"
+          },
+          {
+            "title": "Übungstherapie",
+            "description": "Personalisierte Übungsprogramme"
+          },
+          {
+            "title": "Haltungskorrektur",
+            "description": "Analyse und Behandlung von Haltungsstörungen"
+          }
+        ]
+      }
+    }
+  }
+}

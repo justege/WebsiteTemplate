@@ -1,0 +1,317 @@
+fragment DailyStatsFields on DailyActivityStats {
+  id
+  date
+  productId
+  activeUsers
+  totalUsersLast30Days
+  inactiveUsers
+  noActionVisitors
+  churnRate
+  averageUserInteraction
+  averageActivitiesPerUser
+  averageClicksPerUser
+  averagePageChangesPerUser
+  averageFormSubmitsPerUser
+  totalDailyActivities
+  uniqueProductViews
+  uniqueProductsInCart
+  uniqueCheckoutProducts
+  averageCartValue
+    averageCheckoutValue
+  totalCartValue
+  totalCartItems
+  uniqueCartSessions
+  uniqueCheckoutSessions
+  cartAbandonmentRate
+
+  userEmails {
+    activeUserEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    viewedProductEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    addedToCartEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    checkedOutEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    checkoutPageVisitorEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    checkoutPageAbandonerEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    checkoutPageCompletedEmails {
+      email
+      country
+      deviceType
+      source
+    }
+  }
+  productInteractions {
+    products {
+      key
+      value {
+        viewedByUsers
+        addedToCartByUsers
+        checkedOutByUsers
+        lastInteraction
+      }
+    }
+  }
+  segmentStats {
+    segmentId
+    segmentName
+    userCount
+  }
+  slaStats {
+    slaId
+    slaName
+    userCount
+  }
+}
+
+fragment WeeklyStatsFields on WeeklyActivityStats {
+  id
+  weekStartDate
+  weekEndDate
+  productId
+  totalUniqueUsers
+  averageActiveUsersPerDay
+  averageInactiveUsers
+  averageChurnRate
+  averageUserInteraction
+  averageActivitiesPerUser
+  averageClicksPerUser
+  averagePageChangesPerUser
+  averageFormSubmitsPerUser
+  totalWeeklyActivities
+  averageDailyActivities
+  totalUniqueProductViews
+  totalUniqueProductsInCart
+  totalUniqueCheckoutProducts
+  averageCartValue
+  totalCartValue
+  totalCartItems
+  totalCheckoutSessions
+  totalCartSessions
+  averageCartAbandonmentRate
+
+}
+
+fragment UserActivityFields on UserDailyActivity {
+  id
+  userId
+  productId
+  date
+  userEmail
+  lastActive
+  activities {
+    timestamp
+    actionType
+    url
+    referrer
+    activityDetails {
+      timestamp
+      action
+      actionText
+    }
+  }
+
+  metrics {
+    totalActions
+    buttonClicks
+    pageViews
+    formSubmits
+    visitedPages
+    firstAction
+    lastAction
+  }
+}
+
+fragment AllTimeProductActivityStatsFields on AllTimeProductActivityStats {
+  productId
+  totalActiveUsers
+  noActionVisitors
+  totalVisitsCount
+  totalCartsCount
+  totalCheckoutsCount
+  averageCartValue
+  totalCartValue
+  totalCartItems
+  totalUniqueProducts
+  cartAbandonmentRate
+  
+  # Additional metrics from DailyStats
+  inactiveUsers
+  churnRate
+  averageUserInteraction
+  averageActivitiesPerUser
+  averageClicksPerUser
+  averagePageChangesPerUser
+  averageFormSubmitsPerUser
+  totalActivities
+  uniqueProductViews
+  uniqueProductsInCart
+  uniqueCartSessions
+  uniqueCheckoutSessions
+  averageCheckoutValue
+  
+  # Checkout metrics
+  totalCheckoutValue
+  totalCheckoutItems
+  checkoutPageVisitorsCount
+  checkoutPageAbandonersCount
+  checkoutPageCompletedCount
+  checkoutCompletionRate
+  
+  # User collections
+  uniqueUserIds
+  uniqueAnonymousIds
+  uniqueEmails
+  
+  # Product collections
+  uniqueViewedProducts
+  uniqueCartProducts
+  uniqueCheckoutProducts
+  
+  # Product counters
+  productViewCounts {
+    key
+    value
+  }
+  productCartCounts {
+    key
+    value
+  }
+  productCheckoutCounts {
+    key
+    value
+  }
+  
+  # User interactions
+  userProductInteractions {
+    userId
+    anonymousId
+    email
+    viewedProducts
+    addedToCartProducts
+    checkedOutProducts
+    lastInteraction
+  }
+  
+  # Email statistics
+  userEmails {
+    activeUserEmails {
+      email
+      country
+      deviceType
+      source
+    }
+
+    viewedProductEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    addedToCartEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    checkedOutEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    checkoutPageVisitorEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    checkoutPageAbandonerEmails {
+      email
+      country
+      deviceType
+      source
+    }
+    checkoutPageCompletedEmails {
+      email
+      country
+      deviceType
+      source
+    }
+  }
+  
+  # SLA and segments
+  slaStats {
+    slaId
+    slaName
+    userCount
+  }
+  segmentStats {
+    segmentId
+    segmentName
+    userCount
+  }
+  
+  # Shopify metrics
+  shopifyMetrics {
+    viewedProducts
+    cartProducts
+    checkoutProducts
+    productViewCounts {
+      key
+      value
+    }
+    productCartCounts {
+      key
+      value
+    }
+    productCheckoutCounts {
+      key
+      value
+    }
+    cartSessions {
+      sessionId
+      userEmail
+      totalValue
+      itemCount
+      products
+      timestamp
+    }
+    checkoutSessions {
+      sessionId
+      userEmail
+      totalValue
+      itemCount
+      products
+      timestamp
+      completed
+    }
+  }
+}

@@ -1,0 +1,4 @@
+input SaveSegmentSLAInput {
+  slaId: String!
+  operator: String!
+} 

@@ -1,0 +1,20 @@
+query GetCohortAnalysis($productId: String!, $startDate: DateTime, $endDate: DateTime) {
+  cohortAnalysis(productId: $productId, startDate: $startDate, endDate: $endDate) {
+    cohorts {
+      cohortDate
+      userCount
+      userEmails
+      retentionData {
+        period
+        activeUsers
+        activeUserEmails {
+          email
+          country
+          deviceType
+          source
+        }
+        retentionRate
+      }
+    }
+  }
+} 

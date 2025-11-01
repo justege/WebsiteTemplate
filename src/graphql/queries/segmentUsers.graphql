@@ -1,0 +1,13 @@
+query GetLatestSegmentsWithUsers($productId: String!) {
+  latestSegmentsWithUsers(productId: $productId) {
+    segmentId
+    segmentName
+    label
+    description
+    isActive
+    snapshotDate
+    users {
+      email
+    }
+  }
+} 

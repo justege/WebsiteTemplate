@@ -1,0 +1,81 @@
+query GetCampaignsByProduct($productId: String!) {
+  campaignsByProduct(productId: $productId) {
+    id
+    name
+    description
+    productId
+    segmentId
+    status
+    triggerSettings {
+      enabled
+      time
+      timezone
+      webhookUrl
+      integrationType
+    }
+    triggerHistory {
+      id
+      executedAt
+      snapshotDate
+      success
+      error
+      userCount
+      segmentUsers {
+        users
+        total
+      }
+      webhookCall {
+        id
+        timestamp
+        status
+        statusCode
+        responseTime
+        error
+      }
+    }
+    createdBy
+    createdAt
+    updatedAt
+  }
+}
+
+query GetCampaignById($campaignId: String!) {
+  campaignById(campaignId: $campaignId) {
+    id
+    name
+    description
+    productId
+    segmentId
+    status
+    triggerSettings {
+      enabled
+      time
+      timezone
+      webhookUrl
+      integrationType
+    }
+    triggerHistory {
+      id
+      executedAt
+      snapshotDate
+      success
+      error
+      userCount
+      segmentUsers {
+        users
+        total
+      }
+      webhookCall {
+        id
+        timestamp
+        status
+        statusCode
+        responseTime
+        error
+      }
+    }
+    createdBy
+    createdAt
+    updatedAt
+  }
+} 

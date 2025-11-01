@@ -1,0 +1,20 @@
+query GetProductUsageStats($productId: String!) {
+  productUsageStats(productId: $productId) {
+    productId
+    name
+    remainingCredit
+    lastPaymentDate
+    nextBillingDate
+    totalRawDataCount
+    totalTokensCount
+    lastUsageReset
+    paymentHistory {
+      id
+      amount
+      paymentDate
+      paymentMethod
+      status
+      description
+    }
+  }
+} 

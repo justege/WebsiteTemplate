@@ -1,0 +1,18 @@
+query GetSLAConfigurations($productId: String!) {
+  slaConfigurations(productId: $productId) {
+    id
+    productId
+    name
+    label
+    rules {
+      id
+      conditions {
+        type
+        value
+      }
+      operator
+    }
+    createdAt
+    updatedAt
+  }
+} 
