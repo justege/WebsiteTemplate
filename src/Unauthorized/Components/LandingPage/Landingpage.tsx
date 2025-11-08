@@ -106,7 +106,7 @@ const LandingPage = () => {
                 }}
                 transition="all 0.3s"
               >
-                Koleksiyonu İncele
+                Koleksiyonu İncels
               </Button>
             </HStack>
           </VStack>
